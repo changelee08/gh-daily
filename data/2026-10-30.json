@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "generated": "2026-10-30T10:46",
+ "generated": "2026-10-30T10:49",
  "projects": [
   {
    "name": "valentderah/totk-pc-recomp",
@@ -8,19 +8,19 @@
    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
    "language": "C",
    "topics": [],
-   "stars": 573,
+   "stars": 576,
    "forks": 28,
    "created": "2026-10-29",
    "age": 1,
-   "velocity": 573.0,
+   "velocity": 576.0,
    "velocity_measured": false,
    "new": true,
    "hn": null,
    "owner_avatar": "https://avatars.githubusercontent.com/u/41872026?v=4",
-   "score": 9.529,
+   "score": 9.537,
    "default_branch": "main",
-   "summary": "将《塞尔达传说 王国之泪》静态重编译为原生 Windows 程序，自带 Vulkan 渲染器。需自备合法转储的游戏文件，仓库不含游戏本体。",
-   "highlight": "原生代码而非模拟器；支持 60fps 至 144fps，并提供 FSR 1 超分与自定义分辨率",
+   "summary": "将《塞尔达传说 王国之泪》静态重编译为原生 Windows x86-64 程序，使用 Vulkan 渲染。需自备合法游戏文件。",
+   "highlight": "原生代码而非模拟器运行，支持 60/144fps、自定义分辨率与 FSR 升频",
    "category": "游戏/逆向"
   },
   {
@@ -36,19 +36,19 @@
     "apple-tv",
     "bloatware-removal"
    ],
-   "stars": 45584,
+   "stars": 45586,
    "forks": 5593,
    "created": "2026-10-17",
    "age": 13,
-   "velocity": 3506.5,
+   "velocity": 3506.6,
    "velocity_measured": false,
    "new": true,
    "hn": null,
    "owner_avatar": "https://avatars.githubusercontent.com/u/94786511?v=4",
    "score": 9.295,
    "default_branch": "main",
-   "summary": "通过 Wi-Fi 用 adb 精简安卓或 Google TV 的预装软件，并替换为类似 Apple TV 的主屏，关闭大部分追踪与广告推送。",
-   "highlight": "可让 AI 编程助手按指南约十五分钟完成全部操作，适合不熟悉命令行的用户",
+   "summary": "通过 Wi-Fi 用 adb 精简安卓或 Google TV 的预装臃肿应用，并替换为类似 Apple TV 的主屏。",
+   "highlight": "无需 root，可由编程助手引导约十五分钟完成，并附带主屏启动器",
    "category": "系统/硬件工具"
   },
   {
@@ -62,19 +62,19 @@
     "dsh",
     "dsh-plugin"
    ],
-   "stars": 265909,
-   "forks": 32239,
+   "stars": 265915,
+   "forks": 32242,
    "created": "2026-08-13",
    "age": 78,
-   "velocity": 3409.1,
+   "velocity": 3409.2,
    "velocity_measured": false,
    "new": true,
    "hn": null,
    "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4",
    "score": 8.595,
    "default_branch": "master",
-   "summary": "DeepSeek 官方开源的智能体运行框架，基于 Cordis 的「一切皆插件」架构，可通过 npx 启动 Web 界面。",
-   "highlight": "全部功能以插件实现，目前处于开发者预览阶段，接口会有不兼容变更",
+   "summary": "DeepSeek 官方开源的智能体运行框架（dsh），采用一切皆插件架构，基于 Cordis 构建。",
+   "highlight": "全部功能为插件，目前处于开发者预览，接口会有破坏性变更",
    "category": "AI Agent"
   },
   {
@@ -90,19 +90,19 @@
     "images",
     "photo-editing"
    ],
-   "stars": 74872,
+   "stars": 74874,
    "forks": 13224,
    "created": "2026-09-30",
    "age": 30,
-   "velocity": 2495.7,
+   "velocity": 2495.8,
    "velocity_measured": false,
    "new": true,
    "hn": null,
    "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
    "score": 8.537,
    "default_branch": "main",
-   "summary": "用纯 Rust 编写的开源图像编辑器，支持图层、蒙版、调整图层、文字、矢量和 PSD 文件，目标是复刻 Photoshop 的操作习惯。",
-   "highlight": "基于 wgpu 的 GPU 合成，不依赖 Electron；重新保存 PSD 时 309 个测试文件中有 307 个渲染结果一致",
+   "summary": "用纯 Rust 从零实现的开源图像编辑器，支持图层、蒙版、调整图层、文字和 PSD 文件。",
+   "highlight": "基于 wgpu 的 GPU 合成，每个操作都是命令，便于 Agent 与 CLI 驱动",
    "category": "桌面/移动应用"
   },
   {
@@ -111,7 +111,7 @@
    "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
    "language": "Python",
    "topics": [],
-   "stars": 24267,
+   "stars": 24268,
    "forks": 2909,
    "created": "2026-10-16",
    "age": 14,
@@ -122,8 +122,8 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4",
    "score": 8.455,
    "default_branch": "main",
-   "summary": "DeepSeek 大规模线上服务所用推理框架的离线开源版本，目前支持 DeepSeek-V4.1-Flash，包含并行策略与投机解码等能力。",
-   "highlight": "集成 MTP 投机解码、批次不变推理与确定性采样，核心算子来自 FlashMLA、DeepGEMM 等官方库",
+   "summary": "DeepSeek 大规模生产服务所用推理框架的开源离线版，支持并行、投机解码与结构化输出。",
+   "highlight": "目前仅支持 DeepSeek-V4.1-Flash，集成 FlashMLA、DeepGEMM 等专用内核",
    "category": "LLM/AI 基础设施"
   },
   {
@@ -139,19 +139,19 @@
     "geography",
     "high-school"
    ],
-   "stars": 973,
-   "forks": 269,
+   "stars": 975,
+   "forks": 268,
    "created": "2026-10-28",
    "age": 2,
-   "velocity": 486.5,
+   "velocity": 487.5,
    "velocity_measured": false,
    "new": true,
    "hn": null,
    "owner_avatar": "https://avatars.githubusercontent.com/u/142080035?v=4",
-   "score": 8.378,
+   "score": 8.38,
    "default_branch": "main",
-   "summary": "面向高中的免费交互式 3D 理化生地课件，共 54 节，对应人教版 2019 教材，每节课是一个可离线打开的单文件 HTML。",
-   "highlight": "每个文件约 1MB，双击即可离线运行，适合投影和电子白板，附带可供教师逐步操作的步骤路径",
+   "summary": "面向高中的免费交互式 3D 理科课程，覆盖物理、化学、生物和地理，每课为单文件 HTML。",
+   "highlight": "每课约 1MB 单文件，双击即可离线打开，适合投影和电子白板",
    "category": "学习/教育"
   },
   {
@@ -171,8 +171,8 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/39777629?v=4",
    "score": 8.064,
    "default_branch": "main",
-   "summary": "离线、只读的开源工具，检查电脑、安卓手机和 iPhone 备份中是否残留 Pegasus、Predator 等已知商业间谍软件的痕迹。",
-   "highlight": "扫描期间不发起网络请求；报告会注明证据强度与未能检查的范围，不把无发现等同于安全",
+   "summary": "离线检查电脑、安卓手机和 iPhone 备份中是否残留已知商业间谍软件痕迹的只读工具。",
+   "highlight": "扫描期间不联网，报告会说明检测局限，不把无发现当作安全证明",
    "category": "安全"
   },
   {
@@ -188,19 +188,19 @@
     "debloat",
     "hyperos"
    ],
-   "stars": 4770,
+   "stars": 4775,
    "forks": 430,
    "created": "2026-10-24",
    "age": 6,
-   "velocity": 795.0,
+   "velocity": 795.8,
    "velocity_measured": false,
    "new": true,
    "hn": null,
    "owner_avatar": "https://avatars.githubusercontent.com/u/5119232?v=4",
-   "score": 8.043,
+   "score": 8.044,
    "default_branch": "main",
-   "summary": "不 root 即可关闭国产安卓系统中的广告、热搜、资讯推荐和营销推送，提供 Mac 与 Windows 桌面客户端，操作可还原。",
-   "highlight": "通过 adb 执行，内置多款机型脚本，并支持 AI 智能体一键运行；暂不支持原生鸿蒙",
+   "summary": "通过 adb 关闭国产安卓系统中的广告、热搜和营销推送，不需 root，操作可还原。",
+   "highlight": "提供免 Python 的桌面客户端，并支持 AI 智能体一键执行",
    "category": "系统/硬件工具"
   },
   {
@@ -209,19 +209,19 @@
    "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
    "language": "C",
    "topics": [],
-   "stars": 13134,
-   "forks": 1284,
+   "stars": 13137,
+   "forks": 1285,
    "created": "2026-10-18",
    "age": 12,
-   "velocity": 1094.5,
+   "velocity": 1094.8,
    "velocity_measured": false,
    "new": true,
    "hn": null,
    "owner_avatar": "https://avatars.githubusercontent.com/u/865977?v=4",
    "score": 8.009,
    "default_branch": "main",
-   "summary": "解除 GeForce 20/30/40 系显卡张量核心的 FP16、BF16、TF32 半速限制，号称吞吐最高提升 2 倍，适合 AI 训练和推理。",
-   "highlight": "开机时于原版驱动加载前生效，无需打补丁驱动或刷 VBIOS，驱动更新后无需重做",
+   "summary": "据 README 称，可在驱动加载前解除 GeForce 30/40 系列张量核心的半速限制，提升 FP16、BF16 等 AI 计算吞吐。",
+   "highlight": "无需修改驱动或刷写 VBIOS，驱动更新后也不用重新操作。",
    "category": "系统/硬件工具"
   },
   {
@@ -237,19 +237,19 @@
     "fsrs",
     "ielts"
    ],
-   "stars": 3253,
-   "forks": 713,
+   "stars": 3255,
+   "forks": 714,
    "created": "2026-10-25",
    "age": 5,
-   "velocity": 650.6,
+   "velocity": 651.0,
    "velocity_measured": false,
    "new": true,
    "hn": null,
    "owner_avatar": "https://avatars.githubusercontent.com/u/17679892?v=4",
-   "score": 7.928,
+   "score": 7.929,
    "default_branch": "main",
-   "summary": "雅思背词应用及数据集，7298 个词配原创插画和英美发音，用 FSRS 算法安排间隔复习，无需注册账号。",
-   "highlight": "词库以 CC BY 4.0 开放，学习进度只存在本地设备上",
+   "summary": "用插画和语境辅助记忆的雅思背词应用，收录 7298 个词条，含英美发音和 FSRS 间隔复习，无需账号。",
+   "highlight": "应用代码与词库数据集分开授权，数据集以 CC BY 4.0 发布，可单独下载复用。",
    "category": "学习/教育"
   },
   {
@@ -265,20 +265,20 @@
     "dsh",
     "dsh-plugin"
    ],
-   "stars": 51081,
+   "stars": 51087,
    "forks": 1396,
    "created": "2026-09-24",
    "age": 36,
-   "velocity": 1418.9,
+   "velocity": 1419.1,
    "velocity_measured": false,
    "new": true,
    "hn": null,
    "owner_avatar": "https://avatars.githubusercontent.com/u/245557608?v=4",
    "score": 7.863,
    "default_branch": "main",
-   "summary": "dsh 插件，宣称装上即可免登录、免 API Key 使用 DeepSeek、Kimi 等前沿模型，并声称免费不限量，实际可用性取决于上游网关。",
-   "highlight": "模型清单随上游刷新并实测可用性，另提供 OpenAI 兼容的本地转发端口",
-   "category": "LLM/AI 基础设施"
+   "summary": "dsh 插件，接入 OpenCode 与 Kilo 公共网关的前沿模型，无需登录或 API Key，并提供本地 OpenAI 兼容转发端口。",
+   "highlight": "宣称免费不限量，实际可用性依赖上游网关政策，需自行实测。",
+   "category": "AI Agent"
   },
   {
    "name": "pengchujin/aerial-tv",
@@ -297,8 +297,8 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/16513318?v=4",
    "score": 7.71,
    "default_branch": "main",
-   "summary": "参照 Apple TV 设计的 Android TV 桌面替换程序，无广告、开机自动接管，适用于小米、TCL 等国产电视和盒子。",
-   "highlight": "无需 root，不改系统应用，通过 ADB 安装即可随时还原，支持航拍屏保",
+   "summary": "参照 Apple TV 设计的开源 Android TV 桌面，无广告无推荐流，开机自动接管，适配小米、TCL 等国产电视。",
+   "highlight": "支持航拍屏保，可扫码用手机整理图标，并能设置开机直接进入指定应用或信号源。",
    "category": "桌面/移动应用"
   },
   {
@@ -307,19 +307,19 @@
    "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
    "language": "C",
    "topics": [],
-   "stars": 4528,
+   "stars": 4529,
    "forks": 579,
    "created": "2026-10-23",
    "age": 7,
-   "velocity": 646.9,
+   "velocity": 647.0,
    "velocity_measured": false,
    "new": true,
    "hn": null,
    "owner_avatar": "https://avatars.githubusercontent.com/u/62031663?v=4",
    "score": 7.697,
    "default_branch": "main",
-   "summary": "面向 RTX 4090 及部分 Ada 显卡的 Linux 内核模块，在驱动加载前解除张量核心速率限制，实测 FP16 吞吐约翻倍。",
-   "highlight": "附前后对比数据和技术报告，但仍为实验性方案，整体应用加速未经验证",
+   "summary": "面向 RTX 4090 等 Ada 显卡的 Linux 内核模块，在驱动启动前解除张量吞吐限制，作者实测 FP16 约翻倍。",
+   "highlight": "提供 FP16、BF16 的前后对比数据，但测试为单次对比，并非完整应用加速。",
    "category": "系统/硬件工具"
   },
   {
@@ -344,8 +344,8 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/96392276?v=4",
    "score": 7.678,
    "default_branch": "main",
-   "summary": "Claude 等智能体的技能插件，把技术概念转化为可交互的等距机械插画，输出 SVG，可加 WebGL 效果。",
-   "highlight": "图中数值和运动由同一个小模型驱动，并会放大检查每个接缝",
+   "summary": "一个智能体技能，可生成带交互效果的等轴测真实机械与复杂系统插图，以 SVG 输出，并可选 WebGL 与 3D 效果。",
+   "highlight": "图中展示的数字来自驱动部件运动的同一个小模型，示意数据与动画保持一致。",
    "category": "AI Agent"
   },
   {
@@ -354,19 +354,19 @@
    "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
    "language": "C++",
    "topics": [],
-   "stars": 36040,
-   "forks": 3894,
+   "stars": 36043,
+   "forks": 3895,
    "created": "2026-09-24",
    "age": 36,
-   "velocity": 1001.1,
+   "velocity": 1001.2,
    "velocity_measured": false,
    "new": true,
    "hn": null,
    "owner_avatar": "https://avatars.githubusercontent.com/u/86886444?v=4",
    "score": 7.486,
    "default_branch": "main",
-   "summary": "面向消费级电脑的本地大模型推理引擎，一键安装，在 localhost 提供 OpenAI 与 Anthropic 兼容接口，支持图片输入。",
-   "highlight": "显存和内存放不下的权重从 SSD 读取，可跑超大模型但需要大量磁盘",
+   "summary": "面向消费级硬件的本地大模型推理引擎，支持一键安装，在本机提供 OpenAI 与 Anthropic 兼容接口，可输入图片。",
+   "highlight": "装不进内存的部分可从 SSD 读取，因此能运行超大模型，但需要大量磁盘空间。",
    "category": "LLM/AI 基础设施"
   },
   {
@@ -375,20 +375,20 @@
    "description": "",
    "language": "Python",
    "topics": [],
-   "stars": 21335,
+   "stars": 21338,
    "forks": 2116,
    "created": "2026-10-06",
    "age": 24,
-   "velocity": 889.0,
+   "velocity": 889.1,
    "velocity_measured": false,
    "new": true,
    "hn": null,
    "owner_avatar": "https://avatars.githubusercontent.com/u/43830688?v=4",
    "score": 7.484,
    "default_branch": "main",
-   "summary": "谷歌研究的递归智能体 harness 框架，在固定模型权重下，通过提议、探测、组合步骤迭代优化执行框架。",
-   "highlight": "只优化外围 harness 而不动模型权重，在三个专业基准上有实测提升",
-   "category": "模型/研究"
+   "summary": "Google Research 开源的递归智能体 harness 优化框架，在模型权重不变的前提下，迭代改进提示、工具等执行环境。",
+   "highlight": "支持 OpenCode 与 Codex 执行器，以及并行和串行递归，论文基准上提升了 GLM-5 等模型表现。",
+   "category": "AI Agent"
   },
   {
    "name": "aschmelyun/print-my-profile-pic",
@@ -396,20 +396,20 @@
    "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
    "language": null,
    "topics": [],
-   "stars": 983,
+   "stars": 985,
    "forks": 2,
    "created": "2026-10-27",
    "age": 3,
-   "velocity": 327.7,
+   "velocity": 328.3,
    "velocity_measured": false,
    "new": true,
    "hn": null,
    "owner_avatar": "https://avatars.githubusercontent.com/u/3395980?v=4",
-   "score": 7.468,
+   "score": 7.471,
    "default_branch": "main",
-   "summary": "给仓库点 Star 后，作者用树莓派和热敏小票打印机把你的头像加框打印出来，贴到墙上的趣味项目。",
-   "highlight": "由 Star 事件 webhook 触发，经 Cloudflare 隧道连到桌上的树莓派",
-   "category": "自托管应用"
+   "summary": "给仓库点星后，作者的树莓派会通过热敏打印机打出你的头像相框小票，事件经 Cloudflare 隧道接收 GitHub webhook。",
+   "highlight": "整套流程由 Star 事件驱动，属于带趣味性质的硬件联动项目，而非通用工具。",
+   "category": "系统/硬件工具"
   },
   {
    "name": "andyhuo520/digital-human-koubo",
@@ -428,8 +428,8 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/187917479?v=4",
    "score": 7.394,
    "default_branch": "main",
-   "summary": "输入一张照片和一句话，自动生成数字人口播视频，包含文案、口型同步、语音降噪、字幕和包装，以 Agent 技能形式安装使用。",
-   "highlight": "生成依赖 Renoise 云端 MCP 服务并按积分计费，不是本地开源模型",
+   "summary": "一张照片加一句话，自动生成数字人口播视频，包含文案、口型同步、字幕和包装，作为 Claude Code 等 Agent 的技能运行。",
+   "highlight": "依赖 Renoise 云端生成并按积分计费，内置 48 个创作者级包装组件。",
    "category": "AI Agent"
   },
   {
@@ -449,8 +449,8 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
    "score": 7.271,
    "default_branch": "main",
-   "summary": "用纯 Rust 从零实现的开源文字处理器，界面和操作习惯仿照 Word，支持读写 .docx、修订、引用和邮件合并。",
-   "highlight": "清洁室重写不依赖 Office 代码，可编译到 WebAssembly 在浏览器中运行",
+   "summary": "用纯 Rust 从零实现的开源文字处理器，支持 .docx 读写、修订、目录和邮件合并，覆盖主流桌面系统与浏览器。",
+   "highlight": "纯 Rust 实现且不复刻微软代码，可通过 WebAssembly 在浏览器中运行。",
    "category": "桌面/移动应用"
   },
   {
@@ -477,8 +477,8 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/194880281?v=4",
    "score": 7.25,
    "default_branch": "main",
-   "summary": "MiniMax Code 团队日常使用的工作流与 SKILL.md 技能集，涵盖 AI 代码质量、子代理分工、长任务等待等实践，可直接安装。",
-   "highlight": "Claude Code 中一条插件命令即可安装整套技能",
+   "summary": "MiniMax Code 团队日常使用的工作流与技能集，以 SKILL.md 形式安装到 Claude Code 等环境，覆盖代码质量和子代理分配等。",
+   "highlight": "团队实际在用的做法而非提示词合集，Claude Code 下一条命令即可安装。",
    "category": "AI Agent"
   },
   {
@@ -505,8 +505,8 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/48623612?v=4",
    "score": 7.235,
    "default_branch": "main",
-   "summary": "多语言非自回归决策引擎，单次前向完成选择、打分和是非判断，支持 100 多种语言，可通过 pip 安装。",
-   "highlight": "单次前向约 33ms 出结构化决策，无需逐词生成文本",
+   "summary": "非自回归的决策引擎，单次前向传播即可完成选择、打分和是非判断，支持 100 多种语言。",
+   "highlight": "约 33ms 完成一次决策，并按请求路由到合适的检查点，支持 LangChain、MCP 等集成。",
    "category": "LLM/AI 基础设施"
   },
   {
@@ -526,8 +526,8 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/6751787?v=4",
    "score": 7.22,
    "default_branch": "main",
-   "summary": "T3 作者日常使用的 Agent 技能集，覆盖 PR 编写、CI 跟进、多模型互审直到合并的全流程，支持 Claude Code 与 Codex。",
-   "highlight": "full-send 技能可在无人值守下完成从改动到合并 PR",
+   "summary": "作者日常使用的 Agent 技能集，支持 Claude Code 和 Codex，可自动推进 PR、审查代码直至达成一致。",
+   "highlight": "council 技能让三家不同厂商的模型互相审查，直到结论一致。",
    "category": "AI Agent"
   },
   {
@@ -554,8 +554,8 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/192837953?v=4",
    "score": 7.133,
    "default_branch": "main",
-   "summary": "面向 Google TV、LG webOS 和三星 Tizen 的无广告电视主屏幕，展示已安装应用的热门推荐、天气和收藏应用。",
-   "highlight": "推荐只来自用户已安装的应用，且支持一键撤销回原系统主屏",
+   "summary": "无广告的电视主屏幕替代方案，支持 Google TV、LG webOS 和三星 Tizen，可一键还原系统主屏。",
+   "highlight": "热门推荐仅来自用户已安装的应用，没有任何赞助位和自动播放广告。",
    "category": "桌面/移动应用"
   },
   {
@@ -575,8 +575,8 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/3463322?v=4",
    "score": 7.127,
    "default_branch": "main",
-   "summary": "将用户自有的 Switch 游戏 NSP 转换为可侧载的 IPA，在 iPhone、iPad 和 Mac 上原生运行而非模拟，图形渲染转译到 Metal。",
-   "highlight": "不是模拟器，游戏代码直接在 Apple 芯片上执行",
+   "summary": "将用户自有的 Switch NSP 游戏转换为可侧载到 iPhone、iPad 和 Mac 的未签名 IPA，原生运行而非模拟。",
+   "highlight": "游戏代码直接在 Apple 芯片上执行，Switch 图形接口重写为 Metal，不是模拟器。",
    "category": "游戏/逆向"
   },
   {
@@ -596,9 +596,9 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/316605581?v=4",
    "score": 7.084,
    "default_branch": "main",
-   "summary": "可在一台服务器上运行的 AI 直播主播，支持复刻声音、实时数字人、读弹幕、长期记忆、写日记并按时间表自动开播下播。",
-   "highlight": "语音、形象、弹幕、记忆和发帖整合在一套本地部署代码中，可接入 TwinOasis 世界",
-   "category": "自托管应用"
+   "summary": "可单机部署的 AI 直播主播，支持复刻声音和实时数字人形象，读弹幕回话，并能记住常客、自主发帖和开播。",
+   "highlight": "用 Markdown 文件夹承载长期记忆与性格，可接入 TwinOasis 虚拟世界。",
+   "category": "AI Agent"
   },
   {
    "name": "yetone/magpie",
@@ -613,19 +613,19 @@
     "llm",
     "macos"
    ],
-   "stars": 25513,
-   "forks": 2107,
+   "stars": 25519,
+   "forks": 2108,
    "created": "2026-09-23",
    "age": 37,
-   "velocity": 689.5,
+   "velocity": 689.7,
    "velocity_measured": false,
    "new": true,
    "hn": null,
    "owner_avatar": "https://avatars.githubusercontent.com/u/1206493?v=4",
    "score": 7.075,
    "default_branch": "main",
-   "summary": "macOS 菜单栏应用加本地网关，让 Claude Code、Codex、Gemini CLI 等 Agent 共用各家模型，并可在菜单栏直接切换。",
-   "highlight": "配额用尽时自动切到同组的下一个账号或模型，Agent 本身感知不到报错",
+   "summary": "macOS 菜单栏应用，为 Claude Code、Codex 等编程 Agent 统一切换模型，通过本地网关统一管理多种模型来源。",
+   "highlight": "额度用尽时自动切换到下一个账号或模型，Agent 本身感知不到错误。",
    "category": "LLM/AI 基础设施"
   },
   {
@@ -652,8 +652,8 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/1425386?v=4",
    "score": 7.07,
    "default_branch": "main",
-   "summary": "在 Apple 芯片的 Mac、iPhone 和 iPad 上原生运行你自己拥有的《王国之泪》《旷野之息》，不是模拟器，而是把 NVN 图形接口重建到 Metal 上。",
-   "highlight": "直接运行游戏自身的 ARM64 代码，需自备正版游戏与从自有 Switch 导出的系统文件",
+   "summary": "在 Apple 芯片的 Mac、iPhone 和 iPad 上原生运行你自己拥有的《旷野之息》《王国之泪》，需自备游戏与系统文件。",
+   "highlight": "非模拟器，直接执行游戏 ARM64 代码，并将 NVN 图形接口重建到 Metal 上",
    "category": "游戏/逆向"
   },
   {
@@ -680,8 +680,8 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
    "score": 7.021,
    "default_branch": "main",
-   "summary": "纯 Rust 编写的开源 PDF 阅读与编辑器，支持阅读、整理、合并、拆分和加密，覆盖 macOS、Windows、Linux、FreeBSD 及网页。",
-   "highlight": "从零用纯 Rust 实现，不是封装现成的 PDF 引擎",
+   "summary": "用纯 Rust 从零编写的开源 PDF 阅读与编辑器，支持阅读、整理、合并拆分和加密，覆盖桌面端与网页。",
+   "highlight": "全部用 Rust 自研，同时支持 macOS、Windows、Linux、FreeBSD 和 Web",
    "category": "桌面/移动应用"
   },
   {
@@ -697,19 +697,19 @@
     "education",
     "elementary-school"
    ],
-   "stars": 5243,
-   "forks": 1335,
+   "stars": 5244,
+   "forks": 1337,
    "created": "2026-10-18",
    "age": 12,
-   "velocity": 436.9,
+   "velocity": 437.0,
    "velocity_measured": false,
    "new": true,
    "hn": null,
    "owner_avatar": "https://avatars.githubusercontent.com/u/79557224?v=4",
    "score": 6.96,
    "default_branch": "main",
-   "summary": "对齐中国课标的中小学数学、英语及初高中物理知识图谱，含 1644 个知识点、2403 条先修边和 6723 道题，附自适应前置诊断。",
-   "highlight": "答错后可沿先修边一路回溯到具体的小学知识点",
+   "summary": "对齐国内课标的中小学数学、英语与初中物理知识图谱，含 1644 个知识点、2403 条先修边和 6723 道题，附自适应诊断。",
+   "highlight": "数学答错会沿先修边回溯到具体小学知识点，诊断路径可追溯",
    "category": "学习/教育"
   },
   {
@@ -736,8 +736,8 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/343519248?v=4",
    "score": 6.92,
    "default_branch": "main",
-   "summary": "纯 Rust 开发的开源参数化三维 CAD 软件，支持草图约束和特征时间线，修改尺寸后模型自动重建，可在桌面或浏览器中使用。",
-   "highlight": "内置 MCP 服务器，AI Agent 可以直接参与建模",
+   "summary": "用纯 Rust 编写的开源参数化 3D CAD 软件，支持草图约束和特征时间线，可在桌面或浏览器中使用。",
+   "highlight": "内置 MCP 服务器，AI 代理可以直接驱动建模",
    "category": "桌面/移动应用"
   },
   {
@@ -753,19 +753,19 @@
     "video-editor",
     "video-processing"
    ],
-   "stars": 16873,
+   "stars": 16874,
    "forks": 6983,
    "created": "2026-09-30",
    "age": 30,
-   "velocity": 562.4,
+   "velocity": 562.5,
    "velocity_measured": false,
    "new": true,
    "hn": null,
    "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
    "score": 6.912,
    "default_branch": "main",
-   "summary": "纯 Rust 编写的开源非线性视频剪辑器，覆盖剪辑、调色、特效、音频和字幕，支持 macOS、Windows、Linux，并可通过 WebAssembly 在浏览器运行。",
-   "highlight": "H.264、HEVC、ProRes、AAC 编解码器自研，所有操作可由 AI Agent 驱动",
+   "summary": "用纯 Rust 编写的开源非线性视频编辑器，提供剪辑、调色、特效、音频和字幕功能，支持桌面端与浏览器。",
+   "highlight": "H.264、HEVC、ProRes 等编解码器自研，所有操作都能被 AI 代理精确调用",
    "category": "桌面/移动应用"
   },
   {
@@ -781,7 +781,7 @@
     "csharp",
     "document-converter"
    ],
-   "stars": 17509,
+   "stars": 17510,
    "forks": 1084,
    "created": "2026-09-29",
    "age": 31,
@@ -790,11 +790,11 @@
    "new": true,
    "hn": null,
    "owner_avatar": "https://avatars.githubusercontent.com/u/13937016?v=4",
-   "score": 6.907,
+   "score": 6.908,
    "default_branch": "main",
-   "summary": "免费开源的离线文件格式转换工具，通过拖拽在光标处选择目标格式，支持 263 种格式，无需安装 Office 即可处理文档、图片、音视频等。",
-   "highlight": "按住修饰键拖拽文件，在光标旁的环形菜单中直接选格式，不必打开程序窗口",
-   "category": "开发工具"
+   "summary": "开源离线文件格式转换工具，拖拽文件到光标处的圆环菜单即可转换，支持图片、PDF、Office、HWP 和电子书等。",
+   "highlight": "无需安装 Office，文件不上传，结果保存在原文件旁边",
+   "category": "桌面/移动应用"
   },
   {
    "name": "storytold/lightcraft",
@@ -820,8 +820,8 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
    "score": 6.788,
    "default_branch": "main",
-   "summary": "纯 Rust 开发的开源非破坏式照片库与 RAW 显影软件，支持调色、蒙版和预设，可在浏览器运行，也能通过 MCP 被 AI 操作。",
-   "highlight": "32 位浮点、场景参照的宽色域管线，所有调整不改动原图",
+   "summary": "用纯 Rust 编写的开源非破坏性照片库与 RAW 冲洗工具，支持调色、蒙版和预设，可在 Mac、Windows、Linux 与浏览器中使用。",
+   "highlight": "32 位浮点场景参考色彩管线，并可通过 MCP 让 AI 代理端到端操作",
    "category": "桌面/移动应用"
   },
   {
@@ -848,8 +848,8 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/2140110?v=4",
    "score": 6.78,
    "default_branch": "main",
-   "summary": "面向 Codex、Claude Code 等 Agent 的家谱研究技能，覆盖前苏联 15 国的教会簿、民事、军事和镇压档案，要求结论可溯源并区分证据与推断。",
-   "highlight": "按事件发生时的历史管辖区选择档案，并用使用者的语言回答",
+   "summary": "面向 Codex 与 Claude Code 的家谱研究技能，指导代理查阅前苏联教会档案、民事、军事和镇压记录，并以用户语言回复。",
+   "highlight": "严格区分档案记录与推断，每条结论都可追溯，并明确标出已证实与未证实的部分",
    "category": "AI Agent"
   },
   {
@@ -869,8 +869,8 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/192012301?v=4",
    "score": 6.774,
    "default_branch": "main",
-   "summary": "一个基于动态索引操作空间的浏览器代理，每步将页面元素编号成表，让模型只选择操作和目标，仅在输入文字时才生成文本。",
-   "highlight": "演示中在 Google Flights 上完成苏黎世到伦敦的航班查询仅需 7.1 秒",
+   "summary": "基于动态索引操作空间的浏览器智能体，每轮从页面生成元素表，由模型选择操作，仅在输入文本时才调用小模型生成内容。",
+   "highlight": "官方演示在 7.1 秒内完成 Google Flights 跨城搜索，操作空间受限，速度与成本更优",
    "category": "AI Agent"
   }
  ],
@@ -895,7 +895,7 @@
    "title": "A proof-of-concept formalization of the IRS federal tax forms",
    "url": "https://github.com/emmilco/us-tax-model",
    "hn_url": "https://news.ycombinator.com/item?id=50278678",
-   "points": 64,
+   "points": 65,
    "comments": 12,
    "github": "emmilco/us-tax-model"
   },
@@ -903,7 +903,7 @@
    "title": "I Turned DOOM into a Transformer",
    "url": "https://github.com/mottopanikeiku/doomformer",
    "hn_url": "https://news.ycombinator.com/item?id=50297697",
-   "points": 49,
+   "points": 51,
    "comments": 9,
    "github": "mottopanikeiku/doomformer"
   },
@@ -948,7 +948,7 @@
    "summary": "The Trinity framework recursively improves multimodal agents by organizing tasks into a capability tree, generating simulated training worlds, and routing specialized harness modules to boost performance on diverse benchmarks.",
    "url": "https://huggingface.co/papers/2610.36077",
    "github": "https://github.com/InfRec-Cardinal/The-Trinity",
-   "summary_zh": "提出Trinity框架，通过能力树组织任务、生成模拟训练环境并路由专用工具模块，递归提升多模态智能体在多个基准上的表现。"
+   "summary_zh": "提出Trinity框架，通过能力树组织任务、生成模拟训练环境并路由专用模块，递归自我改进多模态智能体以提升多项基准表现。"
   },
   {
    "id": "2610.35013",
@@ -957,7 +957,7 @@
    "summary": "Multiscale Policy Optimization improves long-horizon agent training by aligning credit assignment and policy updates at the turn scale.",
    "url": "https://huggingface.co/papers/2610.35013",
    "github": null,
-   "summary_zh": "提出多尺度策略优化（MSPO），在轮次尺度上对齐信用分配与策略更新，改进长时程LLM智能体的训练。"
+   "summary_zh": "提出Multiscale Policy Optimization，在回合尺度上对齐信用分配与策略更新，改进长时程LLM智能体的训练效果。"
   },
   {
    "id": "2610.32749",
@@ -966,7 +966,7 @@
    "summary": "Falcon is a lightweight causal audio-visual target speaker extraction method that achieves high quality with drastically reduced parameters and latency, supported by the realistic RealSSA benchmark.",
    "url": "https://huggingface.co/papers/2610.32749",
    "github": "https://github.com/JusperLee/Falcon",
-   "summary_zh": "提出Falcon，一种轻量级因果式音视频目标说话人提取方法，大幅降低参数量和延迟并保持高质量，并构建RealSSA基准。"
+   "summary_zh": "提出轻量级因果音视频目标说话人提取方法Falcon，大幅减少参数与延迟并保持高质量，并构建真实场景基准RealSSA。"
   },
   {
    "id": "2610.37381",
@@ -975,7 +975,7 @@
    "summary": "PDRVLA improves robot action generation by integrating a lightweight physical dynamics module that predicts future visual features with world-model supervision, avoiding online video generation latency.",
    "url": "https://huggingface.co/papers/2610.37381",
    "github": null,
-   "summary_zh": "提出PDRVLA，在视觉-语言-动作模型中加入轻量物理动力学模块，预测未来视觉特征并用世界模型监督，避免在线视频生成延迟。"
+   "summary_zh": "提出PDRVLA，通过轻量级物理动力学模块预测未来视觉特征并引入世界模型监督，提升机器人动作生成且避免在线视频生成延迟。"
   },
   {
    "id": "2610.35864",
@@ -984,7 +984,7 @@
    "summary": "VibeVideoBench evaluates multimodal agents that generate videos via code, finding that top systems meet core requirements on most tasks but frequently fail due to poor time management.",
    "url": "https://huggingface.co/papers/2610.35864",
    "github": null,
-   "summary_zh": "提出VibeVideoBench，评估多模态智能体通过代码生成视频的能力，发现顶尖系统多数满足核心要求但常因时间管理不善而失败。"
+   "summary_zh": "提出VibeVideoBench，评测多模态智能体通过代码生成视频的能力，发现顶尖系统多数任务满足核心要求但常因时间管理差而失败。"
   },
   {
    "id": "2610.37662",
@@ -993,7 +993,7 @@
    "summary": "Factorized Vector Quantization improves discrete visual token quality by using parallel codebooks on complementary feature views, enabling discrete representations to match continuous ones in multimodal understanding.",
    "url": "https://huggingface.co/papers/2610.37662",
    "github": "https://github.com/hustvl/FVQ",
-   "summary_zh": "提出因子化向量量化，用互补特征视图上的并行码本提升离散视觉token质量，使离散表示在多模态理解中接近连续表示。"
+   "summary_zh": "提出分解向量量化（Factorized Vector Quantization），用并行码本处理互补特征视图，提升离散视觉token质量，使其在多模态理解中接近连续表示。"
   },
   {
    "id": "2610.35684",
@@ -1002,7 +1002,7 @@
    "summary": "OmniShowcase improves subject-to-video generation by using geometry-driven training data and surface-normal conditioning to maintain 3D consistency across novel viewpoints.",
    "url": "https://huggingface.co/papers/2610.35684",
    "github": "https://github.com/justin4ai/OmniShowcase",
-   "summary_zh": "提出OmniShowcase，利用几何驱动的训练数据和表面法线条件，实现多视角主体一致的视频生成，保持新视角下的三维一致性。"
+   "summary_zh": "提出OmniShowcase，利用几何驱动的训练数据和表面法线条件，实现多视角一致的主体到视频生成，保持新视角下的三维一致性。"
   },
   {
    "id": "2610.26030",
@@ -1011,7 +1011,7 @@
    "summary": "Looped transformers trained with full backpropagation through time outperform truncated alternatives under matched compute, with scaling laws identifying two loops as optimal when model size is adjustable.",
    "url": "https://huggingface.co/papers/2610.26030",
    "github": "https://github.com/xjxyys/Truncate-or-Not",
-   "summary_zh": "通过缩放研究发现，在相同算力下，全量时间反向传播训练的循环Transformer优于截断版本，且模型可调时两次循环最优。"
+   "summary_zh": "通过缩放研究发现，在计算量相同时，完整时间反向传播训练的循环Transformer优于截断方法，且模型可调时两次循环最优。"
   },
   {
    "id": "2610.37037",
@@ -1020,7 +1020,7 @@
    "summary": "EvidenceConnect synthesizes training data to strengthen visual evidence connection, improving spatial perception and multimodal reasoning across diverse tasks.",
    "url": "https://huggingface.co/papers/2610.37037",
    "github": "https://github.com/inclusionAI/Zooming-without-Zooming-v2",
-   "summary_zh": "提出EvidenceConnect，合成训练数据以增强视觉证据关联能力，提升多种任务中的空间感知与多模态推理表现。"
+   "summary_zh": "提出EvidenceConnect，合成训练数据以加强视觉证据关联，提升多种任务中的空间感知与多模态推理能力。"
   },
   {
    "id": "2610.37364",
@@ -1029,7 +1029,7 @@
    "summary": "EmbeddingGemma 2 is an open multimodal embedding model that unifies text, images, audio, and video representations with efficient resource-flexible design and state-of-the-art benchmark performance.",
    "url": "https://huggingface.co/papers/2610.37364",
    "github": null,
-   "summary_zh": "发布EmbeddingGemma 2，一个统一文本、图像、音频和视频表示的开源多模态嵌入模型，兼顾高效与资源灵活性，并取得领先基准成绩。"
+   "summary_zh": "发布EmbeddingGemma 2，一个统一文本、图像、音频和视频表示的开源多模态嵌入模型，兼顾高效与资源灵活性并取得领先基准成绩。"
   },
   {
    "id": "2610.31670",
@@ -1038,7 +1038,7 @@
    "summary": "Sensorimotor alignment measures how sensory representations match physical motion geometry, serving as a low-cost offline predictor of robot model performance.",
    "url": "https://huggingface.co/papers/2610.31670",
    "github": "https://github.com/yunfeixie233/sensorimotor-alignment",
-   "summary_zh": "提出「感觉运动对齐」指标，衡量感知表示与物理运动几何的匹配程度，可作为机器人策略性能的低成本离线预测指标。"
+   "summary_zh": "提出感知运动对齐（Sensorimotor Alignment）度量，衡量感知表示与运动几何的匹配程度，可作为低成本离线预测机器人模型性能的指标。"
   },
   {
    "id": "2610.37386",
@@ -1047,7 +1047,7 @@
    "summary": "Prox replaces calibrated thresholds with top-k channel selection and a weight-derived reader to accelerate Mixture-of-Experts inference while preserving accuracy.",
    "url": "https://huggingface.co/papers/2610.37386",
    "github": "https://github.com/AidenGeunGeun/calibration-free-moe",
-   "summary_zh": "提出Prox，用top-k通道选择和权重推导的读取器替代需要校准的阈值，无需校准数据即可加速MoE推理并保持精度。"
+   "summary_zh": "提出Prox，用top-k通道选择和权重导出的读取器替代需校准的阈值，加速混合专家模型推理且保持精度，无需校准数据。"
   },
   {
    "id": "2610.37230",
@@ -1056,7 +1056,7 @@
    "summary": "TAO improves scheduling for LLM agent services by considering tool readiness and using dynamic programming to place sessions, reducing latency and increasing throughput.",
    "url": "https://huggingface.co/papers/2610.37230",
    "github": null,
-   "summary_zh": "提出TAO，为基于LLM的智能体服务引入考虑工具就绪状态的调度，并用动态规划放置会话，降低延迟、提高吞吐。"
+   "summary_zh": "提出TAO，为LLM智能体服务考虑工具就绪状态进行调度，并用动态规划放置会话，降低延迟、提升吞吐量。"
   },
   {
    "id": "2610.35962",
@@ -1065,7 +1065,7 @@
    "summary": "A simple agentic loop with efficient Lean feedback achieves state-of-the-art formal theorem proving without structured workflows, showing that execution interfaces matter more than complex orchestration.",
    "url": "https://huggingface.co/papers/2610.35962",
    "github": null,
-   "summary_zh": "提出h1，一个借助高效Lean反馈的简单智能体循环，无需结构化工作流即可达到自动定理证明的最优水平，说明执行接口比复杂编排更重要。"
+   "summary_zh": "提出h1，一个结合高效Lean反馈的简单智能体循环，无需结构化工作流即可达到自动定理证明的最优水平，说明执行接口比复杂编排更重要。"
   },
   {
    "id": "2610.22507",
@@ -1074,7 +1074,7 @@
    "summary": "REALCLI is a benchmark that jointly evaluates CLI agent task execution and human-agent collaboration quality, revealing major gaps in steerability, trust calibration, and safety management.",
    "url": "https://huggingface.co/papers/2610.22507",
    "github": null,
-   "summary_zh": "提出RealCLI基准，联合评估CLI智能体的任务执行能力与人机协作质量，揭示其在可引导性、信任校准和安全管理方面的明显不足。"
+   "summary_zh": "提出RealCLI基准，联合评测CLI智能体的任务执行与人机协作质量，揭示其在可引导性、信任校准和安全管理方面的明显不足。"
   },
   {
    "id": "2610.22990",
@@ -1083,7 +1083,7 @@
    "summary": "PersonaCUABench reveals that computer-use agents frequently fail to satisfy real user requirements and constraints, reducing task completion and satisfaction compared to fixed benchmark instructions.",
    "url": "https://huggingface.co/papers/2610.22990",
    "github": "https://github.com/MatrAIx-ai/PersonaCUABench",
-   "summary_zh": "提出PersonaCUABench，评测面向不同用户画像的计算机使用智能体，发现其常无法满足真实用户需求与约束，任务完成率和满意度下降。"
+   "summary_zh": "提出PersonaCUABench，发现计算机使用智能体常无法满足真实用户的需求与约束，相比固定指令基准，任务完成率与用户满意度均下降。"
   },
   {
    "id": "2610.36192",
@@ -1092,7 +1092,7 @@
    "summary": "Wiener-informed Decoding accelerates pixel-space velocity model training and improves image generation by integrating statistical predictions into decoder computation without altering native blocks.",
    "url": "https://huggingface.co/papers/2610.36192",
    "github": "https://github.com/NUS-HPC-AI-Lab/WiD",
-   "summary_zh": "提出Wiener信息解码，将统计预测融入解码器计算，加速像素空间速度模型训练并提升图像生成质量，且不改动原有模块。"
+   "summary_zh": "提出Wiener信息解码（Wiener-informed Decoding），将统计预测融入解码器计算，加速像素空间速度模型训练并提升图像生成质量，且不改变原有模块。"
   },
   {
    "id": "2610.37585",
@@ -1101,7 +1101,7 @@
    "summary": "Timestral is a family of time series foundation models that achieves state-of-the-art probabilistic forecasting through decoupled horizon forecasting, native future covariate support, and synthetic pretraining followed by mixed post-training.",
    "url": "https://huggingface.co/papers/2610.37585",
    "github": null,
-   "summary_zh": "提出Timestral，一系列时间序列基础模型，通过解耦的多步预测、原生未来协变量支持及合成预训练加混合后训练，实现领先的概率预测。"
+   "summary_zh": "提出Timestral系列时间序列基础模型，通过解耦的多步预测、原生未来协变量支持及合成预训练加混合后训练，实现领先的概率预测效果。"
   },
   {
    "id": "2610.30161",
@@ -1110,7 +1110,7 @@
    "summary": "TauIndianBankBench evaluates language model assistants on Indian retail banking by verifying both procedural compliance and final outcomes across 1,000 simulated tasks.",
    "url": "https://huggingface.co/papers/2610.30161",
    "github": "https://github.com/npci/TauIndianBankBench",
-   "summary_zh": "提出TauIndianBankBench，在印度零售银行场景中评估工具调用对话智能体，通过1000个模拟任务同时验证流程合规性与最终结果。"
+   "summary_zh": "提出TauIndianBankBench，在印度零售银行场景中，通过1000个模拟任务同时检验对话智能体的流程合规性与最终结果。"
   },
   {
    "id": "2602.10657",
@@ -1119,7 +1119,7 @@
    "summary": "Pre-training corpora leave a lexical imprint on zero-shot accuracy that is consistently tracked by word-level unigram cross-entropy across benchmarks, document selection, and prompt routing.",
    "url": "https://huggingface.co/papers/2602.10657",
    "github": "https://github.com/penpaperkeycode/lexical-imprint",
-   "summary_zh": "发现预训练语料留下的「词汇印记」，并证明词级一元交叉熵能稳定追踪零样本准确率，可用于基准、文档筛选和提示路由。"
+   "summary_zh": "发现预训练语料留下词汇印记，词级一元组交叉熵可稳定追踪其对零样本准确率的影响，并适用于基准、文档选择与提示路由。"
   }
  ]
 }
