@@ -1,0 +1,6539 @@
+{
+ "date": "2026-11-22",
+ "generated": "2026-11-22T09:13",
+ "overview": "",
+ "projects": [
+  {
+   "name": "ItsNotRexed/Leonida",
+   "url": "https://github.com/ItsNotRexed/Leonida",
+   "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+   "language": "Python",
+   "topics": [],
+   "stars": 5653,
+   "forks": 400,
+   "created": "2026-11-20",
+   "age": 2,
+   "velocity": 5536.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/300290919?v=4",
+   "score": 11.667,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-21",
+     117
+    ],
+    [
+     "2026-11-22",
+     5653
+    ]
+   ],
+   "engagement": 0.1093,
+   "commits": 1199,
+   "contributors": 76,
+   "suspect": false,
+   "adj_score": 11.667,
+   "summary": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "omonkeyz/xbox-emulator",
+   "url": "https://github.com/omonkeyz/xbox-emulator",
+   "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+   "language": "Rust",
+   "topics": [],
+   "stars": 779,
+   "forks": 43,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 779.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/246595960?v=4",
+   "score": 9.989,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     779
+    ]
+   ],
+   "engagement": 0.104,
+   "commits": 94,
+   "contributors": 2,
+   "suspect": false,
+   "adj_score": 9.989,
+   "summary": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
+   "url": "https://github.com/kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
+   "description": "DAW & Synth Studio Suite FL Studio 2026.1 Producer All-Plugins Edition Runtime: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "2026",
+    "ableton-live-12",
+    "all",
+    "autotune-pro",
+    "daw",
+    "daw-2026"
+   ],
+   "stars": 466,
+   "forks": 83,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 466.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278139150?v=4",
+   "score": 9.219,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     466
+    ]
+   ],
+   "engagement": 0.4034,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.219,
+   "summary": "DAW & Synth Studio Suite FL Studio 2026.1 Producer All-Plugins Edition Runtime: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "benhhq1993s5/dune-awakening-external-player-ornithopter-radar-portable",
+   "url": "https://github.com/benhhq1993s5/dune-awakening-external-player-ornithopter-radar-portable",
+   "description": "Dune Awakening External Player/Ornithopter Radar & Recoil Helper: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "dune-awakening",
+    "dune-external",
+    "dune-helper",
+    "dune-ornithopter",
+    "dune-player",
+    "dune-radar"
+   ],
+   "stars": 462,
+   "forks": 62,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 462.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278188977?v=4",
+   "score": 9.207,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     462
+    ]
+   ],
+   "engagement": 0.2857,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.207,
+   "summary": "Dune Awakening External Player/Ornithopter Radar & Recoil Helper: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "marcus-ali-lab1905z4/cad-3d-engineering-suite-solidworks-2026-sp1-ssq-po",
+   "url": "https://github.com/marcus-ali-lab1905z4/cad-3d-engineering-suite-solidworks-2026-sp1-ssq-po",
+   "description": "CAD, 3D & Engineering Suite SolidWorks 2026 SP1 ssq-bridge Local network-daemon Toolkit: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "2026",
+    "autocad-2026",
+    "blender-addons",
+    "cad-2026",
+    "cad-cam",
+    "cad-config"
+   ],
+   "stars": 462,
+   "forks": 43,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 462.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278084566?v=4",
+   "score": 9.207,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     462
+    ]
+   ],
+   "engagement": 0.1991,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.207,
+   "summary": "CAD, 3D & Engineering Suite SolidWorks 2026 SP1 ssq-bridge Local network-daemon Toolkit: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "eric-lopezdev1992b4/polar-client-skyblock-mining-2026",
+   "url": "https://github.com/eric-lopezdev1992b4/polar-client-skyblock-mining-2026",
+   "description": "Polar Client preactivated — Hypixel Skyblock Mithril, Gemstone, Powder & Commission Macro (2026 Edition): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "hypixel-skyblock"
+   ],
+   "stars": 462,
+   "forks": 46,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 462.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278422872?v=4",
+   "score": 9.207,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     462
+    ]
+   ],
+   "engagement": 0.2251,
+   "commits": 12,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.207,
+   "summary": "Polar Client preactivated — Hypixel Skyblock Mithril, Gemstone, Powder & Commission Macro (2026 Edition): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "david-ivanovio2004x4/schedule-i-melonloader-mod-menu-cash-portable-x64",
+   "url": "https://github.com/david-ivanovio2004x4/schedule-i-melonloader-mod-menu-cash-portable-x64",
+   "description": "Schedule I MelonLoader Mod Menu, Cash & Recipe extension: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "bridge",
+    "cash",
+    "melonloader",
+    "menu",
+    "mod",
+    "mod-menu"
+   ],
+   "stars": 461,
+   "forks": 79,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 461.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278092013?v=4",
+   "score": 9.203,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     461
+    ]
+   ],
+   "engagement": 0.3883,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.203,
+   "summary": "Schedule I MelonLoader Mod Menu, Cash & Recipe extension: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "antonhall-x91s9/discord-local-uncensored-ai-activity-utility-quest-auto-po",
+   "url": "https://github.com/antonhall-x91s9/discord-local-uncensored-ai-activity-utility-quest-auto-po",
+   "description": "Discord & Local Uncensored AI Discord Activity serial-utility, Quest Auto-Completer & Badge Booster: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "activity",
+    "auto",
+    "badge",
+    "booster",
+    "completer",
+    "cuda-portable"
+   ],
+   "stars": 459,
+   "forks": 89,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 459.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278149815?v=4",
+   "score": 9.197,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     459
+    ]
+   ],
+   "engagement": 0.4052,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.197,
+   "summary": "Discord & Local Uncensored AI Discord Activity serial-utility, Quest Auto-Completer & Badge Booster: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "nickcode-01e6/samsung-android-mtp-unlocktool-portable-loader-xiaomi-port",
+   "url": "https://github.com/nickcode-01e6/samsung-android-mtp-unlocktool-portable-loader-xiaomi-port",
+   "description": "Samsung & Android mtp-csc Toolkit UnlockTool Portable Loader — Xiaomi HyperOS 2.0 & Auth service-helper: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "auth",
+    "helper",
+    "hyperos",
+    "hyperos-bootloader",
+    "loader",
+    "mtk-helper"
+   ],
+   "stars": 457,
+   "forks": 50,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 457.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278207575?v=4",
+   "score": 9.19,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     457
+    ]
+   ],
+   "engagement": 0.2079,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.19,
+   "summary": "Samsung & Android mtp-csc Toolkit UnlockTool Portable Loader — Xiaomi HyperOS 2.0 & Auth service-helper: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64",
+   "url": "https://github.com/danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64",
+   "description": "War Thunder Realistic Tank Outline & Thermal Sight Mod: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "ballistic-calculator",
+    "external-overlay",
+    "lead-indicator",
+    "mod",
+    "outline",
+    "realistic"
+   ],
+   "stars": 456,
+   "forks": 75,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 456.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278197279?v=4",
+   "score": 9.187,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     456
+    ]
+   ],
+   "engagement": 0.2917,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.187,
+   "summary": "War Thunder Realistic Tank Outline & Thermal Sight Mod: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "dan-leelab19f7/roblox-game-hub-fisch-auto-cast-instant-portable-x64",
+   "url": "https://github.com/dan-leelab19f7/roblox-game-hub-fisch-auto-cast-instant-portable-x64",
+   "description": "Roblox Game Hub Fisch Auto-Cast, Instant Reel & Aurora Totem Macro: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "aurora",
+    "auto",
+    "blox-fruits-script",
+    "blue-lock-rivals",
+    "cast",
+    "fisch"
+   ],
+   "stars": 455,
+   "forks": 65,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 455.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278165268?v=4",
+   "score": 9.184,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     455
+    ]
+   ],
+   "engagement": 0.3011,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.184,
+   "summary": "Roblox Game Hub Fisch Auto-Cast, Instant Reel & Aurora Totem Macro: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "danielrops99q3/deadlock-minimap-cooldown-jungle-timer-portable-x64",
+   "url": "https://github.com/danielrops99q3/deadlock-minimap-cooldown-jungle-timer-portable-x64",
+   "description": "Deadlock Minimap Cooldown & Jungle Timer Overlay: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "cooldown",
+    "cpp",
+    "deadlock",
+    "deadlock-cooldown",
+    "deadlock-jungle",
+    "deadlock-minimap"
+   ],
+   "stars": 455,
+   "forks": 82,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 455.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278182996?v=4",
+   "score": 9.184,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     455
+    ]
+   ],
+   "engagement": 0.3473,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.184,
+   "summary": "Deadlock Minimap Cooldown & Jungle Timer Overlay: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "markdevx1901r4/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl",
+   "url": "https://github.com/markdevx1901r4/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl",
+   "description": "ShadPS4 Bloodborne PC 60FPS Patch, Vertex Explosion Fix & SysModules Pack: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "60fps",
+    "60fps-patch",
+    "bloodborne-pc",
+    "explosion",
+    "fix",
+    "pack"
+   ],
+   "stars": 455,
+   "forks": 91,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 455.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278127283?v=4",
+   "score": 9.184,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     455
+    ]
+   ],
+   "engagement": 0.411,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.184,
+   "summary": "ShadPS4 Bloodborne PC 60FPS Patch, Vertex Explosion Fix & SysModules Pack: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "anton-clark-x2003y0/gta-5-enhanced-mod-menu",
+   "url": "https://github.com/anton-clark-x2003y0/gta-5-enhanced-mod-menu",
+   "description": "GTA 5 Enhanced Mod Menu — YimMenu V2 External Overlay, Money Recovery & Heist Editor — Download prebuilt Windows 10/11 x64 release. Keywords: gta 5 mod menu, gta5 enhanced, yimmenu, yimmenu v2, fsl gta5, gta 5 cheat, gta 5 hack, gta online mod menu.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "fsl-gta5"
+   ],
+   "stars": 455,
+   "forks": 44,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 455.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278220641?v=4",
+   "score": 9.184,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     455
+    ]
+   ],
+   "engagement": 0.2088,
+   "commits": 12,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.184,
+   "summary": "GTA 5 Enhanced Mod Menu — YimMenu V2 External Overlay, Money Recovery & Heist Editor — Download prebuilt Windows 10/11 x64 release. Keywords: gta 5 mod menu, gta5 enhanced, yimmenu, yimmenu v2, fsl gta5, gta 5 cheat, gta 5 hack, gta online mod menu.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "ryan-v-x2003c8/ea-sports-fc-26-green-timed-finishing-legacy-portable-x64",
+   "url": "https://github.com/ryan-v-x2003c8/ea-sports-fc-26-green-timed-finishing-legacy-portable-x64",
+   "description": "EA Sports FC 26 Green Timed-Finishing, Legacy Defending & Division Trainer: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "career-editor",
+    "defending",
+    "division",
+    "ea-defending",
+    "ea-division",
+    "ea-fc-26"
+   ],
+   "stars": 454,
+   "forks": 80,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 454.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278199470?v=4",
+   "score": 9.18,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     454
+    ]
+   ],
+   "engagement": 0.3238,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.18,
+   "summary": "EA Sports FC 26 Green Timed-Finishing, Legacy Defending & Division Trainer: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "anton-ivanov-97x5/call-of-duty-black-ops-6-warzone-camo-blueprint-operator-l",
+   "url": "https://github.com/anton-ivanov-97x5/call-of-duty-black-ops-6-warzone-camo-blueprint-operator-l",
+   "description": "Call of Duty Black Ops 6 Warzone Camo, Blueprint & Operator Local extension Tool: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "aim-assist",
+    "blueprint",
+    "bo6",
+    "bridge",
+    "call-blueprint",
+    "call-bridge"
+   ],
+   "stars": 452,
+   "forks": 81,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 452.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278196274?v=4",
+   "score": 9.174,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     452
+    ]
+   ],
+   "engagement": 0.3407,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.174,
+   "summary": "Call of Duty Black Ops 6 Warzone Camo, Blueprint & Operator Local extension Tool: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "sam-king-1904w1/wave-velocity-bootstrapper-direct-lite-loader-100-portable",
+   "url": "https://github.com/sam-king-1904w1/wave-velocity-bootstrapper-direct-lite-loader-100-portable",
+   "description": "Wave & Velocity bootstrapper Wave standalone Lite Loader & 100% sUNC Script Hub: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "100",
+    "bloxstrap",
+    "direct",
+    "fflags",
+    "hub",
+    "lite"
+   ],
+   "stars": 452,
+   "forks": 78,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 452.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278087364?v=4",
+   "score": 9.174,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     452
+    ]
+   ],
+   "engagement": 0.3982,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.174,
+   "summary": "Wave & Velocity bootstrapper Wave standalone Lite Loader & 100% sUNC Script Hub: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "jake-j-19d3/discord-local-uncensored-ai-deep-live-cam-v2-portable-x64",
+   "url": "https://github.com/jake-j-19d3/discord-local-uncensored-ai-deep-live-cam-v2-portable-x64",
+   "description": "Discord & Local Uncensored AI Deep-Live-Cam v2.1 1-Click Realtime Webcam FaceSwap CUDA Portable: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "cam",
+    "click",
+    "cuda-portable",
+    "deep",
+    "deep-live-cam",
+    "discord-cam"
+   ],
+   "stars": 452,
+   "forks": 56,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 452.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278207337?v=4",
+   "score": 9.174,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     452
+    ]
+   ],
+   "engagement": 0.2345,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.174,
+   "summary": "Discord & Local Uncensored AI Deep-Live-Cam v2.1 1-Click Realtime Webcam FaceSwap CUDA Portable: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "anton-g-dev2099m4/escape-from-tarkov-spt-aki-10-profile-portable-x64",
+   "url": "https://github.com/anton-g-dev2099m4/escape-from-tarkov-spt-aki-10-profile-portable-x64",
+   "description": "Escape from Tarkov SPT-AKI 3.10 Profile, Flea & Stash Editor: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "C++",
+   "topics": [
+    "aki",
+    "editor",
+    "eft",
+    "escape-aki",
+    "escape-editor",
+    "escape-flea"
+   ],
+   "stars": 451,
+   "forks": 74,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 451.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278194464?v=4",
+   "score": 9.171,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     451
+    ]
+   ],
+   "engagement": 0.3282,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.171,
+   "summary": "Escape from Tarkov SPT-AKI 3.10 Profile, Flea & Stash Editor: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "oscar-sops19g1/path-of-exile-2-auto-flask-dodge-roll-portable-x64",
+   "url": "https://github.com/oscar-sops19g1/path-of-exile-2-auto-flask-dodge-roll-portable-x64",
+   "description": "Path of Exile 2 Auto-Flask, Dodge-Roll & Life-Threshold Macro: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "auto",
+    "dodge",
+    "flask",
+    "flask-macro",
+    "life",
+    "loot-filter"
+   ],
+   "stars": 451,
+   "forks": 75,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 451.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278181419?v=4",
+   "score": 9.171,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     451
+    ]
+   ],
+   "engagement": 0.3392,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.171,
+   "summary": "Path of Exile 2 Auto-Flask, Dodge-Roll & Life-Threshold Macro: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "daviddevhq98y8/monster-hunter-wilds-reframework",
+   "url": "https://github.com/daviddevhq98y8/monster-hunter-wilds-reframework",
+   "description": "Monster Hunter Wilds REFramework + Monster HP Bar, Crown & DPS Overlay Mod — Download prebuilt Windows 10/11 x64 release. Keywords: monster hunter wilds, mhwilds, monster hunter wilds mods, monster hunter wilds cheat, monster hunter wilds trainer, reframework, mhwilds save editor, mhwilds dps overlay.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "imgui"
+   ],
+   "stars": 451,
+   "forks": 42,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 451.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278228627?v=4",
+   "score": 9.171,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     451
+    ]
+   ],
+   "engagement": 0.2284,
+   "commits": 12,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.171,
+   "summary": "Monster Hunter Wilds REFramework + Monster HP Bar, Crown & DPS Overlay Mod — Download prebuilt Windows 10/11 x64 release. Keywords: monster hunter wilds, mhwilds, monster hunter wilds mods, monster hunter wilds cheat, monster hunter wilds trainer, reframework, mhwilds save editor, mhwilds dps overlay.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "ericwilsoneng1994y8/xeno-bootstrapper-v1-60-direct-desktop-portable-x64",
+   "url": "https://github.com/ericwilsoneng1994y8/xeno-bootstrapper-v1-60-direct-desktop-portable-x64",
+   "description": "Xeno bootstrapper v1.3.60 standalone Desktop Script Runner & Auto-Attach: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "attach",
+    "auto",
+    "desktop",
+    "direct",
+    "direct-bootstrapper",
+    "luau"
+   ],
+   "stars": 451,
+   "forks": 67,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 451.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278087307?v=4",
+   "score": 9.171,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     451
+    ]
+   ],
+   "engagement": 0.3525,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.171,
+   "summary": "Xeno bootstrapper v1.3.60 standalone Desktop Script Runner & Auto-Attach: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "ericmoorecode2001j6/monster-hunter-wilds-reframework-download",
+   "url": "https://github.com/ericmoorecode2001j6/monster-hunter-wilds-reframework-download",
+   "description": "Monster Hunter Wilds REFramework + Monster HP Bar, Crown & DPS Overlay Mod [Direct Download] — Download prebuilt Windows 10/11 x64 release. Keywords: monster hunter wilds, mhwilds, monster hunter wilds mods, monster hunter wilds cheat, monster hunter wilds trainer, reframework, mhwilds save editor, mhwilds dps overlay.",
+   "language": "C++",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "imgui"
+   ],
+   "stars": 450,
+   "forks": 43,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 450.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278374404?v=4",
+   "score": 9.167,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     450
+    ]
+   ],
+   "engagement": 0.1889,
+   "commits": 12,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.167,
+   "summary": "Monster Hunter Wilds REFramework + Monster HP Bar, Crown & DPS Overlay Mod [Direct Download] — Download prebuilt Windows 10/11 x64 release. Keywords: monster hunter wilds, mhwilds, monster hunter wilds mods, monster hunter wilds cheat, monster hunter wilds trainer, reframework, mhwilds save editor, mhwilds dps overlay.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "antong-code95j8/rust-recoil-script-download",
+   "url": "https://github.com/antong-code95j8/rust-recoil-script-download",
+   "description": "Rust No-Recoil Script 2026 — Undetected HID Mouse Macro with Auto Weapon Detection [Direct Download] — Download prebuilt Windows 10/11 x64 release. Keywords: rust, rust cheat, rust cheats, rust hack, rust recoil script, rust no recoil, rust esp, rust aimbot.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "imgui"
+   ],
+   "stars": 450,
+   "forks": 51,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 450.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278376476?v=4",
+   "score": 9.167,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     450
+    ]
+   ],
+   "engagement": 0.2311,
+   "commits": 12,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.167,
+   "summary": "Rust No-Recoil Script 2026 — Undetected HID Mouse Macro with Auto Weapon Detection [Direct Download] — Download prebuilt Windows 10/11 x64 release. Keywords: rust, rust cheat, rust cheats, rust hack, rust recoil script, rust no recoil, rust esp, rust aimbot.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "leonmiller-io01l1/gta-6-vice-city-ps5-remote-play-60fps-portable-x64",
+   "url": "https://github.com/leonmiller-io01l1/gta-6-vice-city-ps5-remote-play-60fps-portable-x64",
+   "description": "GTA 6 Vice City PS5 Remote Play 60FPS FrameGen Enhancer: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "60fps",
+    "dx12",
+    "enhancer",
+    "frame-generation",
+    "framegen",
+    "gta-60fps"
+   ],
+   "stars": 450,
+   "forks": 76,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 450.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278167012?v=4",
+   "score": 9.167,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     450
+    ]
+   ],
+   "engagement": 0.3289,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.167,
+   "summary": "GTA 6 Vice City PS5 Remote Play 60FPS FrameGen Enhancer: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "dmitry-io91q7/solara-v3-external-hyperion-byfron-offset-portable-x64",
+   "url": "https://github.com/dmitry-io91q7/solara-v3-external-hyperion-byfron-offset-portable-x64",
+   "description": "Solara V3 External Hyperion Byfron Offset Sync Runtime: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "byfron",
+    "external",
+    "hyperion",
+    "luau",
+    "offset",
+    "open-source"
+   ],
+   "stars": 450,
+   "forks": 77,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 450.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278163961?v=4",
+   "score": 9.167,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     450
+    ]
+   ],
+   "engagement": 0.3356,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.167,
+   "summary": "Solara V3 External Hyperion Byfron Offset Sync Runtime: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "felixrajdev2096h7/fivem-citizenfx-adhesive-utility-clean-cleaner-portable-x6",
+   "url": "https://github.com/felixrajdev2096h7/fivem-citizenfx-adhesive-utility-clean-cleaner-portable-x6",
+   "description": "FiveM CitizenFX Adhesive serial-utility, Clean Cleaner & Serial manager: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "C++",
+   "topics": [
+    "adhesive",
+    "citizenfx",
+    "clean",
+    "cleaner",
+    "dx11",
+    "fivem"
+   ],
+   "stars": 449,
+   "forks": 70,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 449.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278088303?v=4",
+   "score": 9.164,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     449
+    ]
+   ],
+   "engagement": 0.3808,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.164,
+   "summary": "FiveM CitizenFX Adhesive serial-utility, Clean Cleaner & Serial manager: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "sam-santos1905e5/slay-the-spire-2-trainer",
+   "url": "https://github.com/sam-santos1905e5/slay-the-spire-2-trainer",
+   "description": "Slay the Spire 2 Trainer, Developer Console Unlocker & Relic/Gold Save Editor — Download prebuilt Windows 10/11 x64 release. Keywords: slay the spire 2, slay the spire 2 trainer, slay the spire 2 cheat, slay the spire 2 mods, slay the spire 2 save editor, mod loader, console unlocker, deck tracker.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "imgui"
+   ],
+   "stars": 448,
+   "forks": 50,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 448.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278226834?v=4",
+   "score": 9.161,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     448
+    ]
+   ],
+   "engagement": 0.1987,
+   "commits": 12,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.161,
+   "summary": "Slay the Spire 2 Trainer, Developer Console Unlocker & Relic/Gold Save Editor — Download prebuilt Windows 10/11 x64 release. Keywords: slay the spire 2, slay the spire 2 trainer, slay the spire 2 cheat, slay the spire 2 mods, slay the spire 2 save editor, mod loader, console unlocker, deck tracker.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "antonlopezeng2093z4/ai-ide-system-utilities-windsurf-pro-jetbrains-2026-portab",
+   "url": "https://github.com/antonlopezeng2093z4/ai-ide-system-utilities-windsurf-pro-jetbrains-2026-portab",
+   "description": "AI IDE & System Utilities Windsurf Pro & JetBrains 2026.1 Local network-daemon Helper: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "2026",
+    "ai-2026",
+    "ai-config",
+    "ai-jetbrains",
+    "ai-local",
+    "ai-pro"
+   ],
+   "stars": 448,
+   "forks": 76,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 448.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278162179?v=4",
+   "score": 9.161,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     448
+    ]
+   ],
+   "engagement": 0.3371,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.161,
+   "summary": "AI IDE & System Utilities Windsurf Pro & JetBrains 2026.1 Local network-daemon Helper: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "kyle-moore-code2001v1/marvel-rivals-hitscan-projectile-smoothing-assistant-porta",
+   "url": "https://github.com/kyle-moore-code2001v1/marvel-rivals-hitscan-projectile-smoothing-assistant-porta",
+   "description": "Marvel Rivals Hitscan & Projectile Smoothing Assistant: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "C++",
+   "topics": [
+    "2026",
+    "assistant",
+    "fps-bridge",
+    "hitscan",
+    "hud",
+    "marvel-assistant"
+   ],
+   "stars": 447,
+   "forks": 65,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 447.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278183396?v=4",
+   "score": 9.157,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     447
+    ]
+   ],
+   "engagement": 0.2752,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.157,
+   "summary": "Marvel Rivals Hitscan & Projectile Smoothing Assistant: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "artem-petrovlab04i2/counter-strike-2-inventory-skin-knife-glove-portable-x64",
+   "url": "https://github.com/artem-petrovlab04i2/counter-strike-2-inventory-skin-knife-glove-portable-x64",
+   "description": "Counter-Strike 2 Inventory Skin, Knife & Glove Changer: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "C++",
+   "topics": [
+    "changer",
+    "counter-changer",
+    "counter-glove",
+    "counter-inventory",
+    "counter-knife",
+    "counter-skin"
+   ],
+   "stars": 447,
+   "forks": 75,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 447.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278193518?v=4",
+   "score": 9.157,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     447
+    ]
+   ],
+   "engagement": 0.2931,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.157,
+   "summary": "Counter-Strike 2 Inventory Skin, Knife & Glove Changer: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "max-clarkdev2097g3/arc-raiders-weapon-recoil-spread-compensation-portable-x64",
+   "url": "https://github.com/max-clarkdev2097g3/arc-raiders-weapon-recoil-spread-compensation-portable-x64",
+   "description": "ARC Raiders Weapon Recoil & Spread Compensation Config: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "arc-compensation",
+    "arc-config",
+    "arc-raiders",
+    "arc-spread",
+    "arc-weapon",
+    "compensation"
+   ],
+   "stars": 447,
+   "forks": 93,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 447.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278175958?v=4",
+   "score": 9.157,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     447
+    ]
+   ],
+   "engagement": 0.3669,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.157,
+   "summary": "ARC Raiders Weapon Recoil & Spread Compensation Config: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "danielmooreeng19d9/daw-synth-ableton-live-12-suite-portable-x64",
+   "url": "https://github.com/danielmooreeng19d9/daw-synth-ableton-live-12-suite-portable-x64",
+   "description": "DAW & Synth Studio Suite Ableton Live 12.1 Suite MaxForLive & Sound Pack Manager: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "ableton",
+    "ableton-live-12",
+    "autotune-pro",
+    "daw",
+    "daw-ableton",
+    "daw-live"
+   ],
+   "stars": 446,
+   "forks": 69,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 446.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278204021?v=4",
+   "score": 9.154,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     446
+    ]
+   ],
+   "engagement": 0.3027,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.154,
+   "summary": "DAW & Synth Studio Suite Ableton Live 12.1 Suite MaxForLive & Sound Pack Manager: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "dmitry-g-x01f8/inzoi-ue5-script-hook-unlimited-portable-x64",
+   "url": "https://github.com/dmitry-g-x01f8/inzoi-ue5-script-hook-unlimited-portable-x64",
+   "description": "inZOI UE5 Script Hook, Unlimited Meow Coins & Karma Editor: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "character-studio",
+    "coins",
+    "hook",
+    "inzoi",
+    "inzoi-coins",
+    "inzoi-hook"
+   ],
+   "stars": 446,
+   "forks": 76,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 446.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278096470?v=4",
+   "score": 9.154,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     446
+    ]
+   ],
+   "engagement": 0.3924,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.154,
+   "summary": "inZOI UE5 Script Hook, Unlimited Meow Coins & Karma Editor: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "dave-wilsoncode1999d3/elden-ring-nightreign-standalone-trainer-relic-murk-portab",
+   "url": "https://github.com/dave-wilsoncode1999d3/elden-ring-nightreign-standalone-trainer-relic-murk-portab",
+   "description": "Elden Ring Nightreign Standalone Trainer, Relic & Murk Editor: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "C++",
+   "topics": [
+    "2026",
+    "editor",
+    "elden-editor",
+    "elden-murk",
+    "elden-relic",
+    "elden-ring-nightreign"
+   ],
+   "stars": 446,
+   "forks": 77,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 446.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278183937?v=4",
+   "score": 9.154,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     446
+    ]
+   ],
+   "engagement": 0.3498,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.154,
+   "summary": "Elden Ring Nightreign Standalone Trainer, Relic & Murk Editor: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "tom-silva-2098p8/xeno-bootstrapper-unc-94-luau-environment-portable-x64",
+   "url": "https://github.com/tom-silva-2098p8/xeno-bootstrapper-unc-94-luau-environment-portable-x64",
+   "description": "Xeno bootstrapper UNC 94% LuaU Environment & Decompiler Suite: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "decompiler",
+    "direct-bootstrapper",
+    "environment",
+    "luau",
+    "multi-instance",
+    "open-source"
+   ],
+   "stars": 446,
+   "forks": 76,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 446.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278161869?v=4",
+   "score": 9.154,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     446
+    ]
+   ],
+   "engagement": 0.3274,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.154,
+   "summary": "Xeno bootstrapper UNC 94% LuaU Environment & Decompiler Suite: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "sergeygarcia-devo0/wave-velocity-bootstrapper-external-luau-loader-serial-por",
+   "url": "https://github.com/sergeygarcia-devo0/wave-velocity-bootstrapper-external-luau-loader-serial-por",
+   "description": "Wave & Velocity bootstrapper Velocity External LuaU module-loader & device-id serial-utility: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "bloxstrap",
+    "external",
+    "fflags",
+    "loader",
+    "luau",
+    "portable"
+   ],
+   "stars": 446,
+   "forks": 83,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 446.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278163760?v=4",
+   "score": 9.154,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     446
+    ]
+   ],
+   "engagement": 0.3498,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.154,
+   "summary": "Wave & Velocity bootstrapper Velocity External LuaU module-loader & device-id serial-utility: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "nikita-deveng1999g0/switch-emulator-keys-firmware-nsp-box-xci-nsp-portable-x64",
+   "url": "https://github.com/nikita-deveng1999g0/switch-emulator-keys-firmware-nsp-box-xci-nsp-portable-x64",
+   "description": "Switch Emulator Keys & Firmware NSP-Box Switch 2 XCI/NSP Decryption & Merge Toolkit: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "box",
+    "citron",
+    "decryption",
+    "emulator",
+    "merge",
+    "nsp"
+   ],
+   "stars": 444,
+   "forks": 81,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 444.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278203424?v=4",
+   "score": 9.147,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     444
+    ]
+   ],
+   "engagement": 0.3514,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.147,
+   "summary": "Switch Emulator Keys & Firmware NSP-Box Switch 2 XCI/NSP Decryption & Merge Toolkit: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "dmitrysantosx1995g7/ai-ide-system-utilities-idm-pro-v6-42-portable-x64",
+   "url": "https://github.com/dmitrysantosx1995g7/ai-ide-system-utilities-idm-pro-v6-42-portable-x64",
+   "description": "AI IDE & System Utilities IDM Pro v6.42 session-manager, Registry Cleaner & 32-Thread Booster: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "ai-cleaner",
+    "ai-idm",
+    "ai-pro",
+    "ai-quota",
+    "ai-registry",
+    "ai-reset"
+   ],
+   "stars": 444,
+   "forks": 49,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 444.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278212500?v=4",
+   "score": 9.147,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     444
+    ]
+   ],
+   "engagement": 0.2207,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.147,
+   "summary": "AI IDE & System Utilities IDM Pro v6.42 session-manager, Registry Cleaner & 32-Thread Booster: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "kevincodeeng2099i4/shadps4-bloodborne-pc-1440p-4k-resolution-scaler-portable",
+   "url": "https://github.com/kevincodeeng2099i4/shadps4-bloodborne-pc-1440p-4k-resolution-scaler-portable",
+   "description": "ShadPS4 Bloodborne PC 1440p/4K Resolution Scaler & Cloth Physics extension: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "language": "Jupyter Notebook",
+   "topics": [
+    "1440p",
+    "60fps-patch",
+    "bloodborne-pc",
+    "bridge",
+    "cloth",
+    "physics"
+   ],
+   "stars": 444,
+   "forks": 73,
+   "created": "2026-11-21",
+   "age": 1,
+   "velocity": 444.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/278202226?v=4",
+   "score": 9.147,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     444
+    ]
+   ],
+   "engagement": 0.3198,
+   "commits": 13,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 9.147,
+   "summary": "ShadPS4 Bloodborne PC 1440p/4K Resolution Scaler & Cloth Physics extension: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  }
+ ],
+ "rising": [
+  {
+   "name": "mjmirza/app-store-compliance",
+   "url": "https://github.com/mjmirza/app-store-compliance",
+   "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+   "language": "Shell",
+   "topics": [
+    "android",
+    "app-store-review",
+    "google-play",
+    "ios",
+    "app-review-guidelines",
+    "app-store-rejection"
+   ],
+   "stars": 3403,
+   "forks": 214,
+   "created": "2026-06-06",
+   "age": 169,
+   "velocity": 720,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/34001140?u=67ca645cd17b78cb222fd2aafc7c3bb709f43840&v=4",
+   "score": 30.269,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-20",
+     1853
+    ],
+    [
+     "2026-11-21",
+     2752
+    ],
+    [
+     "2026-11-22",
+     3403
+    ]
+   ],
+   "rising": {
+    "ratio": 0.21158,
+    "accel": 35.8,
+    "release": "v2.5.0",
+    "release_date": "2026-11-22"
+   },
+   "engagement": 0.0832,
+   "commits": 83,
+   "contributors": 4,
+   "suspect": false,
+   "adj_score": 30.269,
+   "summary": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Tencent/LoopForge",
+   "url": "https://github.com/Tencent/LoopForge",
+   "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+   "language": "Go",
+   "topics": [
+    "agent-orchestration",
+    "agentic-workflow",
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "code-review"
+   ],
+   "stars": 5515,
+   "forks": 769,
+   "created": "2026-07-28",
+   "age": 117,
+   "velocity": 673.7,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/18461506?v=4",
+   "score": 22.768,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-12",
+     320
+    ],
+    [
+     "2026-11-13",
+     553
+    ],
+    [
+     "2026-11-14",
+     1095
+    ],
+    [
+     "2026-11-15",
+     1526
+    ],
+    [
+     "2026-11-16",
+     1526
+    ],
+    [
+     "2026-11-17",
+     2340
+    ],
+    [
+     "2026-11-18",
+     3161
+    ],
+    [
+     "2026-11-19",
+     3807
+    ],
+    [
+     "2026-11-20",
+     4059
+    ],
+    [
+     "2026-11-21",
+     5278
+    ],
+    [
+     "2026-11-22",
+     5515
+    ]
+   ],
+   "rising": {
+    "ratio": 0.12216,
+    "accel": 14.3,
+    "release": "v0.4.0",
+    "release_date": "2026-11-17"
+   },
+   "engagement": 0.1799,
+   "commits": 395,
+   "contributors": 23,
+   "suspect": false,
+   "adj_score": 22.768,
+   "summary": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "elementalsouls/Claude-BugHunter",
+   "url": "https://github.com/elementalsouls/Claude-BugHunter",
+   "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "language": "Python",
+   "topics": [
+    "ai-security",
+    "anthropic",
+    "application-security",
+    "bug-bounty",
+    "bugbounty",
+    "bugcrowd"
+   ],
+   "stars": 16081,
+   "forks": 1831,
+   "created": "2026-05-05",
+   "age": 201,
+   "velocity": 1394.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/49252733?u=37192882a5d2534ec65c1b6047633675a064d44c&v=4",
+   "score": 21.318,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-14",
+     6024
+    ],
+    [
+     "2026-11-15",
+     6478
+    ],
+    [
+     "2026-11-16",
+     6481
+    ],
+    [
+     "2026-11-18",
+     9319
+    ],
+    [
+     "2026-11-19",
+     11381
+    ],
+    [
+     "2026-11-20",
+     12550
+    ],
+    [
+     "2026-11-21",
+     14292
+    ],
+    [
+     "2026-11-22",
+     16081
+    ]
+   ],
+   "rising": {
+    "ratio": 0.08669,
+    "accel": 17.4,
+    "release": "v2.1",
+    "release_date": "2026-06-05"
+   },
+   "engagement": 0.1196,
+   "commits": 355,
+   "contributors": 18,
+   "suspect": false,
+   "adj_score": 21.318,
+   "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "GoogleChrome/modern-web-guidance-src",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+   "description": "Keep your coding agent up to date with the latest web best practices",
+   "language": "TypeScript",
+   "topics": [],
+   "stars": 9901,
+   "forks": 794,
+   "created": "2026-01-27",
+   "age": 299,
+   "velocity": 628.6,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1778935?v=4",
+   "score": 16.239,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-12",
+     1786
+    ],
+    [
+     "2026-11-13",
+     3024
+    ],
+    [
+     "2026-11-14",
+     6216
+    ],
+    [
+     "2026-11-16",
+     7212
+    ],
+    [
+     "2026-11-17",
+     8000
+    ],
+    [
+     "2026-11-18",
+     8456
+    ],
+    [
+     "2026-11-19",
+     8841
+    ],
+    [
+     "2026-11-20",
+     9116
+    ],
+    [
+     "2026-11-21",
+     9534
+    ],
+    [
+     "2026-11-22",
+     9901
+    ]
+   ],
+   "rising": {
+    "ratio": 0.06349,
+    "accel": 19.0,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.2905,
+   "commits": 1663,
+   "contributors": 96,
+   "suspect": false,
+   "adj_score": 16.239,
+   "summary": "Keep your coding agent up to date with the latest web best practices",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "XiaoYouChR/Ghost-Downloader-3",
+   "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+   "description": "The only downloader you need. 下载器的集大成者。",
+   "language": "Python",
+   "topics": [
+    "downloader",
+    "pyside6",
+    "python",
+    "qt",
+    "software",
+    "streaming"
+   ],
+   "stars": 14458,
+   "forks": 876,
+   "created": "2023-08-16",
+   "age": 1194,
+   "velocity": 779,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/87308195?u=307fa6fdabb992df880f60343e5870204c24f84d&v=4",
+   "score": 15.458,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     10867
+    ],
+    [
+     "2026-11-19",
+     12153
+    ],
+    [
+     "2026-11-20",
+     12732
+    ],
+    [
+     "2026-11-21",
+     13713
+    ],
+    [
+     "2026-11-22",
+     14458
+    ]
+   ],
+   "rising": {
+    "ratio": 0.05388,
+    "accel": 64.3,
+    "release": "v4.5.11",
+    "release_date": "2026-11-20"
+   },
+   "engagement": 0.1187,
+   "commits": 1776,
+   "contributors": 20,
+   "suspect": false,
+   "adj_score": 15.458,
+   "summary": "The only downloader you need. 下载器的集大成者。",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "tradermonty/claude-trading-skills",
+   "url": "https://github.com/tradermonty/claude-trading-skills",
+   "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+   "language": "Python",
+   "topics": [],
+   "stars": 7628,
+   "forks": 1480,
+   "created": "2025-10-19",
+   "age": 399,
+   "velocity": 444.7,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/205491838?u=41df78f57486831de64c329f7b814e07202f0548&v=4",
+   "score": 14.728,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-14",
+     5275
+    ],
+    [
+     "2026-11-15",
+     5582
+    ],
+    [
+     "2026-11-16",
+     5585
+    ],
+    [
+     "2026-11-17",
+     6319
+    ],
+    [
+     "2026-11-18",
+     6866
+    ],
+    [
+     "2026-11-19",
+     7078
+    ],
+    [
+     "2026-11-20",
+     7254
+    ],
+    [
+     "2026-11-21",
+     7439
+    ],
+    [
+     "2026-11-22",
+     7628
+    ]
+   ],
+   "rising": {
+    "ratio": 0.0583,
+    "accel": 23.3,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.2361,
+   "commits": 1132,
+   "contributors": 32,
+   "suspect": false,
+   "adj_score": 14.728,
+   "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "google-research/paper-orchestra",
+   "url": "https://github.com/google-research/paper-orchestra",
+   "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+   "language": "Python",
+   "topics": [
+    "ai-research-assistant",
+    "multi-agent-systems"
+   ],
+   "stars": 5731,
+   "forks": 726,
+   "created": "2026-05-01",
+   "age": 205,
+   "velocity": 310,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/43830688?v=4",
+   "score": 13.349,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-17",
+     1537
+    ],
+    [
+     "2026-11-18",
+     3016
+    ],
+    [
+     "2026-11-19",
+     4294
+    ],
+    [
+     "2026-11-20",
+     5048
+    ],
+    [
+     "2026-11-21",
+     5439
+    ],
+    [
+     "2026-11-22",
+     5731
+    ]
+   ],
+   "rising": {
+    "ratio": 0.05409,
+    "accel": 11.1,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.1358,
+   "commits": 8,
+   "contributors": 7,
+   "suspect": false,
+   "adj_score": 13.349,
+   "summary": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "dream-num/univer",
+   "url": "https://github.com/dream-num/univer",
+   "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+   "language": "TypeScript",
+   "topics": [
+    "excel",
+    "spreadsheet",
+    "xlsx",
+    "doc",
+    "word",
+    "ppt"
+   ],
+   "stars": 31102,
+   "forks": 2834,
+   "created": "2022-09-29",
+   "age": 1515,
+   "velocity": 1034.3,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/61444807?v=4",
+   "score": 12.66,
+   "default_branch": "dev",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-12",
+     23193
+    ],
+    [
+     "2026-11-14",
+     25346
+    ],
+    [
+     "2026-11-15",
+     25887
+    ],
+    [
+     "2026-11-16",
+     25902
+    ],
+    [
+     "2026-11-17",
+     27794
+    ],
+    [
+     "2026-11-18",
+     28906
+    ],
+    [
+     "2026-11-19",
+     29888
+    ],
+    [
+     "2026-11-20",
+     30437
+    ],
+    [
+     "2026-11-21",
+     30945
+    ],
+    [
+     "2026-11-22",
+     31102
+    ]
+   ],
+   "rising": {
+    "ratio": 0.03325,
+    "accel": 50.4,
+    "release": "v1.6.0",
+    "release_date": "2026-11-21"
+   },
+   "engagement": 0.1909,
+   "commits": 6127,
+   "contributors": 84,
+   "suspect": false,
+   "adj_score": 12.66,
+   "summary": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "pingdotgg/t3code",
+   "url": "https://github.com/pingdotgg/t3code",
+   "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+   "language": "TypeScript",
+   "topics": [
+    "agent-orchestration",
+    "agents",
+    "ai",
+    "chatgpt",
+    "claude",
+    "claude-code"
+   ],
+   "stars": 69571,
+   "forks": 11900,
+   "created": "2026-02-08",
+   "age": 287,
+   "velocity": 1676.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/89191727?v=4",
+   "score": 11.524,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     52536
+    ],
+    [
+     "2026-11-10",
+     54159
+    ],
+    [
+     "2026-11-11",
+     55761
+    ],
+    [
+     "2026-11-12",
+     57077
+    ],
+    [
+     "2026-11-13",
+     58414
+    ],
+    [
+     "2026-11-14",
+     61211
+    ],
+    [
+     "2026-11-15",
+     61575
+    ],
+    [
+     "2026-11-16",
+     61578
+    ],
+    [
+     "2026-11-17",
+     62825
+    ],
+    [
+     "2026-11-18",
+     64146
+    ],
+    [
+     "2026-11-19",
+     65261
+    ],
+    [
+     "2026-11-20",
+     66447
+    ],
+    [
+     "2026-11-21",
+     67895
+    ],
+    [
+     "2026-11-22",
+     69571
+    ]
+   ],
+   "rising": {
+    "ratio": 0.02409,
+    "accel": 6.9,
+    "release": "v0.1.11",
+    "release_date": "2026-11-20"
+   },
+   "engagement": 0.3165,
+   "commits": 12957,
+   "contributors": 1322,
+   "suspect": false,
+   "adj_score": 11.524,
+   "summary": "The best way to control Claude Code, Codex and more from any computer or phone",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "backnotprop/plannotator",
+   "url": "https://github.com/backnotprop/plannotator",
+   "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+   "language": "TypeScript",
+   "topics": [
+    "claude-code",
+    "opencode",
+    "obsidian",
+    "pi-mono",
+    "plan-mode",
+    "codex"
+   ],
+   "stars": 14169,
+   "forks": 1411,
+   "created": "2025-12-28",
+   "age": 329,
+   "velocity": 485.1,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/7244317?u=ca99a5717dd0ce83ad6e9f39a00489f84e501fbe&v=4",
+   "score": 11.447,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     9951
+    ],
+    [
+     "2026-11-11",
+     10008
+    ],
+    [
+     "2026-11-12",
+     10078
+    ],
+    [
+     "2026-11-14",
+     11661
+    ],
+    [
+     "2026-11-15",
+     11864
+    ],
+    [
+     "2026-11-16",
+     11864
+    ],
+    [
+     "2026-11-17",
+     12572
+    ],
+    [
+     "2026-11-18",
+     13071
+    ],
+    [
+     "2026-11-19",
+     13459
+    ],
+    [
+     "2026-11-20",
+     13666
+    ],
+    [
+     "2026-11-21",
+     13900
+    ],
+    [
+     "2026-11-22",
+     14169
+    ]
+   ],
+   "rising": {
+    "ratio": 0.03424,
+    "accel": 11.3,
+    "release": "v0.29.1",
+    "release_date": "2026-11-19"
+   },
+   "engagement": 0.1561,
+   "commits": 11827,
+   "contributors": 214,
+   "suspect": false,
+   "adj_score": 11.447,
+   "summary": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Tracer-Cloud/opensre",
+   "url": "https://github.com/Tracer-Cloud/opensre",
+   "description": "The open-source agent for CI/CD reliability.",
+   "language": "Python",
+   "topics": [
+    "alerting",
+    "datadog",
+    "grafana",
+    "observability",
+    "remediation",
+    "root-cause-analysis"
+   ],
+   "stars": 13991,
+   "forks": 1943,
+   "created": "2026-01-13",
+   "age": 313,
+   "velocity": 450,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/196393879?v=4",
+   "score": 10.96,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-20",
+     13134
+    ],
+    [
+     "2026-11-21",
+     13615
+    ],
+    [
+     "2026-11-22",
+     13991
+    ]
+   ],
+   "rising": {
+    "ratio": 0.03216,
+    "accel": 10.1,
+    "release": "v0.1.2026.11.22",
+    "release_date": "2026-11-22"
+   },
+   "engagement": 0.3235,
+   "commits": 4445,
+   "contributors": 365,
+   "suspect": false,
+   "adj_score": 10.96,
+   "summary": "The open-source agent for CI/CD reliability.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "google-labs-code/stitch-skills",
+   "url": "https://github.com/google-labs-code/stitch-skills",
+   "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "language": "TypeScript",
+   "topics": [],
+   "stars": 11448,
+   "forks": 1440,
+   "created": "2026-01-16",
+   "age": 310,
+   "velocity": 347.3,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/161364575?v=4",
+   "score": 10.194,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-11",
+     8726
+    ],
+    [
+     "2026-11-12",
+     8742
+    ],
+    [
+     "2026-11-13",
+     8753
+    ],
+    [
+     "2026-11-15",
+     9317
+    ],
+    [
+     "2026-11-16",
+     9318
+    ],
+    [
+     "2026-11-17",
+     9739
+    ],
+    [
+     "2026-11-18",
+     10109
+    ],
+    [
+     "2026-11-19",
+     10406
+    ],
+    [
+     "2026-11-20",
+     10722
+    ],
+    [
+     "2026-11-21",
+     11040
+    ],
+    [
+     "2026-11-22",
+     11448
+    ]
+   ],
+   "rising": {
+    "ratio": 0.03034,
+    "accel": 9.4,
+    "release": "v1.0",
+    "release_date": "2026-05-18"
+   },
+   "engagement": 0.1364,
+   "commits": 112,
+   "contributors": 20,
+   "suspect": false,
+   "adj_score": 10.194,
+   "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "ag-ui-protocol/ag-ui",
+   "url": "https://github.com/ag-ui-protocol/ag-ui",
+   "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+   "language": "TypeScript",
+   "topics": [
+    "ag-ui-protocol",
+    "agent-frontend",
+    "agent-ui",
+    "agentic-workflow",
+    "ai-agents"
+   ],
+   "stars": 21019,
+   "forks": 2142,
+   "created": "2025-05-07",
+   "age": 564,
+   "velocity": 541.7,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/209775067?v=4",
+   "score": 10.108,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-15",
+     17897
+    ],
+    [
+     "2026-11-16",
+     17898
+    ],
+    [
+     "2026-11-17",
+     19010
+    ],
+    [
+     "2026-11-18",
+     20002
+    ],
+    [
+     "2026-11-19",
+     20438
+    ],
+    [
+     "2026-11-20",
+     20639
+    ],
+    [
+     "2026-11-21",
+     20820
+    ],
+    [
+     "2026-11-22",
+     21019
+    ]
+   ],
+   "rising": {
+    "ratio": 0.02577,
+    "accel": 14.5,
+    "release": "release/2026-11-21",
+    "release_date": "2026-11-21"
+   },
+   "engagement": 0.1495,
+   "commits": 5596,
+   "contributors": 177,
+   "suspect": false,
+   "adj_score": 10.108,
+   "summary": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "anomalyco/hex",
+   "url": "https://github.com/anomalyco/hex",
+   "description": "Local voice dictation for mac, windows and linux",
+   "language": "Rust",
+   "topics": [
+    "dictation",
+    "linux",
+    "local-first",
+    "macos",
+    "rust",
+    "speech-recognition"
+   ],
+   "stars": 7966,
+   "forks": 530,
+   "created": "2026-07-17",
+   "age": 128,
+   "velocity": 248.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/66570915?v=4",
+   "score": 9.735,
+   "default_branch": "dev",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     5833
+    ],
+    [
+     "2026-11-10",
+     5985
+    ],
+    [
+     "2026-11-11",
+     6205
+    ],
+    [
+     "2026-11-12",
+     6375
+    ],
+    [
+     "2026-11-13",
+     6495
+    ],
+    [
+     "2026-11-14",
+     6816
+    ],
+    [
+     "2026-11-15",
+     6920
+    ],
+    [
+     "2026-11-16",
+     6921
+    ],
+    [
+     "2026-11-17",
+     7138
+    ],
+    [
+     "2026-11-18",
+     7285
+    ],
+    [
+     "2026-11-19",
+     7462
+    ],
+    [
+     "2026-11-20",
+     7592
+    ],
+    [
+     "2026-11-21",
+     7718
+    ],
+    [
+     "2026-11-22",
+     7966
+    ]
+   ],
+   "rising": {
+    "ratio": 0.03113,
+    "accel": 4.0,
+    "release": "v3.4.0",
+    "release_date": "2026-11-11"
+   },
+   "engagement": 0.1709,
+   "commits": 2155,
+   "contributors": 31,
+   "suspect": false,
+   "adj_score": 9.735,
+   "summary": "Local voice dictation for mac, windows and linux",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "milind-soni/OpenMausBot",
+   "url": "https://github.com/milind-soni/OpenMausBot",
+   "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+   "language": "TypeScript",
+   "topics": [
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "computer-use",
+    "docker",
+    "electron"
+   ],
+   "stars": 26518,
+   "forks": 3782,
+   "created": "2026-08-11",
+   "age": 103,
+   "velocity": 558.4,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/46266943?u=86f0b5eeb3763a41da307bcff2b53c7017992713&v=4",
+   "score": 9.181,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     18302
+    ],
+    [
+     "2026-11-10",
+     19686
+    ],
+    [
+     "2026-11-11",
+     20639
+    ],
+    [
+     "2026-11-12",
+     21251
+    ],
+    [
+     "2026-11-13",
+     21727
+    ],
+    [
+     "2026-11-14",
+     23128
+    ],
+    [
+     "2026-11-15",
+     23438
+    ],
+    [
+     "2026-11-16",
+     23438
+    ],
+    [
+     "2026-11-17",
+     24209
+    ],
+    [
+     "2026-11-18",
+     24787
+    ],
+    [
+     "2026-11-19",
+     25392
+    ],
+    [
+     "2026-11-20",
+     25833
+    ],
+    [
+     "2026-11-21",
+     26207
+    ],
+    [
+     "2026-11-22",
+     26518
+    ]
+   ],
+   "rising": {
+    "ratio": 0.02106,
+    "accel": 2.2,
+    "release": "v0.1.176",
+    "release_date": "2026-11-21"
+   },
+   "engagement": 0.2045,
+   "commits": 12701,
+   "contributors": 303,
+   "suspect": false,
+   "adj_score": 9.181,
+   "summary": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "getarcaneapp/arcane",
+   "url": "https://github.com/getarcaneapp/arcane",
+   "description": "Modern Docker Management, Designed for Everyone",
+   "language": "Go",
+   "topics": [
+    "docker",
+    "docker-management",
+    "self-hosted",
+    "sveltekit",
+    "typescript",
+    "go"
+   ],
+   "stars": 10258,
+   "forks": 577,
+   "created": "2025-04-19",
+   "age": 582,
+   "velocity": 273.7,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/236685631?v=4",
+   "score": 9.173,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-17",
+     8740
+    ],
+    [
+     "2026-11-18",
+     9336
+    ],
+    [
+     "2026-11-19",
+     9809
+    ],
+    [
+     "2026-11-20",
+     10131
+    ],
+    [
+     "2026-11-21",
+     10195
+    ],
+    [
+     "2026-11-22",
+     10258
+    ]
+   ],
+   "rising": {
+    "ratio": 0.02668,
+    "accel": 15.5,
+    "release": "v3.1.1",
+    "release_date": "2026-11-19"
+   },
+   "engagement": 0.2056,
+   "commits": 4617,
+   "contributors": 101,
+   "suspect": false,
+   "adj_score": 9.173,
+   "summary": "Modern Docker Management, Designed for Everyone",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "zhouxiaoka/autoclip",
+   "url": "https://github.com/zhouxiaoka/autoclip",
+   "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+   "language": "Python",
+   "topics": [
+    "ai-video-editor",
+    "ai-agent",
+    "content-repurposing",
+    "desktop-app",
+    "douyin",
+    "instagram-reels"
+   ],
+   "stars": 12868,
+   "forks": 2075,
+   "created": "2025-07-08",
+   "age": 502,
+   "velocity": 319.4,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/78066887?u=835ccf44494d76bca82cacf914d8eaab109f62cf&v=4",
+   "score": 9.09,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-20",
+     11240
+    ],
+    [
+     "2026-11-21",
+     12191
+    ],
+    [
+     "2026-11-22",
+     12868
+    ]
+   ],
+   "rising": {
+    "ratio": 0.02482,
+    "accel": 12.5,
+    "release": "v1.5.8",
+    "release_date": "2026-11-02"
+   },
+   "engagement": 0.1759,
+   "commits": 1297,
+   "contributors": 7,
+   "suspect": false,
+   "adj_score": 9.09,
+   "summary": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "agent-substrate/substrate",
+   "url": "https://github.com/agent-substrate/substrate",
+   "description": "Agent Substrate: the core system",
+   "language": "Go",
+   "topics": [
+    "agents",
+    "cncf",
+    "sandboxing"
+   ],
+   "stars": 8098,
+   "forks": 888,
+   "created": "2026-05-13",
+   "age": 193,
+   "velocity": 208.1,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/280516639?v=4",
+   "score": 8.566,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     6234
+    ],
+    [
+     "2026-11-11",
+     6398
+    ],
+    [
+     "2026-11-12",
+     6473
+    ],
+    [
+     "2026-11-13",
+     6547
+    ],
+    [
+     "2026-11-16",
+     6811
+    ],
+    [
+     "2026-11-17",
+     6881
+    ],
+    [
+     "2026-11-18",
+     7337
+    ],
+    [
+     "2026-11-19",
+     7617
+    ],
+    [
+     "2026-11-20",
+     7816
+    ],
+    [
+     "2026-11-21",
+     8027
+    ],
+    [
+     "2026-11-22",
+     8098
+    ]
+   ],
+   "rising": {
+    "ratio": 0.0257,
+    "accel": 5.0,
+    "release": "v1.0.1",
+    "release_date": "2026-11-20"
+   },
+   "engagement": 0.2896,
+   "commits": 1781,
+   "contributors": 142,
+   "suspect": false,
+   "adj_score": 8.566,
+   "summary": "Agent Substrate: the core system",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "meta/astryx",
+   "url": "https://github.com/meta/astryx",
+   "description": "An open source design system that's fully customizable and agent ready",
+   "language": "TypeScript",
+   "topics": [],
+   "stars": 31815,
+   "forks": 2500,
+   "created": "2026-01-09",
+   "age": 317,
+   "velocity": 566.7,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/69631?v=4",
+   "score": 8.464,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     16909
+    ],
+    [
+     "2026-11-10",
+     20103
+    ],
+    [
+     "2026-11-11",
+     22874
+    ],
+    [
+     "2026-11-12",
+     25046
+    ],
+    [
+     "2026-11-13",
+     26577
+    ],
+    [
+     "2026-11-14",
+     28623
+    ],
+    [
+     "2026-11-15",
+     28901
+    ],
+    [
+     "2026-11-16",
+     28903
+    ],
+    [
+     "2026-11-17",
+     29605
+    ],
+    [
+     "2026-11-18",
+     30158
+    ],
+    [
+     "2026-11-19",
+     30577
+    ],
+    [
+     "2026-11-20",
+     30981
+    ],
+    [
+     "2026-11-21",
+     31350
+    ],
+    [
+     "2026-11-22",
+     31815
+    ]
+   ],
+   "rising": {
+    "ratio": 0.01781,
+    "accel": 5.6,
+    "release": "v0.7.17",
+    "release_date": "2026-11-20"
+   },
+   "engagement": 0.1396,
+   "commits": 8616,
+   "contributors": 144,
+   "suspect": false,
+   "adj_score": 8.464,
+   "summary": "An open source design system that's fully customizable and agent ready",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "martin-olivier/airgorah",
+   "url": "https://github.com/martin-olivier/airgorah",
+   "description": "A WiFi security auditing software",
+   "language": "Rust",
+   "topics": [
+    "gui",
+    "security",
+    "security-audit",
+    "wifi",
+    "wifi-security",
+    "wireless"
+   ],
+   "stars": 6804,
+   "forks": 1108,
+   "created": "2022-09-30",
+   "age": 1514,
+   "velocity": 169.7,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/58467105?u=f01b464cde725a282a9e9c67ddf24ef7168d8e43&v=4",
+   "score": 8.118,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-05",
+     5017
+    ],
+    [
+     "2026-11-14",
+     6202
+    ],
+    [
+     "2026-11-15",
+     6260
+    ],
+    [
+     "2026-11-16",
+     6260
+    ],
+    [
+     "2026-11-17",
+     6508
+    ],
+    [
+     "2026-11-18",
+     6601
+    ],
+    [
+     "2026-11-19",
+     6651
+    ],
+    [
+     "2026-11-20",
+     6685
+    ],
+    [
+     "2026-11-21",
+     6741
+    ],
+    [
+     "2026-11-22",
+     6804
+    ]
+   ],
+   "rising": {
+    "ratio": 0.02494,
+    "accel": 37.8,
+    "release": "v0.9.0",
+    "release_date": "2026-09-26"
+   },
+   "engagement": 0.1915,
+   "commits": 104,
+   "contributors": 3,
+   "suspect": false,
+   "adj_score": 8.118,
+   "summary": "A WiFi security auditing software",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "hieunc229/mailflare",
+   "url": "https://github.com/hieunc229/mailflare",
+   "description": "Email for professionals and teams",
+   "language": "TypeScript",
+   "topics": [
+    "cloudflare",
+    "cloudflare-workers",
+    "email"
+   ],
+   "stars": 7418,
+   "forks": 1301,
+   "created": "2026-05-26",
+   "age": 180,
+   "velocity": 176.6,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/8464869?u=1e5043b0d148682dc225ec11ceb9a135246afd7e&v=4",
+   "score": 7.991,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     5880
+    ],
+    [
+     "2026-11-10",
+     5934
+    ],
+    [
+     "2026-11-11",
+     5996
+    ],
+    [
+     "2026-11-12",
+     6087
+    ],
+    [
+     "2026-11-13",
+     6132
+    ],
+    [
+     "2026-11-14",
+     6380
+    ],
+    [
+     "2026-11-15",
+     6510
+    ],
+    [
+     "2026-11-16",
+     6510
+    ],
+    [
+     "2026-11-17",
+     6681
+    ],
+    [
+     "2026-11-18",
+     6887
+    ],
+    [
+     "2026-11-19",
+     7107
+    ],
+    [
+     "2026-11-20",
+     7309
+    ],
+    [
+     "2026-11-21",
+     7375
+    ],
+    [
+     "2026-11-22",
+     7418
+    ]
+   ],
+   "rising": {
+    "ratio": 0.0238,
+    "accel": 4.3,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.1914,
+   "commits": 651,
+   "contributors": 56,
+   "suspect": false,
+   "adj_score": 7.991,
+   "summary": "Email for professionals and teams",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "we-promise/sure",
+   "url": "https://github.com/we-promise/sure",
+   "description": "The personal finance app for everyone (by everyone)",
+   "language": "Ruby",
+   "topics": [],
+   "stars": 17148,
+   "forks": 1499,
+   "created": "2025-07-23",
+   "age": 487,
+   "velocity": 291.6,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/222344567?v=4",
+   "score": 7.405,
+   "default_branch": "main",
+   "flags": [
+    {
+     "kind": "migrated",
+     "text": "首个提交在 2024-02-02，比仓库创建早 537 天：老项目迁移或私有项目首次公开"
+    }
+   ],
+   "trend": [
+    [
+     "2026-11-11",
+     11967
+    ],
+    [
+     "2026-11-12",
+     12987
+    ],
+    [
+     "2026-11-13",
+     13932
+    ],
+    [
+     "2026-11-14",
+     15588
+    ],
+    [
+     "2026-11-15",
+     15722
+    ],
+    [
+     "2026-11-16",
+     15722
+    ],
+    [
+     "2026-11-17",
+     16013
+    ],
+    [
+     "2026-11-18",
+     16274
+    ],
+    [
+     "2026-11-19",
+     16502
+    ],
+    [
+     "2026-11-20",
+     16717
+    ],
+    [
+     "2026-11-21",
+     16912
+    ],
+    [
+     "2026-11-22",
+     17148
+    ]
+   ],
+   "rising": {
+    "ratio": 0.017,
+    "accel": 8.3,
+    "release": "v0.7.6-hotfix.2",
+    "release_date": "2026-11-21"
+   },
+   "engagement": 0.1681,
+   "commits": 4348,
+   "contributors": 493,
+   "first_commit": "2024-02-02",
+   "suspect": false,
+   "adj_score": 7.405,
+   "summary": "The personal finance app for everyone (by everyone)",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "HKUDS/CLI-Anything",
+   "url": "https://github.com/HKUDS/CLI-Anything",
+   "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "language": "Python",
+   "topics": [],
+   "stars": 62082,
+   "forks": 5633,
+   "created": "2026-03-08",
+   "age": 259,
+   "velocity": 769,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
+   "score": 7.397,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-19",
+     59750
+    ],
+    [
+     "2026-11-20",
+     60572
+    ],
+    [
+     "2026-11-21",
+     61393
+    ],
+    [
+     "2026-11-22",
+     62082
+    ]
+   ],
+   "rising": {
+    "ratio": 0.01239,
+    "accel": 3.2,
+    "release": "v0.4.0",
+    "release_date": "2026-06-25"
+   },
+   "engagement": 0.0975,
+   "commits": 893,
+   "contributors": 111,
+   "suspect": false,
+   "adj_score": 7.397,
+   "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "nightly-labs/openbot",
+   "url": "https://github.com/nightly-labs/openbot",
+   "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+   "language": "TypeScript",
+   "topics": [
+    "ai-agents",
+    "bun",
+    "codex",
+    "electron",
+    "local-first",
+    "macos"
+   ],
+   "stars": 9658,
+   "forks": 941,
+   "created": "2026-08-12",
+   "age": 102,
+   "velocity": 186.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/100160810?v=4",
+   "score": 7.259,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     6479
+    ],
+    [
+     "2026-11-10",
+     6708
+    ],
+    [
+     "2026-11-11",
+     6900
+    ],
+    [
+     "2026-11-12",
+     7100
+    ],
+    [
+     "2026-11-13",
+     7314
+    ],
+    [
+     "2026-11-14",
+     7898
+    ],
+    [
+     "2026-11-15",
+     7988
+    ],
+    [
+     "2026-11-16",
+     7988
+    ],
+    [
+     "2026-11-17",
+     8304
+    ],
+    [
+     "2026-11-18",
+     8655
+    ],
+    [
+     "2026-11-19",
+     8984
+    ],
+    [
+     "2026-11-20",
+     9234
+    ],
+    [
+     "2026-11-21",
+     9472
+    ],
+    [
+     "2026-11-22",
+     9658
+    ]
+   ],
+   "rising": {
+    "ratio": 0.01926,
+    "accel": 2.0,
+    "release": "v0.76.1",
+    "release_date": "2026-11-21"
+   },
+   "engagement": 0.9924,
+   "commits": 5067,
+   "contributors": 56,
+   "suspect": false,
+   "adj_score": 7.259,
+   "summary": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "larashero3-dotcom/lieflat-less-ai-tone",
+   "url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
+   "description": "一个基于 520 万字语料统计的去 AI 味 skill · An AI-tone removal skill grounded in a 5.2-million-character corpus study",
+   "language": "Python",
+   "topics": [],
+   "stars": 8562,
+   "forks": 611,
+   "created": "2026-08-20",
+   "age": 94,
+   "velocity": 168.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/260030037?u=fb3a4330f20f2ea6a5a52d8c5ad40dbcbe82be4a&v=4",
+   "score": 7.186,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     6917
+    ],
+    [
+     "2026-11-10",
+     7073
+    ],
+    [
+     "2026-11-11",
+     7232
+    ],
+    [
+     "2026-11-12",
+     7376
+    ],
+    [
+     "2026-11-13",
+     7500
+    ],
+    [
+     "2026-11-14",
+     7688
+    ],
+    [
+     "2026-11-15",
+     7688
+    ],
+    [
+     "2026-11-16",
+     7695
+    ],
+    [
+     "2026-11-17",
+     7761
+    ],
+    [
+     "2026-11-18",
+     7838
+    ],
+    [
+     "2026-11-19",
+     7939
+    ],
+    [
+     "2026-11-20",
+     8065
+    ],
+    [
+     "2026-11-21",
+     8394
+    ],
+    [
+     "2026-11-22",
+     8562
+    ]
+   ],
+   "rising": {
+    "ratio": 0.01962,
+    "accel": 1.8,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.0738,
+   "commits": 27,
+   "contributors": 2,
+   "suspect": false,
+   "adj_score": 7.186,
+   "summary": "一个基于 520 万字语料统计的去 AI 味 skill · An AI-tone removal skill grounded in a 5.2-million-character corpus study",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "openvinotoolkit/openvino",
+   "url": "https://github.com/openvinotoolkit/openvino",
+   "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+   "language": "C++",
+   "topics": [
+    "inference",
+    "deep-learning",
+    "openvino",
+    "ai",
+    "computer-vision",
+    "diffusion-models"
+   ],
+   "stars": 11935,
+   "forks": 3651,
+   "created": "2018-10-15",
+   "age": 2960,
+   "velocity": 200,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/55443902?v=4",
+   "score": 6.865,
+   "default_branch": "master",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-19",
+     11328
+    ],
+    [
+     "2026-11-20",
+     11568
+    ],
+    [
+     "2026-11-21",
+     11791
+    ],
+    [
+     "2026-11-22",
+     11935
+    ]
+   ],
+   "rising": {
+    "ratio": 0.01676,
+    "accel": 49.6,
+    "release": "2026.4.1",
+    "release_date": "2026-10-01"
+   },
+   "engagement": 0.6664,
+   "commits": 24002,
+   "contributors": 832,
+   "suspect": false,
+   "adj_score": 6.865,
+   "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "cursor/plugins",
+   "url": "https://github.com/cursor/plugins",
+   "description": "Cursor plugin specification and official plugins",
+   "language": "TypeScript",
+   "topics": [],
+   "stars": 18114,
+   "forks": 1977,
+   "created": "2026-01-23",
+   "age": 303,
+   "velocity": 260,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/126759922?v=4",
+   "score": 6.667,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-18",
+     16904
+    ],
+    [
+     "2026-11-19",
+     17208
+    ],
+    [
+     "2026-11-20",
+     17566
+    ],
+    [
+     "2026-11-21",
+     17850
+    ],
+    [
+     "2026-11-22",
+     18114
+    ]
+   ],
+   "rising": {
+    "ratio": 0.01435,
+    "accel": 4.3,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.1226,
+   "commits": 834,
+   "contributors": 55,
+   "suspect": false,
+   "adj_score": 6.667,
+   "summary": "Cursor plugin specification and official plugins",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "alibaba/open-code-review",
+   "url": "https://github.com/alibaba/open-code-review",
+   "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "language": "Go",
+   "topics": [
+    "agent",
+    "code-review",
+    "code-review-assistant",
+    "harness",
+    "repository-level-context",
+    "agent-skills"
+   ],
+   "stars": 55117,
+   "forks": 4566,
+   "created": "2026-05-18",
+   "age": 188,
+   "velocity": 576.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1961952?v=4",
+   "score": 6.499,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-01",
+     49188
+    ],
+    [
+     "2026-11-12",
+     49843
+    ],
+    [
+     "2026-11-14",
+     51810
+    ],
+    [
+     "2026-11-15",
+     52123
+    ],
+    [
+     "2026-11-16",
+     52124
+    ],
+    [
+     "2026-11-17",
+     52939
+    ],
+    [
+     "2026-11-18",
+     53735
+    ],
+    [
+     "2026-11-19",
+     54174
+    ],
+    [
+     "2026-11-20",
+     54389
+    ],
+    [
+     "2026-11-21",
+     54789
+    ],
+    [
+     "2026-11-22",
+     55117
+    ]
+   ],
+   "rising": {
+    "ratio": 0.01045,
+    "accel": 2.0,
+    "release": "v1.14.0",
+    "release_date": "2026-11-21"
+   },
+   "engagement": 0.0968,
+   "commits": 901,
+   "contributors": 234,
+   "suspect": false,
+   "adj_score": 6.499,
+   "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "mvanhorn/last30days-skill",
+   "url": "https://github.com/mvanhorn/last30days-skill",
+   "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "language": "Python",
+   "topics": [
+    "ai-prompts",
+    "claude",
+    "claude-code",
+    "reddit",
+    "twitter",
+    "hackernews"
+   ],
+   "stars": 72012,
+   "forks": 6375,
+   "created": "2026-01-23",
+   "age": 303,
+   "velocity": 599.7,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/455140?u=ca70dc656c8256c47d6739e4347937bf139c28e7&v=4",
+   "score": 5.839,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-03",
+     66372
+    ],
+    [
+     "2026-11-04",
+     66488
+    ],
+    [
+     "2026-11-13",
+     67445
+    ],
+    [
+     "2026-11-15",
+     67784
+    ],
+    [
+     "2026-11-16",
+     67784
+    ],
+    [
+     "2026-11-17",
+     68135
+    ],
+    [
+     "2026-11-18",
+     69080
+    ],
+    [
+     "2026-11-19",
+     70021
+    ],
+    [
+     "2026-11-20",
+     70805
+    ],
+    [
+     "2026-11-21",
+     71456
+    ],
+    [
+     "2026-11-22",
+     72012
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00833,
+    "accel": 2.5,
+    "release": "v4.5.0",
+    "release_date": "2026-11-21"
+   },
+   "engagement": 0.0959,
+   "commits": 1585,
+   "contributors": 188,
+   "suspect": false,
+   "adj_score": 5.839,
+   "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "cathrynlavery/diagram-design",
+   "url": "https://github.com/cathrynlavery/diagram-design",
+   "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "language": "HTML",
+   "topics": [
+    "agent-skills",
+    "claude-code",
+    "codex",
+    "data-visualization",
+    "diagrams",
+    "drawio"
+   ],
+   "stars": 69816,
+   "forks": 4685,
+   "created": "2026-04-16",
+   "age": 220,
+   "velocity": 583,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/50469282?u=531c607e0da8ba47a4c9a9c6ff818f6642f27258&v=4",
+   "score": 5.821,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-20",
+     68637
+    ],
+    [
+     "2026-11-21",
+     69288
+    ],
+    [
+     "2026-11-22",
+     69816
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00835,
+    "accel": 1.8,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.0716,
+   "commits": 475,
+   "contributors": 78,
+   "suspect": false,
+   "adj_score": 5.821,
+   "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "stablyai/orca",
+   "url": "https://github.com/stablyai/orca",
+   "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+   "language": "TypeScript",
+   "topics": [
+    "claude-code",
+    "codex",
+    "ghostty",
+    "terminal",
+    "opencode",
+    "orchestration"
+   ],
+   "stars": 132011,
+   "forks": 8414,
+   "created": "2026-03-17",
+   "age": 250,
+   "velocity": 950.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/127256420?v=4",
+   "score": 5.817,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     119340
+    ],
+    [
+     "2026-11-10",
+     120430
+    ],
+    [
+     "2026-11-11",
+     121476
+    ],
+    [
+     "2026-11-12",
+     122432
+    ],
+    [
+     "2026-11-13",
+     123514
+    ],
+    [
+     "2026-11-14",
+     125528
+    ],
+    [
+     "2026-11-15",
+     125804
+    ],
+    [
+     "2026-11-16",
+     125805
+    ],
+    [
+     "2026-11-17",
+     126796
+    ],
+    [
+     "2026-11-18",
+     127857
+    ],
+    [
+     "2026-11-19",
+     128912
+    ],
+    [
+     "2026-11-20",
+     129921
+    ],
+    [
+     "2026-11-21",
+     131061
+    ],
+    [
+     "2026-11-22",
+     132011
+    ]
+   ],
+   "rising": {
+    "ratio": 0.0072,
+    "accel": 1.8,
+    "release": "v1.4.269",
+    "release_date": "2026-11-21"
+   },
+   "engagement": 0.1587,
+   "commits": 23710,
+   "contributors": 1012,
+   "suspect": false,
+   "adj_score": 5.817,
+   "summary": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "tashfeenahmed/freellmapi",
+   "url": "https://github.com/tashfeenahmed/freellmapi",
+   "description": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+   "language": "TypeScript",
+   "topics": [],
+   "stars": 56190,
+   "forks": 8010,
+   "created": "2026-04-21",
+   "age": 215,
+   "velocity": 466.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/9307356?u=767af9ef0173d08641a20511cf920aa1fd9d7455&v=4",
+   "score": 5.597,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     49283
+    ],
+    [
+     "2026-11-10",
+     49752
+    ],
+    [
+     "2026-11-11",
+     50287
+    ],
+    [
+     "2026-11-12",
+     50760
+    ],
+    [
+     "2026-11-13",
+     51261
+    ],
+    [
+     "2026-11-14",
+     52733
+    ],
+    [
+     "2026-11-15",
+     52921
+    ],
+    [
+     "2026-11-16",
+     52922
+    ],
+    [
+     "2026-11-17",
+     53521
+    ],
+    [
+     "2026-11-18",
+     54076
+    ],
+    [
+     "2026-11-19",
+     54697
+    ],
+    [
+     "2026-11-20",
+     55251
+    ],
+    [
+     "2026-11-21",
+     55724
+    ],
+    [
+     "2026-11-22",
+     56190
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00829,
+    "accel": 1.8,
+    "release": "v0.16.38",
+    "release_date": "2026-11-21"
+   },
+   "engagement": 0.1596,
+   "commits": 1152,
+   "contributors": 136,
+   "suspect": false,
+   "adj_score": 5.597,
+   "summary": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Nutlope/hallmark",
+   "url": "https://github.com/Nutlope/hallmark",
+   "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+   "language": "CSS",
+   "topics": [],
+   "stars": 59071,
+   "forks": 3229,
+   "created": "2026-04-27",
+   "age": 209,
+   "velocity": 474.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/63742054?u=befe4ae74b906698be965bad482d0e02fc7707ab&v=4",
+   "score": 5.521,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     50988
+    ],
+    [
+     "2026-11-10",
+     51801
+    ],
+    [
+     "2026-11-11",
+     52623
+    ],
+    [
+     "2026-11-12",
+     53429
+    ],
+    [
+     "2026-11-13",
+     54022
+    ],
+    [
+     "2026-11-14",
+     55192
+    ],
+    [
+     "2026-11-15",
+     55516
+    ],
+    [
+     "2026-11-16",
+     55516
+    ],
+    [
+     "2026-11-17",
+     56142
+    ],
+    [
+     "2026-11-18",
+     56893
+    ],
+    [
+     "2026-11-19",
+     57541
+    ],
+    [
+     "2026-11-20",
+     58063
+    ],
+    [
+     "2026-11-21",
+     58597
+    ],
+    [
+     "2026-11-22",
+     59071
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00802,
+    "accel": 1.7,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.0572,
+   "commits": 349,
+   "contributors": 16,
+   "suspect": false,
+   "adj_score": 5.521,
+   "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "toeverything/AFFiNE",
+   "url": "https://github.com/toeverything/AFFiNE",
+   "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+   "language": "TypeScript",
+   "topics": [
+    "editor",
+    "crdt",
+    "knowledge-base",
+    "markdown",
+    "miro",
+    "notion"
+   ],
+   "stars": 76311,
+   "forks": 5595,
+   "created": "2022-07-31",
+   "age": 1575,
+   "velocity": 574,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/78728988?v=4",
+   "score": 5.511,
+   "default_branch": "canary",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-20",
+     75182
+    ],
+    [
+     "2026-11-21",
+     75805
+    ],
+    [
+     "2026-11-22",
+     76311
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00752,
+    "accel": 11.8,
+    "release": "v0.27.4",
+    "release_date": "2026-08-18"
+   },
+   "engagement": 0.1319,
+   "commits": 11580,
+   "contributors": 278,
+   "suspect": false,
+   "adj_score": 5.511,
+   "summary": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "ChromeDevTools/chrome-devtools-mcp",
+   "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+   "description": "Chrome DevTools for coding agents",
+   "language": "TypeScript",
+   "topics": [
+    "mcp-server",
+    "puppeteer",
+    "chrome-devtools",
+    "browser",
+    "chrome",
+    "debugging"
+   ],
+   "stars": 58695,
+   "forks": 4905,
+   "created": "2025-09-11",
+   "age": 437,
+   "velocity": 399.3,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/11260967?v=4",
+   "score": 4.942,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-13",
+     55177
+    ],
+    [
+     "2026-11-14",
+     56385
+    ],
+    [
+     "2026-11-15",
+     56878
+    ],
+    [
+     "2026-11-16",
+     56974
+    ],
+    [
+     "2026-11-17",
+     57689
+    ],
+    [
+     "2026-11-18",
+     58036
+    ],
+    [
+     "2026-11-19",
+     58212
+    ],
+    [
+     "2026-11-20",
+     58369
+    ],
+    [
+     "2026-11-21",
+     58543
+    ],
+    [
+     "2026-11-22",
+     58695
+    ]
+   ],
+   "rising": {
+    "ratio": 0.0068,
+    "accel": 3.0,
+    "release": "chrome-devtools-mcp-v1.13.0",
+    "release_date": "2026-11-11"
+   },
+   "engagement": 0.1005,
+   "commits": 1653,
+   "contributors": 177,
+   "suspect": false,
+   "adj_score": 4.942,
+   "summary": "Chrome DevTools for coding agents",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "firecrawl/firecrawl",
+   "url": "https://github.com/firecrawl/firecrawl",
+   "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+   "language": "TypeScript",
+   "topics": [
+    "ai",
+    "crawler",
+    "markdown",
+    "scraper",
+    "html-to-markdown",
+    "llm"
+   ],
+   "stars": 206217,
+   "forks": 10782,
+   "created": "2024-04-15",
+   "age": 951,
+   "velocity": 1006,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/135057108?v=4",
+   "score": 4.83,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-20",
+     204241
+    ],
+    [
+     "2026-11-21",
+     205282
+    ],
+    [
+     "2026-11-22",
+     206217
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00488,
+    "accel": 4.6,
+    "release": "v2.11.0",
+    "release_date": "2026-06-19"
+   },
+   "engagement": 0.0598,
+   "commits": 6944,
+   "contributors": 169,
+   "suspect": false,
+   "adj_score": 4.83,
+   "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "AgriciDaniel/claude-seo",
+   "url": "https://github.com/AgriciDaniel/claude-seo",
+   "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+   "language": "Python",
+   "topics": [
+    "claude-code",
+    "seo",
+    "ai",
+    "ai-seo",
+    "claude-code-skill",
+    "marketing-automation"
+   ],
+   "stars": 31408,
+   "forks": 3881,
+   "created": "2026-02-07",
+   "age": 288,
+   "velocity": 242.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/223140489?u=4fbbeca530fc85f1e64339bf9445ba858879ccfd&v=4",
+   "score": 4.822,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     27483
+    ],
+    [
+     "2026-11-10",
+     27721
+    ],
+    [
+     "2026-11-11",
+     27924
+    ],
+    [
+     "2026-11-12",
+     28283
+    ],
+    [
+     "2026-11-13",
+     28694
+    ],
+    [
+     "2026-11-14",
+     29426
+    ],
+    [
+     "2026-11-15",
+     29699
+    ],
+    [
+     "2026-11-16",
+     29727
+    ],
+    [
+     "2026-11-17",
+     30056
+    ],
+    [
+     "2026-11-18",
+     30406
+    ],
+    [
+     "2026-11-19",
+     30675
+    ],
+    [
+     "2026-11-20",
+     30939
+    ],
+    [
+     "2026-11-21",
+     31166
+    ],
+    [
+     "2026-11-22",
+     31408
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00771,
+    "accel": 2.2,
+    "release": "v2.6.2",
+    "release_date": "2026-11-15"
+   },
+   "engagement": 0.1331,
+   "commits": 675,
+   "contributors": 50,
+   "suspect": false,
+   "adj_score": 4.822,
+   "summary": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "jingyaogong/minimind",
+   "url": "https://github.com/jingyaogong/minimind",
+   "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+   "language": "Python",
+   "topics": [
+    "artificial-intelligence",
+    "large-language-model"
+   ],
+   "stars": 68157,
+   "forks": 8908,
+   "created": "2024-07-27",
+   "age": 848,
+   "velocity": 411.3,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/62287848?u=d4a009e1468818967e9bed23e8c32b92edd2b502&v=4",
+   "score": 4.678,
+   "default_branch": "master",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-18",
+     65988
+    ],
+    [
+     "2026-11-19",
+     66497
+    ],
+    [
+     "2026-11-20",
+     66878
+    ],
+    [
+     "2026-11-21",
+     67695
+    ],
+    [
+     "2026-11-22",
+     68157
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00603,
+    "accel": 5.1,
+    "release": "v2",
+    "release_date": "2025-10-21"
+   },
+   "engagement": 0.1449,
+   "commits": 445,
+   "contributors": 28,
+   "suspect": false,
+   "adj_score": 4.678,
+   "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "FlashML-org/FreeToken",
+   "url": "https://github.com/FlashML-org/FreeToken",
+   "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+   "language": "Python",
+   "topics": [
+    "deepseek-v4",
+    "edge",
+    "glm",
+    "inference",
+    "minimax",
+    "moe"
+   ],
+   "stars": 17579,
+   "forks": 1747,
+   "created": "2026-07-20",
+   "age": 125,
+   "velocity": 150.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/286493426?u=1ebbb1fffd1e24f1dcda0610547f6d10cf10c5f3&v=4",
+   "score": 4.635,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-06",
+     16715
+    ],
+    [
+     "2026-11-09",
+     16847
+    ],
+    [
+     "2026-11-10",
+     16932
+    ],
+    [
+     "2026-11-11",
+     16996
+    ],
+    [
+     "2026-11-12",
+     17043
+    ],
+    [
+     "2026-11-13",
+     17098
+    ],
+    [
+     "2026-11-14",
+     17193
+    ],
+    [
+     "2026-11-16",
+     17225
+    ],
+    [
+     "2026-11-17",
+     17247
+    ],
+    [
+     "2026-11-18",
+     17274
+    ],
+    [
+     "2026-11-19",
+     17293
+    ],
+    [
+     "2026-11-20",
+     17316
+    ],
+    [
+     "2026-11-21",
+     17429
+    ],
+    [
+     "2026-11-22",
+     17579
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00853,
+    "accel": 1.1,
+    "release": "v0.2.2",
+    "release_date": "2026-11-09"
+   },
+   "engagement": 0.1297,
+   "commits": 240,
+   "contributors": 32,
+   "suspect": false,
+   "adj_score": 4.635,
+   "summary": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "xerj-org/xerj",
+   "url": "https://github.com/xerj-org/xerj",
+   "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+   "language": "Rust",
+   "topics": [
+    "elasticsearch",
+    "hybrid-search",
+    "search-engine",
+    "vector-search",
+    "agent-memory",
+    "ai-agents"
+   ],
+   "stars": 19247,
+   "forks": 1208,
+   "created": "2026-06-30",
+   "age": 145,
+   "velocity": 159.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/297525353?v=4",
+   "score": 4.613,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     18605
+    ],
+    [
+     "2026-11-10",
+     18678
+    ],
+    [
+     "2026-11-11",
+     18785
+    ],
+    [
+     "2026-11-12",
+     18869
+    ],
+    [
+     "2026-11-13",
+     18973
+    ],
+    [
+     "2026-11-14",
+     19110
+    ],
+    [
+     "2026-11-15",
+     19122
+    ],
+    [
+     "2026-11-16",
+     19122
+    ],
+    [
+     "2026-11-17",
+     19155
+    ],
+    [
+     "2026-11-18",
+     19207
+    ],
+    [
+     "2026-11-19",
+     19242
+    ],
+    [
+     "2026-11-20",
+     18012
+    ],
+    [
+     "2026-11-21",
+     19088
+    ],
+    [
+     "2026-11-22",
+     19247
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00826,
+    "accel": 1.2,
+    "release": "v1.0.0-rc.104",
+    "release_date": "2026-11-19"
+   },
+   "engagement": 0.1205,
+   "commits": 4505,
+   "contributors": 147,
+   "suspect": false,
+   "adj_score": 4.613,
+   "summary": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "ifixai-ai/iFixAi",
+   "url": "https://github.com/ifixai-ai/iFixAi",
+   "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+   "language": "Python",
+   "topics": [
+    "ai",
+    "diagnostic-tool",
+    "agent-evaluation",
+    "ai-alignment",
+    "ai-evaluation",
+    "ai-governance"
+   ],
+   "stars": 46662,
+   "forks": 1826,
+   "created": "2026-04-27",
+   "age": 209,
+   "velocity": 299.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/279006089?v=4",
+   "score": 4.566,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     44099
+    ],
+    [
+     "2026-11-10",
+     44320
+    ],
+    [
+     "2026-11-11",
+     44578
+    ],
+    [
+     "2026-11-12",
+     44850
+    ],
+    [
+     "2026-11-13",
+     45080
+    ],
+    [
+     "2026-11-14",
+     45745
+    ],
+    [
+     "2026-11-15",
+     45790
+    ],
+    [
+     "2026-11-16",
+     45793
+    ],
+    [
+     "2026-11-17",
+     46072
+    ],
+    [
+     "2026-11-18",
+     46227
+    ],
+    [
+     "2026-11-19",
+     46581
+    ],
+    [
+     "2026-11-20",
+     46303
+    ],
+    [
+     "2026-11-21",
+     46363
+    ],
+    [
+     "2026-11-22",
+     46662
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00641,
+    "accel": 1.3,
+    "release": "v4.4.0",
+    "release_date": "2026-11-20"
+   },
+   "engagement": 0.0503,
+   "commits": 386,
+   "contributors": 25,
+   "suspect": false,
+   "adj_score": 4.566,
+   "summary": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "vercel-labs/agent-desktop",
+   "url": "https://github.com/vercel-labs/agent-desktop",
+   "description": "Computer use CLI for AI agents",
+   "language": "Rust",
+   "topics": [
+    "accessibility",
+    "accessibility-api",
+    "ai-agents",
+    "automation",
+    "cli",
+    "desktop-automation"
+   ],
+   "stars": 25961,
+   "forks": 1940,
+   "created": "2026-02-19",
+   "age": 276,
+   "velocity": 188.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/108547162?v=4",
+   "score": 4.461,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     19681
+    ],
+    [
+     "2026-11-10",
+     20489
+    ],
+    [
+     "2026-11-11",
+     21405
+    ],
+    [
+     "2026-11-12",
+     22106
+    ],
+    [
+     "2026-11-13",
+     22738
+    ],
+    [
+     "2026-11-14",
+     24077
+    ],
+    [
+     "2026-11-15",
+     24196
+    ],
+    [
+     "2026-11-16",
+     24197
+    ],
+    [
+     "2026-11-17",
+     24614
+    ],
+    [
+     "2026-11-18",
+     25008
+    ],
+    [
+     "2026-11-19",
+     25305
+    ],
+    [
+     "2026-11-20",
+     25555
+    ],
+    [
+     "2026-11-21",
+     25773
+    ],
+    [
+     "2026-11-22",
+     25961
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00724,
+    "accel": 2.0,
+    "release": "v1.3.1",
+    "release_date": "2026-11-13"
+   },
+   "engagement": 0.0826,
+   "commits": 351,
+   "contributors": 20,
+   "suspect": false,
+   "adj_score": 4.461,
+   "summary": "Computer use CLI for AI agents",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "vercel-labs/agent-browser",
+   "url": "https://github.com/vercel-labs/agent-browser",
+   "description": "Browser automation CLI for AI agents",
+   "language": "Rust",
+   "topics": [],
+   "stars": 53237,
+   "forks": 3727,
+   "created": "2026-01-11",
+   "age": 315,
+   "velocity": 313.3,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/108547162?v=4",
+   "score": 4.411,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     47641
+    ],
+    [
+     "2026-11-10",
+     48482
+    ],
+    [
+     "2026-11-11",
+     49226
+    ],
+    [
+     "2026-11-12",
+     49886
+    ],
+    [
+     "2026-11-13",
+     50337
+    ],
+    [
+     "2026-11-14",
+     51473
+    ],
+    [
+     "2026-11-15",
+     51641
+    ],
+    [
+     "2026-11-16",
+     51642
+    ],
+    [
+     "2026-11-17",
+     52028
+    ],
+    [
+     "2026-11-18",
+     52377
+    ],
+    [
+     "2026-11-19",
+     52652
+    ],
+    [
+     "2026-11-20",
+     52889
+    ],
+    [
+     "2026-11-21",
+     53082
+    ],
+    [
+     "2026-11-22",
+     53237
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00588,
+    "accel": 1.9,
+    "release": "v0.43.0",
+    "release_date": "2026-11-12"
+   },
+   "engagement": 0.0877,
+   "commits": 871,
+   "contributors": 203,
+   "suspect": false,
+   "adj_score": 4.411,
+   "summary": "Browser automation CLI for AI agents",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "debpalash/VoiceStudio",
+   "url": "https://github.com/debpalash/VoiceStudio",
+   "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+   "language": "Python",
+   "topics": [
+    "tts",
+    "voice-cloning",
+    "voice-generation",
+    "voice-ai",
+    "ai",
+    "cuda"
+   ],
+   "stars": 115980,
+   "forks": 12895,
+   "created": "2026-04-09",
+   "age": 227,
+   "velocity": 552.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/4178343?u=c3dadd2ebe429c753e2557c2c5c6dfcdb912969e&v=4",
+   "score": 4.357,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     105045
+    ],
+    [
+     "2026-11-10",
+     106186
+    ],
+    [
+     "2026-11-11",
+     107295
+    ],
+    [
+     "2026-11-12",
+     108372
+    ],
+    [
+     "2026-11-13",
+     109217
+    ],
+    [
+     "2026-11-14",
+     111126
+    ],
+    [
+     "2026-11-15",
+     111378
+    ],
+    [
+     "2026-11-16",
+     111378
+    ],
+    [
+     "2026-11-17",
+     111949
+    ],
+    [
+     "2026-11-18",
+     112844
+    ],
+    [
+     "2026-11-19",
+     113562
+    ],
+    [
+     "2026-11-20",
+     114370
+    ],
+    [
+     "2026-11-21",
+     115428
+    ],
+    [
+     "2026-11-22",
+     115980
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00476,
+    "accel": 1.1,
+    "release": "v0.5.8",
+    "release_date": "2026-11-12"
+   },
+   "engagement": 0.1276,
+   "commits": 8287,
+   "contributors": 161,
+   "suspect": false,
+   "adj_score": 4.357,
+   "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "cloudflare/security-audit-skill",
+   "url": "https://github.com/cloudflare/security-audit-skill",
+   "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "language": "JavaScript",
+   "topics": [],
+   "stars": 76705,
+   "forks": 5169,
+   "created": "2026-06-18",
+   "age": 157,
+   "velocity": 398.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/314135?v=4",
+   "score": 4.314,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     66902
+    ],
+    [
+     "2026-11-10",
+     68086
+    ],
+    [
+     "2026-11-11",
+     69346
+    ],
+    [
+     "2026-11-12",
+     70391
+    ],
+    [
+     "2026-11-13",
+     71228
+    ],
+    [
+     "2026-11-14",
+     72988
+    ],
+    [
+     "2026-11-15",
+     73253
+    ],
+    [
+     "2026-11-16",
+     73254
+    ],
+    [
+     "2026-11-17",
+     73974
+    ],
+    [
+     "2026-11-18",
+     74805
+    ],
+    [
+     "2026-11-19",
+     75382
+    ],
+    [
+     "2026-11-20",
+     75846
+    ],
+    [
+     "2026-11-21",
+     76307
+    ],
+    [
+     "2026-11-22",
+     76705
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00519,
+    "accel": 0.8,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.0716,
+   "commits": 14,
+   "contributors": 77,
+   "suspect": false,
+   "adj_score": 4.314,
+   "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Vincentwei1021/video-shotcraft",
+   "url": "https://github.com/Vincentwei1021/video-shotcraft",
+   "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
+   "language": "TypeScript",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "ai-video",
+    "claude-code",
+    "claude-code-skills",
+    "claude-skills"
+   ],
+   "stars": 21970,
+   "forks": 2028,
+   "created": "2026-07-19",
+   "age": 126,
+   "velocity": 151.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/18239147?u=2fa61f3304043dfc8da872ac7b171f07c390fd52&v=4",
+   "score": 4.165,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-06",
+     17270
+    ],
+    [
+     "2026-11-09",
+     17908
+    ],
+    [
+     "2026-11-10",
+     18188
+    ],
+    [
+     "2026-11-11",
+     18491
+    ],
+    [
+     "2026-11-12",
+     18772
+    ],
+    [
+     "2026-11-13",
+     18997
+    ],
+    [
+     "2026-11-15",
+     20077
+    ],
+    [
+     "2026-11-16",
+     20079
+    ],
+    [
+     "2026-11-17",
+     20592
+    ],
+    [
+     "2026-11-18",
+     21010
+    ],
+    [
+     "2026-11-19",
+     21323
+    ],
+    [
+     "2026-11-20",
+     21669
+    ],
+    [
+     "2026-11-21",
+     21819
+    ],
+    [
+     "2026-11-22",
+     21970
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00687,
+    "accel": 0.9,
+    "release": "showcase-media",
+    "release_date": "2026-09-01"
+   },
+   "engagement": 0.0972,
+   "commits": 138,
+   "contributors": 15,
+   "suspect": false,
+   "adj_score": 4.165,
+   "summary": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "pbakaus/impeccable",
+   "url": "https://github.com/pbakaus/impeccable",
+   "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+   "language": "Rust",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "anti-slop",
+    "design",
+    "slop"
+   ],
+   "stars": 114549,
+   "forks": 6814,
+   "created": "2025-11-16",
+   "age": 371,
+   "velocity": 491.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/43004?u=a2129579fad3fa98301c2d64da926bbb5fb6b129&v=4",
+   "score": 4.058,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     106235
+    ],
+    [
+     "2026-11-10",
+     106899
+    ],
+    [
+     "2026-11-11",
+     107611
+    ],
+    [
+     "2026-11-12",
+     108324
+    ],
+    [
+     "2026-11-13",
+     109008
+    ],
+    [
+     "2026-11-14",
+     110556
+    ],
+    [
+     "2026-11-15",
+     110769
+    ],
+    [
+     "2026-11-16",
+     110772
+    ],
+    [
+     "2026-11-17",
+     111395
+    ],
+    [
+     "2026-11-18",
+     112210
+    ],
+    [
+     "2026-11-19",
+     112913
+    ],
+    [
+     "2026-11-20",
+     113488
+    ],
+    [
+     "2026-11-21",
+     114058
+    ],
+    [
+     "2026-11-22",
+     114549
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00429,
+    "accel": 1.6,
+    "release": "engine-v0.1.28",
+    "release_date": "2026-11-19"
+   },
+   "engagement": 0.0662,
+   "commits": 3795,
+   "contributors": 61,
+   "suspect": false,
+   "adj_score": 4.058,
+   "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "nginx/nginx",
+   "url": "https://github.com/nginx/nginx",
+   "description": "The official NGINX Open Source repository.",
+   "language": "C",
+   "topics": [
+    "content-cache",
+    "load-balancer",
+    "reverse-proxy",
+    "web-server",
+    "http",
+    "https"
+   ],
+   "stars": 32735,
+   "forks": 8374,
+   "created": "2015-06-23",
+   "age": 4170,
+   "velocity": 189,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1412239?v=4",
+   "score": 3.987,
+   "default_branch": "master",
+   "flags": [
+    {
+     "kind": "migrated",
+     "text": "首个提交在 2002-08-06，比仓库创建早 4704 天：老项目迁移或私有项目首次公开"
+    }
+   ],
+   "trend": [
+    [
+     "2026-11-20",
+     32337
+    ],
+    [
+     "2026-11-21",
+     32568
+    ],
+    [
+     "2026-11-22",
+     32735
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00577,
+    "accel": 24.1,
+    "release": "release-1.31.9",
+    "release_date": "2026-11-18"
+   },
+   "engagement": 0.3056,
+   "commits": 8807,
+   "contributors": 129,
+   "first_commit": "2002-08-06",
+   "suspect": false,
+   "adj_score": 3.987,
+   "summary": "The official NGINX Open Source repository.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "heygen-com/hyperframes",
+   "url": "https://github.com/heygen-com/hyperframes",
+   "description": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
+   "language": "TypeScript",
+   "topics": [
+    "ai",
+    "animation",
+    "ffmpeg",
+    "framework",
+    "gsap",
+    "html"
+   ],
+   "stars": 87861,
+   "forks": 8177,
+   "created": "2026-03-10",
+   "age": 257,
+   "velocity": 387.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/65394575?v=4",
+   "score": 3.956,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     81107
+    ],
+    [
+     "2026-11-10",
+     81701
+    ],
+    [
+     "2026-11-11",
+     82325
+    ],
+    [
+     "2026-11-12",
+     82931
+    ],
+    [
+     "2026-11-13",
+     83444
+    ],
+    [
+     "2026-11-14",
+     84603
+    ],
+    [
+     "2026-11-15",
+     84757
+    ],
+    [
+     "2026-11-16",
+     84760
+    ],
+    [
+     "2026-11-17",
+     85252
+    ],
+    [
+     "2026-11-18",
+     85999
+    ],
+    [
+     "2026-11-19",
+     86534
+    ],
+    [
+     "2026-11-20",
+     87051
+    ],
+    [
+     "2026-11-21",
+     87474
+    ],
+    [
+     "2026-11-22",
+     87861
+    ]
+   ],
+   "rising": {
+    "ratio": 0.0044,
+    "accel": 1.1,
+    "release": "v0.9.79",
+    "release_date": "2026-11-21"
+   },
+   "engagement": 0.1036,
+   "commits": 7754,
+   "contributors": 182,
+   "suspect": false,
+   "adj_score": 3.956,
+   "summary": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "blader/humanizer",
+   "url": "https://github.com/blader/humanizer",
+   "description": "Agent skill that removes signs of AI-generated writing from text",
+   "language": "Python",
+   "topics": [
+    "agent-skills",
+    "ai-writing",
+    "claude-code",
+    "codex",
+    "cursor",
+    "prompt-engineering"
+   ],
+   "stars": 71994,
+   "forks": 5633,
+   "created": "2026-01-18",
+   "age": 308,
+   "velocity": 318.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1672?v=4",
+   "score": 3.832,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     66526
+    ],
+    [
+     "2026-11-10",
+     67118
+    ],
+    [
+     "2026-11-11",
+     67569
+    ],
+    [
+     "2026-11-12",
+     67993
+    ],
+    [
+     "2026-11-13",
+     68422
+    ],
+    [
+     "2026-11-14",
+     69377
+    ],
+    [
+     "2026-11-15",
+     69486
+    ],
+    [
+     "2026-11-16",
+     69487
+    ],
+    [
+     "2026-11-17",
+     69919
+    ],
+    [
+     "2026-11-18",
+     70379
+    ],
+    [
+     "2026-11-19",
+     70833
+    ],
+    [
+     "2026-11-20",
+     71271
+    ],
+    [
+     "2026-11-21",
+     71676
+    ],
+    [
+     "2026-11-22",
+     71994
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00442,
+    "accel": 1.4,
+    "release": "v4.0.0",
+    "release_date": "2026-11-10"
+   },
+   "engagement": 0.084,
+   "commits": 130,
+   "contributors": 34,
+   "suspect": false,
+   "adj_score": 3.832,
+   "summary": "Agent skill that removes signs of AI-generated writing from text",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "sherlock-project/sherlock",
+   "url": "https://github.com/sherlock-project/sherlock",
+   "description": "Hunt down social media accounts by username across social networks",
+   "language": "Python",
+   "topics": [
+    "osint",
+    "reconnaissance",
+    "linux",
+    "cli",
+    "sherlock",
+    "python3"
+   ],
+   "stars": 115489,
+   "forks": 13223,
+   "created": "2018-12-24",
+   "age": 2890,
+   "velocity": 437.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/48293496?v=4",
+   "score": 3.741,
+   "default_branch": "master",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     103656
+    ],
+    [
+     "2026-11-10",
+     107070
+    ],
+    [
+     "2026-11-11",
+     109000
+    ],
+    [
+     "2026-11-12",
+     110102
+    ],
+    [
+     "2026-11-13",
+     110584
+    ],
+    [
+     "2026-11-14",
+     112246
+    ],
+    [
+     "2026-11-15",
+     112503
+    ],
+    [
+     "2026-11-16",
+     112504
+    ],
+    [
+     "2026-11-17",
+     113184
+    ],
+    [
+     "2026-11-18",
+     113777
+    ],
+    [
+     "2026-11-19",
+     114193
+    ],
+    [
+     "2026-11-20",
+     114613
+    ],
+    [
+     "2026-11-21",
+     115052
+    ],
+    [
+     "2026-11-22",
+     115489
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00378,
+    "accel": 10.9,
+    "release": "v0.16.2",
+    "release_date": "2026-09-08"
+   },
+   "engagement": 0.1382,
+   "commits": 2934,
+   "contributors": 279,
+   "suspect": false,
+   "adj_score": 3.741,
+   "summary": "Hunt down social media accounts by username across social networks",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "JustVugg/colibri",
+   "url": "https://github.com/JustVugg/colibri",
+   "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+   "language": "C",
+   "topics": [],
+   "stars": 52713,
+   "forks": 6384,
+   "created": "2026-07-01",
+   "age": 144,
+   "velocity": 230.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/13022503?u=16b428ea8d9b8897f7268ab4257b57bfbad64c45&v=4",
+   "score": 3.595,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-06",
+     48178
+    ],
+    [
+     "2026-11-09",
+     49109
+    ],
+    [
+     "2026-11-10",
+     49414
+    ],
+    [
+     "2026-11-11",
+     49772
+    ],
+    [
+     "2026-11-12",
+     49979
+    ],
+    [
+     "2026-11-13",
+     50476
+    ],
+    [
+     "2026-11-14",
+     51175
+    ],
+    [
+     "2026-11-16",
+     51375
+    ],
+    [
+     "2026-11-17",
+     51588
+    ],
+    [
+     "2026-11-18",
+     51772
+    ],
+    [
+     "2026-11-19",
+     51978
+    ],
+    [
+     "2026-11-20",
+     52246
+    ],
+    [
+     "2026-11-21",
+     52483
+    ],
+    [
+     "2026-11-22",
+     52713
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00436,
+    "accel": 0.6,
+    "release": "v2.1.0",
+    "release_date": "2026-10-31"
+   },
+   "engagement": 0.1417,
+   "commits": 5150,
+   "contributors": 192,
+   "suspect": false,
+   "adj_score": 3.595,
+   "summary": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "HKUDS/DeepTutor",
+   "url": "https://github.com/HKUDS/DeepTutor",
+   "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+   "language": "Python",
+   "topics": [
+    "ai-tutor",
+    "deepresearch",
+    "interactive-learning",
+    "multi-agent-systems",
+    "rag",
+    "ai-agents"
+   ],
+   "stars": 61358,
+   "forks": 7409,
+   "created": "2025-12-28",
+   "age": 329,
+   "velocity": 255.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
+   "score": 3.575,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-06",
+     55464
+    ],
+    [
+     "2026-11-09",
+     57033
+    ],
+    [
+     "2026-11-10",
+     57627
+    ],
+    [
+     "2026-11-11",
+     58003
+    ],
+    [
+     "2026-11-12",
+     58346
+    ],
+    [
+     "2026-11-13",
+     58660
+    ],
+    [
+     "2026-11-14",
+     59281
+    ],
+    [
+     "2026-11-16",
+     59495
+    ],
+    [
+     "2026-11-17",
+     59790
+    ],
+    [
+     "2026-11-18",
+     60070
+    ],
+    [
+     "2026-11-19",
+     60495
+    ],
+    [
+     "2026-11-20",
+     60819
+    ],
+    [
+     "2026-11-21",
+     61103
+    ],
+    [
+     "2026-11-22",
+     61358
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00416,
+    "accel": 1.4,
+    "release": "v1.7.4",
+    "release_date": "2026-11-20"
+   },
+   "engagement": 0.1406,
+   "commits": 4121,
+   "contributors": 321,
+   "suspect": false,
+   "adj_score": 3.575,
+   "summary": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Leonxlnx/taste-skill",
+   "url": "https://github.com/Leonxlnx/taste-skill",
+   "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+   "language": "JavaScript",
+   "topics": [
+    "claude-code",
+    "codex",
+    "frontend",
+    "agent-skills",
+    "ai-agents",
+    "anti-slop"
+   ],
+   "stars": 119753,
+   "forks": 8016,
+   "created": "2026-02-19",
+   "age": 276,
+   "velocity": 407.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/219127460?u=756c535309425d086d735cbbb410de4fd9013a63&v=4",
+   "score": 3.504,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     112056
+    ],
+    [
+     "2026-11-10",
+     112535
+    ],
+    [
+     "2026-11-11",
+     113009
+    ],
+    [
+     "2026-11-12",
+     113591
+    ],
+    [
+     "2026-11-13",
+     114324
+    ],
+    [
+     "2026-11-14",
+     115774
+    ],
+    [
+     "2026-11-15",
+     116253
+    ],
+    [
+     "2026-11-16",
+     116254
+    ],
+    [
+     "2026-11-17",
+     116929
+    ],
+    [
+     "2026-11-18",
+     117748
+    ],
+    [
+     "2026-11-19",
+     118433
+    ],
+    [
+     "2026-11-20",
+     118911
+    ],
+    [
+     "2026-11-21",
+     119346
+    ],
+    [
+     "2026-11-22",
+     119753
+    ]
+   ],
+   "rising": {
+    "ratio": 0.0034,
+    "accel": 0.9,
+    "release": "v2.5.1",
+    "release_date": "2026-11-07"
+   },
+   "engagement": 0.0702,
+   "commits": 321,
+   "contributors": 22,
+   "suspect": false,
+   "adj_score": 3.504,
+   "summary": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "vorssaint/vorssaint-utils",
+   "url": "https://github.com/vorssaint/vorssaint-utils",
+   "description": "Free and open-source macOS menu bar toolkit.",
+   "language": "Swift",
+   "topics": [
+    "alt-tab",
+    "app-uninstaller",
+    "appkit",
+    "finder",
+    "free",
+    "keep-awake"
+   ],
+   "stars": 35655,
+   "forks": 1854,
+   "created": "2026-06-12",
+   "age": 163,
+   "velocity": 158.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/259901989?u=3f7bc3ecdfaa2f9f3d50ec81d75921aaf7487b4c&v=4",
+   "score": 3.374,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     33661
+    ],
+    [
+     "2026-11-10",
+     33880
+    ],
+    [
+     "2026-11-11",
+     34030
+    ],
+    [
+     "2026-11-12",
+     34306
+    ],
+    [
+     "2026-11-13",
+     34498
+    ],
+    [
+     "2026-11-14",
+     34808
+    ],
+    [
+     "2026-11-15",
+     34857
+    ],
+    [
+     "2026-11-16",
+     34857
+    ],
+    [
+     "2026-11-17",
+     34992
+    ],
+    [
+     "2026-11-18",
+     35099
+    ],
+    [
+     "2026-11-19",
+     35234
+    ],
+    [
+     "2026-11-20",
+     35360
+    ],
+    [
+     "2026-11-21",
+     35497
+    ],
+    [
+     "2026-11-22",
+     35655
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00443,
+    "accel": 0.7,
+    "release": "v3.4.4",
+    "release_date": "2026-11-11"
+   },
+   "engagement": 0.112,
+   "commits": 2164,
+   "contributors": 257,
+   "suspect": false,
+   "adj_score": 3.374,
+   "summary": "Free and open-source macOS menu bar toolkit.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Alishahryar1/free-claude-code",
+   "url": "https://github.com/Alishahryar1/free-claude-code",
+   "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+   "language": "Python",
+   "topics": [],
+   "stars": 72486,
+   "forks": 11239,
+   "created": "2026-01-28",
+   "age": 298,
+   "velocity": 241.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/20476625?u=9bc487ed5dca4d98c2970c8a22e8aa5f02b33842&v=4",
+   "score": 3.165,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-12",
+     68703
+    ],
+    [
+     "2026-11-13",
+     69315
+    ],
+    [
+     "2026-11-14",
+     70296
+    ],
+    [
+     "2026-11-15",
+     70546
+    ],
+    [
+     "2026-11-16",
+     70576
+    ],
+    [
+     "2026-11-17",
+     70856
+    ],
+    [
+     "2026-11-18",
+     71083
+    ],
+    [
+     "2026-11-19",
+     71622
+    ],
+    [
+     "2026-11-20",
+     71967
+    ],
+    [
+     "2026-11-21",
+     72245
+    ],
+    [
+     "2026-11-22",
+     72486
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00332,
+    "accel": 1.0,
+    "release": "v6.19.46",
+    "release_date": "2026-11-21"
+   },
+   "engagement": 0.177,
+   "commits": 1289,
+   "contributors": 55,
+   "suspect": false,
+   "adj_score": 3.165,
+   "summary": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  }
+ ],
+ "hn": [
+  {
+   "title": "Cornhole News – A Hacker News inspired site for news across the Midwest",
+   "url": "https://cornholenews.news",
+   "hn_url": "https://news.ycombinator.com/item?id=50561515",
+   "points": 237,
+   "comments": 121,
+   "github": null,
+   "title_zh": ""
+  },
+  {
+   "title": "Fast deterministic natural language search for OpenStreetMap data",
+   "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+   "hn_url": "https://news.ycombinator.com/item?id=50561199",
+   "points": 136,
+   "comments": 44,
+   "github": null,
+   "title_zh": ""
+  },
+  {
+   "title": "Foolscap – a writing app that reads your book and never writes for you",
+   "url": "https://foolscap.works/",
+   "hn_url": "https://news.ycombinator.com/item?id=50559749",
+   "points": 125,
+   "comments": 94,
+   "github": null,
+   "title_zh": ""
+  },
+  {
+   "title": "Zero C# – C# without a runtime or GC",
+   "url": "https://onurgumus.github.io/zero-csharp/index.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50590279",
+   "points": 124,
+   "comments": 96,
+   "github": null,
+   "title_zh": ""
+  },
+  {
+   "title": "OpenComputer – an open source alternative to Devin",
+   "url": "https://github.com/diggerhq/opencomputer",
+   "hn_url": "https://news.ycombinator.com/item?id=50581403",
+   "points": 116,
+   "comments": 36,
+   "github": "diggerhq/opencomputer",
+   "title_zh": ""
+  },
+  {
+   "title": "Watch weight-space programming in action with WebGPU",
+   "url": "https://tabbyml.github.io/weight-space-playground/",
+   "hn_url": "https://news.ycombinator.com/item?id=50561436",
+   "points": 40,
+   "comments": 6,
+   "github": null,
+   "title_zh": ""
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.21373",
+   "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+   "upvotes": 53,
+   "summary": "WeVisForensics coordinates self-evolving visual and audio forensic inspector agents under a dual-timescale reinforcement learning policy to detect generated-video artifacts with localized evidence and high accuracy.",
+   "url": "https://huggingface.co/papers/2611.21373",
+   "github": "https://github.com/Tencent/WeVisForensics",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26444",
+   "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+   "upvotes": 51,
+   "summary": "A diagnostic benchmark of 180 simulated manipulation configurations evaluates whether embodied systems can combine history-based reasoning, precise execution, and closed-loop environmental feedback, revealing that single-view competence does not transfer to composed tasks.",
+   "url": "https://huggingface.co/papers/2611.26444",
+   "github": "https://github.com/Mind2Act/Mind2Act_World",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26409",
+   "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+   "upvotes": 44,
+   "summary": "WeMM-Video is a family of Chinese-English bilingual omni-modal foundation models that unify text, image, audio, and video processing for joint audio-visual perception and reasoning, using hybrid thinking modes and large-scale training to achieve strong open-source video understanding results.",
+   "url": "https://huggingface.co/papers/2611.26409",
+   "github": "https://github.com/Tencent/WeMM-Video",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26590",
+   "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+   "upvotes": 42,
+   "summary": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to special",
+   "url": "https://huggingface.co/papers/2611.26590",
+   "github": null,
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26629",
+   "title": "Posterior Matching Distillation",
+   "upvotes": 37,
+   "summary": "Posterior Matching Distillation trains a stochastic student to match a teacher diffusion model’s full posterior via tilted mean constraints, enabling high-quality few-step image generation without auxiliary score networks.",
+   "url": "https://huggingface.co/papers/2611.26629",
+   "github": "https://github.com/yesiltepe-hidir/PMD",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26595",
+   "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+   "upvotes": 35,
+   "summary": "A task-adaptive agentic framework utilizes 3D proxies, physics simulation, and multi-agent coordination to enhance the structural control, physical plausibility, and visual realism of generated videos.",
+   "url": "https://huggingface.co/papers/2611.26595",
+   "github": "https://github.com/FrankYang-17/Coda",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.21383",
+   "title": "The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation",
+   "upvotes": 32,
+   "summary": "A plug-and-play objective, VODA, groups per-pixel contributors by local depth to supervise all Gaussians in selected depth clusters, improving volumetric segmentation and enabling evaluation via Removal-3D and Removal Depth Error.",
+   "url": "https://huggingface.co/papers/2611.21383",
+   "github": "https://github.com/jhxcho/voda",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26603",
+   "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+   "upvotes": 31,
+   "summary": "A single scalable network estimates dense metric depth for images and video at native resolution, jointly improving metric accuracy, boundary sharpness, and temporal consistency.",
+   "url": "https://huggingface.co/papers/2611.26603",
+   "github": "https://github.com/apple-aiml-research/ml-depth-pro-2",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26107",
+   "title": "HiUni: Harmonizing Understanding and Generation in Shared Visual Space",
+   "upvotes": 25,
+   "summary": "Unified multimodal models aim to support visual understanding and generation within a single framework. However, prevailing approaches often separate their visual representations or backbone computation to accommodate the different requirements of these two tasks, which limits the degree of unificat",
+   "url": "https://huggingface.co/papers/2611.26107",
+   "github": "https://github.com/ernie-research/HiUni",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26380",
+   "title": "EgoCaptioner: Towards Comprehensive and Fine-Grained Egocentric Video Captioning",
+   "upvotes": 25,
+   "summary": "Egocentric video captioning requires fine-grained detail and accurate timing, yet current multimodal large language models (MLLMs) often miss brief actions, confuse their order, or misinterpret the wearer's motion. Existing caption formats also offer limited support for combining detailed narration ",
+   "url": "https://huggingface.co/papers/2611.26380",
+   "github": "https://github.com/cactusqq/EgoCaptioner",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26073",
+   "title": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators",
+   "upvotes": 23,
+   "summary": "A statistical test, AltRA-Test, determines when large language models can replace human annotators by comparing inter-annotator agreement in resampled mixed human-LLM panels, and evaluations show it often requires about 100 items and makes better replacement decisions than baselines.",
+   "url": "https://huggingface.co/papers/2611.26073",
+   "github": null,
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.25387",
+   "title": "TuringSpace: Grounding Spatial Intelligence in Action with Interactive CAPTCHAs",
+   "upvotes": 23,
+   "summary": "Humans act in the visual world by inferring the 3D layout behind a 2D view, predicting how an action changes it, and correcting themselves after seeing the result. Can multimodal large language models (MLLMs) do the same? CAPTCHAs offer a natural test, since humans solve them through this very loop,",
+   "url": "https://huggingface.co/papers/2611.25387",
+   "github": "https://github.com/os-cua-framework/TuringSpace",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26414",
+   "title": "ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain",
+   "upvotes": 22,
+   "summary": "ZeroVLN is a slow-fast vision-language navigation framework that avoids navigation-domain supervised fine-tuning of the VLM brain by using a semantic tool-calling interface and closed-loop reinforcement learning to coordinate a language-based brain with an action expert, improving VLN-CE performance while preserving general visual capabilities.",
+   "url": "https://huggingface.co/papers/2611.26414",
+   "github": "https://github.com/hzx122/ZeroVLN",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26268",
+   "title": "Accelerating Mixture of Block Attention via Dynamic Routing, KV-Centric Execution and Runtime Pipelining",
+   "upvotes": 18,
+   "summary": "LightningMoBA combines dynamic routing, KV-centric ownership, and runtime pipelining to accelerate long-context attention while maintaining or improving quality.",
+   "url": "https://huggingface.co/papers/2611.26268",
+   "github": "https://github.com/Tencent/LightningMoBA",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26627",
+   "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+   "upvotes": 17,
+   "summary": "A fixed set of steering vectors added to a frozen diffusion transformer recovers most of the quality gains from reinforcement learning post-training, indicating that much of the improvement comes from a constant shift rather than prompt-specific transformations.",
+   "url": "https://huggingface.co/papers/2611.26627",
+   "github": null,
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.24011",
+   "title": "WAM-Policy: World Action Models with On-Policy Distillation for Quadrupedal Loco-Manipulation",
+   "upvotes": 16,
+   "summary": "Arm-free quadrupeds can perform loco-manipulation, walking on three legs while manipulating with a front leg, yet no existing policy for it follows language instructions. World action models (WAMs) have emerged as effective language-conditioned manipulation policies, but are pretrained for robot arm",
+   "url": "https://huggingface.co/papers/2611.24011",
+   "github": "https://github.com/AIGeeksGroup/WAM-Policy",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26408",
+   "title": "Training Vision Models for LLM-Driven Weight-Space Programming",
+   "upvotes": 15,
+   "summary": "It has been demonstrated that, in certain settings, large language models can perform weight-space programming to directly modify the weights of neural networks. However, it is unknown how dedicated training of these networks can contribute to the successes of weight-space programming. We present a ",
+   "url": "https://huggingface.co/papers/2611.26408",
+   "github": null,
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.25980",
+   "title": "Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models",
+   "upvotes": 15,
+   "summary": "AFFECT, an auxiliary objective that trains world models to match visual responses to temporally correlated action noise, improves rollout fidelity and planning success in simulated and real robotic tasks.",
+   "url": "https://huggingface.co/papers/2611.25980",
+   "github": null,
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.24193",
+   "title": "WM^MLLM: Turning MLLMs into World Models",
+   "upvotes": 15,
+   "summary": "WM^MLLM uses multimodal large language models to maintain an external panorama state with revision history, enabling persistent, editable world generation from a single image with exact revisits and local edits.",
+   "url": "https://huggingface.co/papers/2611.24193",
+   "github": "https://github.com/ztMotaLee/WM_mllm",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26510",
+   "title": "AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher",
+   "upvotes": 14,
+   "summary": "Task success alone does not specify which behaviors post-training should reinforce. Even successful teacher trajectories can contain unsupported assumptions, unproductive repetition, or superficial verification. We propose Skill-FT (Skill-Guided Fine-Tuning), which uses natural-language skills to su",
+   "url": "https://huggingface.co/papers/2611.26510",
+   "github": "https://github.com/RUCAIBox/AutoMaster",
+   "summary_zh": ""
+  }
+ ]
+}
