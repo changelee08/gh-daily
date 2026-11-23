@@ -1,0 +1,7884 @@
+{
+ "date": "2026-11-23",
+ "generated": "2026-11-23T09:13",
+ "overview": "",
+ "projects": [
+  {
+   "name": "ItsNotRexed/Leonida",
+   "url": "https://github.com/ItsNotRexed/Leonida",
+   "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+   "language": "Python",
+   "topics": [],
+   "stars": 15174,
+   "forks": 1245,
+   "created": "2026-11-20",
+   "age": 3,
+   "velocity": 9521.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/300290919?v=4",
+   "score": 11.806,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-21",
+     117
+    ],
+    [
+     "2026-11-22",
+     5653
+    ],
+    [
+     "2026-11-23",
+     15174
+    ]
+   ],
+   "engagement": 0.1166,
+   "commits": 7734,
+   "contributors": 333,
+   "suspect": false,
+   "adj_score": 11.806,
+   "summary": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "EL4CTEO/fast-anything",
+   "url": "https://github.com/EL4CTEO/fast-anything",
+   "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+   "language": "Rust",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "claude-code-plugin",
+    "codex",
+    "developer-tools"
+   ],
+   "stars": 1921,
+   "forks": 114,
+   "created": "2026-11-21",
+   "age": 2,
+   "velocity": 960.5,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/215285446?v=4",
+   "score": 9.297,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-23",
+     1921
+    ]
+   ],
+   "engagement": 0.0781,
+   "commits": 59,
+   "contributors": 8,
+   "suspect": false,
+   "adj_score": 9.297,
+   "summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "omonkeyz/xbox-emulator",
+   "url": "https://github.com/omonkeyz/xbox-emulator",
+   "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+   "language": "Rust",
+   "topics": [],
+   "stars": 1324,
+   "forks": 82,
+   "created": "2026-11-21",
+   "age": 2,
+   "velocity": 545.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/246595960?v=4",
+   "score": 8.531,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     779
+    ],
+    [
+     "2026-11-23",
+     1324
+    ]
+   ],
+   "engagement": 0.1118,
+   "commits": 269,
+   "contributors": 20,
+   "suspect": false,
+   "adj_score": 8.531,
+   "summary": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "havenicec/google-qr-sms-helper",
+   "url": "https://github.com/havenicec/google-qr-sms-helper",
+   "description": "Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.",
+   "language": "JavaScript",
+   "topics": [
+    "browser-automation",
+    "chrome-extension",
+    "google-auth",
+    "manifest-v3",
+    "sms-verification"
+   ],
+   "stars": 3123,
+   "forks": 638,
+   "created": "2026-10-26",
+   "age": 28,
+   "velocity": 1202.0,
+   "velocity_measured": true,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/97464823?v=4",
+   "score": 7.763,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-21",
+     938
+    ],
+    [
+     "2026-11-22",
+     1921
+    ],
+    [
+     "2026-11-23",
+     3123
+    ]
+   ],
+   "engagement": 0.2133,
+   "commits": 4,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 7.763,
+   "summary": "Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "R0Y00/Xbox2Windows",
+   "url": "https://github.com/R0Y00/Xbox2Windows",
+   "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
+   "language": "Python",
+   "topics": [
+    "d3d12",
+    "directx-raytracing",
+    "scarlett",
+    "static-recompilation",
+    "windows",
+    "xbox"
+   ],
+   "stars": 1312,
+   "forks": 126,
+   "created": "2026-11-20",
+   "age": 3,
+   "velocity": 377.0,
+   "velocity_measured": true,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/128987794?v=4",
+   "score": 7.648,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     935
+    ],
+    [
+     "2026-11-23",
+     1312
+    ]
+   ],
+   "engagement": 0.1898,
+   "commits": 1128,
+   "contributors": 56,
+   "suspect": false,
+   "adj_score": 7.648,
+   "summary": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "anefzaoui/misterdownloadmanager",
+   "url": "https://github.com/anefzaoui/misterdownloadmanager",
+   "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+   "language": "Rust",
+   "topics": [
+    "bittorrent-client",
+    "debrid",
+    "download-accelerator",
+    "download-manager",
+    "downloadmanager",
+    "egui"
+   ],
+   "stars": 16585,
+   "forks": 1418,
+   "created": "2026-10-29",
+   "age": 25,
+   "velocity": 1018.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1832078?v=4",
+   "score": 7.619,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     4039
+    ],
+    [
+     "2026-11-11",
+     5546
+    ],
+    [
+     "2026-11-12",
+     6860
+    ],
+    [
+     "2026-11-13",
+     7934
+    ],
+    [
+     "2026-11-14",
+     10108
+    ],
+    [
+     "2026-11-15",
+     10108
+    ],
+    [
+     "2026-11-16",
+     10410
+    ],
+    [
+     "2026-11-17",
+     11153
+    ],
+    [
+     "2026-11-18",
+     12085
+    ],
+    [
+     "2026-11-19",
+     13031
+    ],
+    [
+     "2026-11-20",
+     13752
+    ],
+    [
+     "2026-11-21",
+     14306
+    ],
+    [
+     "2026-11-22",
+     15567
+    ],
+    [
+     "2026-11-23",
+     16585
+    ]
+   ],
+   "engagement": 0.1366,
+   "commits": 688,
+   "contributors": 54,
+   "suspect": false,
+   "adj_score": 7.619,
+   "summary": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "erkamyaman/rust-anything",
+   "url": "https://github.com/erkamyaman/rust-anything",
+   "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+   "language": "Rust",
+   "topics": [
+    "agent-skills",
+    "claude-code",
+    "cli",
+    "code-migration",
+    "codex",
+    "ffi"
+   ],
+   "stars": 8008,
+   "forks": 645,
+   "created": "2026-11-16",
+   "age": 7,
+   "velocity": 570.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/88717125?v=4",
+   "score": 7.547,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-18",
+     1339
+    ],
+    [
+     "2026-11-19",
+     3377
+    ],
+    [
+     "2026-11-20",
+     5204
+    ],
+    [
+     "2026-11-21",
+     6652
+    ],
+    [
+     "2026-11-22",
+     7438
+    ],
+    [
+     "2026-11-23",
+     8008
+    ]
+   ],
+   "engagement": 0.0945,
+   "commits": 369,
+   "contributors": 23,
+   "suspect": false,
+   "adj_score": 7.547,
+   "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "BaaRai/ARTEX",
+   "url": "https://github.com/BaaRai/ARTEX",
+   "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
+   "language": "Go",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "autonomous-agents",
+    "bug-bounty",
+    "docker",
+    "golang"
+   ],
+   "stars": 16278,
+   "forks": 6122,
+   "created": "2026-10-08",
+   "age": 46,
+   "velocity": 1097.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/130491490?v=4",
+   "score": 7.517,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     1758
+    ],
+    [
+     "2026-11-10",
+     1874
+    ],
+    [
+     "2026-11-11",
+     2001
+    ],
+    [
+     "2026-11-12",
+     2165
+    ],
+    [
+     "2026-11-13",
+     2500
+    ],
+    [
+     "2026-11-15",
+     3559
+    ],
+    [
+     "2026-11-16",
+     3846
+    ],
+    [
+     "2026-11-17",
+     4848
+    ],
+    [
+     "2026-11-18",
+     6866
+    ],
+    [
+     "2026-11-19",
+     9129
+    ],
+    [
+     "2026-11-20",
+     12068
+    ],
+    [
+     "2026-11-21",
+     13764
+    ],
+    [
+     "2026-11-22",
+     15181
+    ],
+    [
+     "2026-11-23",
+     16278
+    ]
+   ],
+   "engagement": 0.3904,
+   "commits": 1368,
+   "contributors": 47,
+   "suspect": false,
+   "adj_score": 7.517,
+   "summary": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "storytold/craft-anything",
+   "url": "https://github.com/storytold/craft-anything",
+   "description": "Craft Anything: understand how any software works, and craft your own.",
+   "language": "Rust",
+   "topics": [],
+   "stars": 41230,
+   "forks": 8187,
+   "created": "2026-10-31",
+   "age": 23,
+   "velocity": 872.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+   "score": 7.478,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     24513
+    ],
+    [
+     "2026-11-11",
+     26339
+    ],
+    [
+     "2026-11-12",
+     28462
+    ],
+    [
+     "2026-11-13",
+     29914
+    ],
+    [
+     "2026-11-14",
+     33501
+    ],
+    [
+     "2026-11-15",
+     33502
+    ],
+    [
+     "2026-11-16",
+     33789
+    ],
+    [
+     "2026-11-17",
+     34796
+    ],
+    [
+     "2026-11-18",
+     35751
+    ],
+    [
+     "2026-11-19",
+     37070
+    ],
+    [
+     "2026-11-20",
+     38509
+    ],
+    [
+     "2026-11-21",
+     39533
+    ],
+    [
+     "2026-11-22",
+     40358
+    ],
+    [
+     "2026-11-23",
+     41230
+    ]
+   ],
+   "engagement": 0.2171,
+   "commits": 1631,
+   "contributors": 130,
+   "suspect": false,
+   "adj_score": 7.478,
+   "summary": "Craft Anything: understand how any software works, and craft your own.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "XinaTian/MROffice",
+   "url": "https://github.com/XinaTian/MROffice",
+   "description": "The editors of MR Office, the free office closest to Microsoft Office: documents, spreadsheets, presentations, PDF, handwriting and code in the browser. Embed them in your app with one line, or use them from AI apps via MCP.",
+   "language": "TypeScript",
+   "topics": [
+    "ai",
+    "collaboration",
+    "document-editor",
+    "docx",
+    "embed",
+    "excel"
+   ],
+   "stars": 2142,
+   "forks": 243,
+   "created": "2026-11-10",
+   "age": 13,
+   "velocity": 669.0,
+   "velocity_measured": true,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/225383926?v=4",
+   "score": 7.41,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-21",
+     797
+    ],
+    [
+     "2026-11-22",
+     1473
+    ],
+    [
+     "2026-11-23",
+     2142
+    ]
+   ],
+   "engagement": 0.1713,
+   "commits": 18,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 7.41,
+   "summary": "The editors of MR Office, the free office closest to Microsoft Office: documents, spreadsheets, presentations, PDF, handwriting and code in the browser. Embed them in your app with one line, or use them from AI apps via MCP.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "iamajmeena/neonclipping",
+   "url": "https://github.com/iamajmeena/neonclipping",
+   "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+   "language": "Python",
+   "topics": [
+    "ai-video-clipper",
+    "clipping",
+    "faster-whisper",
+    "ffmpeg",
+    "gameplay-clipper",
+    "local-llm"
+   ],
+   "stars": 2096,
+   "forks": 119,
+   "created": "2026-11-19",
+   "age": 4,
+   "velocity": 360.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/265551449?v=4",
+   "score": 7.361,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-20",
+     363
+    ],
+    [
+     "2026-11-21",
+     1247
+    ],
+    [
+     "2026-11-22",
+     1736
+    ],
+    [
+     "2026-11-23",
+     2096
+    ]
+   ],
+   "engagement": 0.093,
+   "commits": 54,
+   "contributors": 3,
+   "suspect": false,
+   "adj_score": 7.361,
+   "summary": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "sybil-solutions/skill-distill",
+   "url": "https://github.com/sybil-solutions/skill-distill",
+   "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+   "language": "Python",
+   "topics": [],
+   "stars": 455,
+   "forks": 40,
+   "created": "2026-11-21",
+   "age": 2,
+   "velocity": 227.5,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/284200730?v=4",
+   "score": 7.352,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-23",
+     455
+    ]
+   ],
+   "engagement": 0.0901,
+   "commits": 2,
+   "contributors": 2,
+   "suspect": false,
+   "adj_score": 7.352,
+   "summary": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+   "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+   "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+   "language": null,
+   "topics": [
+    "ai-agents",
+    "ai-assistant",
+    "blender",
+    "blender-addon",
+    "blender-ai",
+    "blender-automation"
+   ],
+   "stars": 2748,
+   "forks": 38,
+   "created": "2026-11-19",
+   "age": 4,
+   "velocity": 317.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/356367752?v=4",
+   "score": 7.203,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-20",
+     552
+    ],
+    [
+     "2026-11-21",
+     1782
+    ],
+    [
+     "2026-11-22",
+     2431
+    ],
+    [
+     "2026-11-23",
+     2748
+    ]
+   ],
+   "engagement": 0.5495,
+   "commits": 8,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 7.203,
+   "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "w01fb0ss/PiBot",
+   "url": "https://github.com/w01fb0ss/PiBot",
+   "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+   "language": "TypeScript",
+   "topics": [
+    "agent",
+    "ai-agent",
+    "ai-agents",
+    "ai-assistant",
+    "android",
+    "automation"
+   ],
+   "stars": 386,
+   "forks": 53,
+   "created": "2026-11-21",
+   "age": 2,
+   "velocity": 193.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/44709004?v=4",
+   "score": 7.13,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-23",
+     386
+    ]
+   ],
+   "engagement": 0.158,
+   "commits": 53,
+   "contributors": 4,
+   "suspect": false,
+   "adj_score": 7.13,
+   "summary": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "ChiefGyk3D/Clouds-Against-Humanity",
+   "url": "https://github.com/ChiefGyk3D/Clouds-Against-Humanity",
+   "description": "Learn cloud security by building it! An open-source homelab teaching Zero Trust, DevSecOps, IaC, and cloud architecture from the ground up.",
+   "language": "Python",
+   "topics": [
+    "aws",
+    "azure",
+    "cloud-computing",
+    "cloud-security",
+    "cybersecurity",
+    "devsecops"
+   ],
+   "stars": 2795,
+   "forks": 168,
+   "created": "2026-10-10",
+   "age": 44,
+   "velocity": 753.0,
+   "velocity_measured": true,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/19499446?v=4",
+   "score": 7.125,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     2042
+    ],
+    [
+     "2026-11-23",
+     2795
+    ]
+   ],
+   "engagement": 0.1528,
+   "commits": 307,
+   "contributors": 2,
+   "suspect": false,
+   "adj_score": 7.125,
+   "summary": "Learn cloud security by building it! An open-source homelab teaching Zero Trust, DevSecOps, IaC, and cloud architecture from the ground up.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "leanprover-community/riemann-hypothesis",
+   "url": "https://github.com/leanprover-community/riemann-hypothesis",
+   "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
+   "language": "Lean",
+   "topics": [],
+   "stars": 626,
+   "forks": 141,
+   "created": "2026-11-20",
+   "age": 3,
+   "velocity": 223.0,
+   "velocity_measured": true,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/41703605?v=4",
+   "score": 6.974,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     403
+    ],
+    [
+     "2026-11-23",
+     626
+    ]
+   ],
+   "engagement": 0.2859,
+   "commits": 237,
+   "contributors": 26,
+   "suspect": false,
+   "adj_score": 6.974,
+   "summary": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "pithings/unkernel",
+   "url": "https://github.com/pithings/unkernel",
+   "description": "A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.",
+   "language": "TypeScript",
+   "topics": [],
+   "stars": 1130,
+   "forks": 58,
+   "created": "2026-11-12",
+   "age": 11,
+   "velocity": 422.0,
+   "velocity_measured": true,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/263128954?v=4",
+   "score": 6.959,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-19",
+     459
+    ],
+    [
+     "2026-11-20",
+     551
+    ],
+    [
+     "2026-11-21",
+     651
+    ],
+    [
+     "2026-11-22",
+     708
+    ],
+    [
+     "2026-11-23",
+     1130
+    ]
+   ],
+   "engagement": 0.0593,
+   "commits": 150,
+   "contributors": 2,
+   "suspect": false,
+   "adj_score": 6.959,
+   "summary": "A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "ccch1mneyyy/dsh-Go",
+   "url": "https://github.com/ccch1mneyyy/dsh-Go",
+   "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+   "language": "Dart",
+   "topics": [
+    "ai-agent",
+    "android",
+    "android-app",
+    "coding-agent",
+    "deepseek",
+    "deepseek-harness"
+   ],
+   "stars": 30187,
+   "forks": 1446,
+   "created": "2026-10-25",
+   "age": 29,
+   "velocity": 582.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/268149062?v=4",
+   "score": 6.959,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     17592
+    ],
+    [
+     "2026-11-11",
+     18692
+    ],
+    [
+     "2026-11-12",
+     19754
+    ],
+    [
+     "2026-11-13",
+     20799
+    ],
+    [
+     "2026-11-14",
+     23579
+    ],
+    [
+     "2026-11-15",
+     23579
+    ],
+    [
+     "2026-11-16",
+     23799
+    ],
+    [
+     "2026-11-17",
+     24796
+    ],
+    [
+     "2026-11-18",
+     26036
+    ],
+    [
+     "2026-11-19",
+     27214
+    ],
+    [
+     "2026-11-20",
+     28206
+    ],
+    [
+     "2026-11-21",
+     29017
+    ],
+    [
+     "2026-11-22",
+     29605
+    ],
+    [
+     "2026-11-23",
+     30187
+    ]
+   ],
+   "engagement": 0.0884,
+   "commits": 3643,
+   "contributors": 5,
+   "suspect": false,
+   "adj_score": 6.959,
+   "summary": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "simplexai-labs/linger",
+   "url": "https://github.com/simplexai-labs/linger",
+   "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run their own.",
+   "language": "TypeScript",
+   "topics": [
+    "agent-teams",
+    "local-llm",
+    "memory",
+    "personal-agent",
+    "proactive-agent",
+    "proactive-ai"
+   ],
+   "stars": 3842,
+   "forks": 362,
+   "created": "2026-11-10",
+   "age": 13,
+   "velocity": 441.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/257494383?v=4",
+   "score": 6.936,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-18",
+     422
+    ],
+    [
+     "2026-11-19",
+     454
+    ],
+    [
+     "2026-11-20",
+     1518
+    ],
+    [
+     "2026-11-21",
+     2899
+    ],
+    [
+     "2026-11-22",
+     3401
+    ],
+    [
+     "2026-11-23",
+     3842
+    ]
+   ],
+   "engagement": 0.1148,
+   "commits": 740,
+   "contributors": 18,
+   "suspect": false,
+   "adj_score": 6.936,
+   "summary": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run their own.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "heydamir/unslop",
+   "url": "https://github.com/heydamir/unslop",
+   "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+   "language": "JavaScript",
+   "topics": [],
+   "stars": 20290,
+   "forks": 1238,
+   "created": "2026-10-29",
+   "age": 25,
+   "velocity": 509.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/97800728?v=4",
+   "score": 6.858,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     12761
+    ],
+    [
+     "2026-11-11",
+     13750
+    ],
+    [
+     "2026-11-12",
+     14564
+    ],
+    [
+     "2026-11-13",
+     15143
+    ],
+    [
+     "2026-11-14",
+     16501
+    ],
+    [
+     "2026-11-15",
+     16501
+    ],
+    [
+     "2026-11-16",
+     16770
+    ],
+    [
+     "2026-11-17",
+     17283
+    ],
+    [
+     "2026-11-18",
+     17777
+    ],
+    [
+     "2026-11-19",
+     18287
+    ],
+    [
+     "2026-11-20",
+     18687
+    ],
+    [
+     "2026-11-21",
+     19257
+    ],
+    [
+     "2026-11-22",
+     19781
+    ],
+    [
+     "2026-11-23",
+     20290
+    ]
+   ],
+   "engagement": 0.063,
+   "commits": 40,
+   "contributors": 11,
+   "suspect": false,
+   "adj_score": 6.858,
+   "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Minireel/HGhub",
+   "url": "https://github.com/Minireel/HGhub",
+   "description": "Plug-in media player",
+   "language": "Rust",
+   "topics": [
+    "android",
+    "drama",
+    "free",
+    "movie-web-app",
+    "reels",
+    "windows"
+   ],
+   "stars": 11534,
+   "forks": 9052,
+   "created": "2026-11-03",
+   "age": 20,
+   "velocity": 473.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/328980256?v=4",
+   "score": 6.85,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-05",
+     724
+    ],
+    [
+     "2026-11-06",
+     1129
+    ],
+    [
+     "2026-11-09",
+     3364
+    ],
+    [
+     "2026-11-10",
+     6171
+    ],
+    [
+     "2026-11-15",
+     8952
+    ],
+    [
+     "2026-11-16",
+     9008
+    ],
+    [
+     "2026-11-17",
+     9498
+    ],
+    [
+     "2026-11-18",
+     9841
+    ],
+    [
+     "2026-11-19",
+     10075
+    ],
+    [
+     "2026-11-20",
+     10322
+    ],
+    [
+     "2026-11-21",
+     10450
+    ],
+    [
+     "2026-11-22",
+     11061
+    ],
+    [
+     "2026-11-23",
+     11534
+    ]
+   ],
+   "engagement": 0.7938,
+   "commits": 33,
+   "contributors": 9,
+   "suspect": false,
+   "adj_score": 6.85,
+   "summary": "Plug-in media player",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "sybil-solutions/inference-optimisation-skill",
+   "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+   "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+   "language": "Python",
+   "topics": [
+    "agent-skill",
+    "benchmarking",
+    "claude-code",
+    "inference",
+    "llm",
+    "speculative-decoding"
+   ],
+   "stars": 1962,
+   "forks": 182,
+   "created": "2026-11-16",
+   "age": 7,
+   "velocity": 297.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/284200730?v=4",
+   "score": 6.774,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-17",
+     57
+    ],
+    [
+     "2026-11-18",
+     929
+    ],
+    [
+     "2026-11-19",
+     1113
+    ],
+    [
+     "2026-11-20",
+     1261
+    ],
+    [
+     "2026-11-21",
+     1335
+    ],
+    [
+     "2026-11-22",
+     1665
+    ],
+    [
+     "2026-11-23",
+     1962
+    ]
+   ],
+   "engagement": 0.0979,
+   "commits": 1,
+   "contributors": 2,
+   "suspect": false,
+   "adj_score": 6.774,
+   "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Lemxy/WinRust",
+   "url": "https://github.com/Lemxy/WinRust",
+   "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+   "language": "Rust",
+   "topics": [],
+   "stars": 1237,
+   "forks": 68,
+   "created": "2026-11-17",
+   "age": 6,
+   "velocity": 273.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/183076981?v=4",
+   "score": 6.759,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-19",
+     154
+    ],
+    [
+     "2026-11-20",
+     394
+    ],
+    [
+     "2026-11-21",
+     748
+    ],
+    [
+     "2026-11-22",
+     964
+    ],
+    [
+     "2026-11-23",
+     1237
+    ]
+   ],
+   "engagement": 0.1382,
+   "commits": 51,
+   "contributors": 2,
+   "suspect": false,
+   "adj_score": 6.759,
+   "summary": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "ersinkoc/phonebox",
+   "url": "https://github.com/ersinkoc/phonebox",
+   "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.",
+   "language": "JavaScript",
+   "topics": [
+    "android",
+    "claude-code",
+    "codex",
+    "dashboard",
+    "desk-panel",
+    "dotnet"
+   ],
+   "stars": 5050,
+   "forks": 632,
+   "created": "2026-11-07",
+   "age": 16,
+   "velocity": 400.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/408479?v=4",
+   "score": 6.743,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-13",
+     250
+    ],
+    [
+     "2026-11-15",
+     823
+    ],
+    [
+     "2026-11-16",
+     1291
+    ],
+    [
+     "2026-11-17",
+     1879
+    ],
+    [
+     "2026-11-18",
+     2656
+    ],
+    [
+     "2026-11-19",
+     3251
+    ],
+    [
+     "2026-11-20",
+     3861
+    ],
+    [
+     "2026-11-21",
+     4239
+    ],
+    [
+     "2026-11-22",
+     4650
+    ],
+    [
+     "2026-11-23",
+     5050
+    ]
+   ],
+   "engagement": 0.1525,
+   "commits": 526,
+   "contributors": 46,
+   "suspect": false,
+   "adj_score": 6.743,
+   "summary": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Hut-hzf/ung220z-tool",
+   "url": "https://github.com/Hut-hzf/ung220z-tool",
+   "description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+   "language": "Python",
+   "topics": [],
+   "stars": 2368,
+   "forks": 539,
+   "created": "2026-11-15",
+   "age": 8,
+   "velocity": 296.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/192405006?v=4",
+   "score": 6.7,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-23",
+     2368
+    ]
+   ],
+   "engagement": 0.2323,
+   "commits": 12,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 6.7,
+   "summary": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "JuneYaooo/rea-video",
+   "url": "https://github.com/JuneYaooo/rea-video",
+   "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。",
+   "language": "Python",
+   "topics": [
+    "agent-skills",
+    "ai-video",
+    "aigc-detection",
+    "claude-code",
+    "codex",
+    "ffmpeg"
+   ],
+   "stars": 12250,
+   "forks": 1813,
+   "created": "2026-10-29",
+   "age": 25,
+   "velocity": 434.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/60815510?v=4",
+   "score": 6.683,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     5523
+    ],
+    [
+     "2026-11-11",
+     6377
+    ],
+    [
+     "2026-11-12",
+     7072
+    ],
+    [
+     "2026-11-13",
+     7532
+    ],
+    [
+     "2026-11-14",
+     8708
+    ],
+    [
+     "2026-11-15",
+     9008
+    ],
+    [
+     "2026-11-16",
+     9199
+    ],
+    [
+     "2026-11-17",
+     9692
+    ],
+    [
+     "2026-11-18",
+     10281
+    ],
+    [
+     "2026-11-19",
+     10697
+    ],
+    [
+     "2026-11-20",
+     11067
+    ],
+    [
+     "2026-11-21",
+     11424
+    ],
+    [
+     "2026-11-22",
+     11816
+    ],
+    [
+     "2026-11-23",
+     12250
+    ]
+   ],
+   "engagement": 0.1525,
+   "commits": 192,
+   "contributors": 23,
+   "suspect": false,
+   "adj_score": 6.683,
+   "summary": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "atuizz/posewear",
+   "url": "https://github.com/atuizz/posewear",
+   "description": "姿势、服装、人像参考图库，附中英文提示词，可在浏览器里 AI 试穿 · Pose, outfit & portrait reference library with bilingual prompts and in-browser AI try-on",
+   "language": "Python",
+   "topics": [
+    "ai-art",
+    "ai-try-on",
+    "chinese",
+    "cloudflare-pages",
+    "fashion",
+    "gemini"
+   ],
+   "stars": 1765,
+   "forks": 395,
+   "created": "2026-10-30",
+   "age": 24,
+   "velocity": 422.0,
+   "velocity_measured": true,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/126986640?v=4",
+   "score": 6.665,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-22",
+     1343
+    ],
+    [
+     "2026-11-23",
+     1765
+    ]
+   ],
+   "engagement": 0.2329,
+   "commits": 39,
+   "contributors": 6,
+   "suspect": false,
+   "adj_score": 6.665,
+   "summary": "姿势、服装、人像参考图库，附中英文提示词，可在浏览器里 AI 试穿 · Pose, outfit & portrait reference library with bilingual prompts and in-browser AI try-on",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "realdody/americas-recomp",
+   "url": "https://github.com/realdody/americas-recomp",
+   "description": "",
+   "language": null,
+   "topics": [],
+   "stars": 513,
+   "forks": 83,
+   "created": "2026-11-20",
+   "age": 3,
+   "velocity": 171.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/65219829?v=4",
+   "score": 6.633,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-23",
+     513
+    ]
+   ],
+   "engagement": 0.2242,
+   "commits": 1,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 6.633,
+   "summary": "",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "mdiri-ai/SoduWork",
+   "url": "https://github.com/mdiri-ai/SoduWork",
+   "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
+   "language": "JavaScript",
+   "topics": [
+    "agent-harness",
+    "agent-orchestration",
+    "agent-workflows",
+    "ai-agents",
+    "ai-workflows",
+    "anti-slop"
+   ],
+   "stars": 6818,
+   "forks": 540,
+   "created": "2026-10-29",
+   "age": 25,
+   "velocity": 368.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/342439292?v=4",
+   "score": 6.502,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-18",
+     1708
+    ],
+    [
+     "2026-11-19",
+     2897
+    ],
+    [
+     "2026-11-20",
+     4224
+    ],
+    [
+     "2026-11-21",
+     5983
+    ],
+    [
+     "2026-11-22",
+     6450
+    ],
+    [
+     "2026-11-23",
+     6818
+    ]
+   ],
+   "engagement": 0.1536,
+   "commits": 1279,
+   "contributors": 56,
+   "suspect": false,
+   "adj_score": 6.502,
+   "summary": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "danielwh2/sprite-stacking",
+   "url": "https://github.com/danielwh2/sprite-stacking",
+   "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+   "language": "HTML",
+   "topics": [
+    "agent-skills",
+    "claude-code",
+    "codex",
+    "cursor",
+    "fake-3d",
+    "gamedev"
+   ],
+   "stars": 457,
+   "forks": 30,
+   "created": "2026-11-20",
+   "age": 3,
+   "velocity": 152.3,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/51721416?v=4",
+   "score": 6.485,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-23",
+     457
+    ]
+   ],
+   "engagement": 0.07,
+   "commits": 25,
+   "contributors": 2,
+   "suspect": false,
+   "adj_score": 6.485,
+   "summary": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Niko1221/Strata",
+   "url": "https://github.com/Niko1221/Strata",
+   "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+   "language": "C++",
+   "topics": [],
+   "stars": 47015,
+   "forks": 5252,
+   "created": "2026-09-24",
+   "age": 60,
+   "velocity": 440.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/86886444?v=4",
+   "score": 6.482,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     42514
+    ],
+    [
+     "2026-11-11",
+     42881
+    ],
+    [
+     "2026-11-12",
+     43245
+    ],
+    [
+     "2026-11-13",
+     43567
+    ],
+    [
+     "2026-11-14",
+     44322
+    ],
+    [
+     "2026-11-15",
+     44421
+    ],
+    [
+     "2026-11-16",
+     44550
+    ],
+    [
+     "2026-11-17",
+     44943
+    ],
+    [
+     "2026-11-18",
+     45317
+    ],
+    [
+     "2026-11-19",
+     45648
+    ],
+    [
+     "2026-11-20",
+     45947
+    ],
+    [
+     "2026-11-21",
+     46301
+    ],
+    [
+     "2026-11-22",
+     46575
+    ],
+    [
+     "2026-11-23",
+     47015
+    ]
+   ],
+   "engagement": 0.1879,
+   "commits": 8483,
+   "contributors": 415,
+   "suspect": false,
+   "adj_score": 6.482,
+   "summary": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "INK-Q/agy-fast",
+   "url": "https://github.com/INK-Q/agy-fast",
+   "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+   "language": "TypeScript",
+   "topics": [
+    "ai-agent",
+    "ai-coding",
+    "antigravity",
+    "antigravity-cli",
+    "antigravity-ide",
+    "antigravity-plugins"
+   ],
+   "stars": 524,
+   "forks": 34,
+   "created": "2026-11-19",
+   "age": 4,
+   "velocity": 177.5,
+   "velocity_measured": true,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/55076202?v=4",
+   "score": 6.481,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-21",
+     169
+    ],
+    [
+     "2026-11-23",
+     524
+    ]
+   ],
+   "engagement": 0.0763,
+   "commits": 50,
+   "contributors": 9,
+   "suspect": false,
+   "adj_score": 6.481,
+   "summary": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "kajisho5/ffmpeg-skill",
+   "url": "https://github.com/kajisho5/ffmpeg-skill",
+   "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+   "language": "Python",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "audio-processing",
+    "captions",
+    "claude-code",
+    "codex"
+   ],
+   "stars": 9726,
+   "forks": 865,
+   "created": "2026-09-03",
+   "age": 81,
+   "velocity": 434.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/20648875?v=4",
+   "score": 6.413,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     4826
+    ],
+    [
+     "2026-11-10",
+     4881
+    ],
+    [
+     "2026-11-11",
+     5020
+    ],
+    [
+     "2026-11-12",
+     5094
+    ],
+    [
+     "2026-11-13",
+     5295
+    ],
+    [
+     "2026-11-15",
+     5872
+    ],
+    [
+     "2026-11-16",
+     5977
+    ],
+    [
+     "2026-11-17",
+     6751
+    ],
+    [
+     "2026-11-18",
+     7753
+    ],
+    [
+     "2026-11-19",
+     8030
+    ],
+    [
+     "2026-11-20",
+     8365
+    ],
+    [
+     "2026-11-21",
+     8859
+    ],
+    [
+     "2026-11-22",
+     9292
+    ],
+    [
+     "2026-11-23",
+     9726
+    ]
+   ],
+   "engagement": 0.1127,
+   "commits": 703,
+   "contributors": 15,
+   "suspect": false,
+   "adj_score": 6.413,
+   "summary": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "lemomo-ai/lemo-opuscar",
+   "url": "https://github.com/lemomo-ai/lemo-opuscar",
+   "description": "A toolbox of film styles made in code for Claude Code: 99 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：99 种现成风格，也能做出你自己的",
+   "language": "JavaScript",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "ai-short-film",
+    "ai-video",
+    "animation",
+    "canvas"
+   ],
+   "stars": 19927,
+   "forks": 2529,
+   "created": "2026-09-26",
+   "age": 58,
+   "velocity": 408.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/97503247?v=4",
+   "score": 6.409,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     13713
+    ],
+    [
+     "2026-11-10",
+     14090
+    ],
+    [
+     "2026-11-11",
+     14503
+    ],
+    [
+     "2026-11-12",
+     14912
+    ],
+    [
+     "2026-11-13",
+     15315
+    ],
+    [
+     "2026-11-15",
+     16611
+    ],
+    [
+     "2026-11-16",
+     16789
+    ],
+    [
+     "2026-11-17",
+     17281
+    ],
+    [
+     "2026-11-18",
+     17854
+    ],
+    [
+     "2026-11-19",
+     18342
+    ],
+    [
+     "2026-11-20",
+     18740
+    ],
+    [
+     "2026-11-21",
+     19117
+    ],
+    [
+     "2026-11-22",
+     19519
+    ],
+    [
+     "2026-11-23",
+     19927
+    ]
+   ],
+   "engagement": 0.1329,
+   "commits": 147,
+   "contributors": 11,
+   "suspect": false,
+   "adj_score": 6.409,
+   "summary": "A toolbox of film styles made in code for Claude Code: 99 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：99 种现成风格，也能做出你自己的",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Lee-xeo/Claude-Cage",
+   "url": "https://github.com/Lee-xeo/Claude-Cage",
+   "description": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
+   "language": "Go",
+   "topics": [],
+   "stars": 7675,
+   "forks": 885,
+   "created": "2026-10-31",
+   "age": 23,
+   "velocity": 308.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/120454108?v=4",
+   "score": 6.331,
+   "default_branch": "main",
+   "flags": [
+    {
+     "kind": "migrated",
+     "text": "首个提交在 2026-01-28，比仓库创建早 276 天：老项目迁移或私有项目首次公开"
+    }
+   ],
+   "trend": [
+    [
+     "2026-11-10",
+     664
+    ],
+    [
+     "2026-11-11",
+     1247
+    ],
+    [
+     "2026-11-12",
+     3299
+    ],
+    [
+     "2026-11-13",
+     4800
+    ],
+    [
+     "2026-11-14",
+     5549
+    ],
+    [
+     "2026-11-15",
+     5665
+    ],
+    [
+     "2026-11-16",
+     5729
+    ],
+    [
+     "2026-11-17",
+     6078
+    ],
+    [
+     "2026-11-18",
+     6374
+    ],
+    [
+     "2026-11-19",
+     6628
+    ],
+    [
+     "2026-11-20",
+     6871
+    ],
+    [
+     "2026-11-21",
+     7087
+    ],
+    [
+     "2026-11-22",
+     7367
+    ],
+    [
+     "2026-11-23",
+     7675
+    ]
+   ],
+   "engagement": 0.1837,
+   "commits": 1032,
+   "contributors": 36,
+   "first_commit": "2026-01-28",
+   "suspect": false,
+   "adj_score": 6.331,
+   "summary": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "libracoder/kiri",
+   "url": "https://github.com/libracoder/kiri",
+   "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+   "language": "Rust",
+   "topics": [
+    "containers",
+    "docker",
+    "kubernetes",
+    "linux",
+    "macos",
+    "oci"
+   ],
+   "stars": 12349,
+   "forks": 600,
+   "created": "2026-11-02",
+   "age": 21,
+   "velocity": 294.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/32944039?v=4",
+   "score": 6.307,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     1380
+    ],
+    [
+     "2026-11-11",
+     1472
+    ],
+    [
+     "2026-11-12",
+     1613
+    ],
+    [
+     "2026-11-13",
+     1715
+    ],
+    [
+     "2026-11-14",
+     2609
+    ],
+    [
+     "2026-11-15",
+     5281
+    ],
+    [
+     "2026-11-16",
+     6491
+    ],
+    [
+     "2026-11-17",
+     8943
+    ],
+    [
+     "2026-11-18",
+     10123
+    ],
+    [
+     "2026-11-19",
+     10798
+    ],
+    [
+     "2026-11-20",
+     11274
+    ],
+    [
+     "2026-11-21",
+     11683
+    ],
+    [
+     "2026-11-22",
+     12055
+    ],
+    [
+     "2026-11-23",
+     12349
+    ]
+   ],
+   "engagement": 0.0748,
+   "commits": 249,
+   "contributors": 43,
+   "suspect": false,
+   "adj_score": 6.307,
+   "summary": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "ThreatDefence/agentic-attack-detections",
+   "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+   "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
+   "language": "Python",
+   "topics": [
+    "agentic-ai",
+    "ai-security",
+    "blue-team",
+    "defender-xdr",
+    "detection-engineering",
+    "ioc"
+   ],
+   "stars": 396,
+   "forks": 85,
+   "created": "2026-11-20",
+   "age": 3,
+   "velocity": 132.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/260813551?v=4",
+   "score": 6.302,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-23",
+     396
+    ]
+   ],
+   "engagement": 0.2475,
+   "commits": 37,
+   "contributors": 5,
+   "suspect": false,
+   "adj_score": 6.302,
+   "summary": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "kingcharleslzy-ai/dsh-purge",
+   "url": "https://github.com/kingcharleslzy-ai/dsh-purge",
+   "description": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
+   "language": "JavaScript",
+   "topics": [
+    "agent-tools",
+    "backup",
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin"
+   ],
+   "stars": 11644,
+   "forks": 4563,
+   "created": "2026-10-16",
+   "age": 38,
+   "velocity": 329.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/260348840?v=4",
+   "score": 6.269,
+   "default_branch": "master",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     6044
+    ],
+    [
+     "2026-11-11",
+     6556
+    ],
+    [
+     "2026-11-12",
+     7022
+    ],
+    [
+     "2026-11-13",
+     7471
+    ],
+    [
+     "2026-11-14",
+     8671
+    ],
+    [
+     "2026-11-15",
+     8672
+    ],
+    [
+     "2026-11-16",
+     8758
+    ],
+    [
+     "2026-11-17",
+     9251
+    ],
+    [
+     "2026-11-18",
+     9767
+    ],
+    [
+     "2026-11-19",
+     10227
+    ],
+    [
+     "2026-11-20",
+     10648
+    ],
+    [
+     "2026-11-21",
+     10999
+    ],
+    [
+     "2026-11-22",
+     11315
+    ],
+    [
+     "2026-11-23",
+     11644
+    ]
+   ],
+   "engagement": 0.407,
+   "commits": 691,
+   "contributors": 30,
+   "suspect": false,
+   "adj_score": 6.269,
+   "summary": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "haydenschmitty/floorplan",
+   "url": "https://github.com/haydenschmitty/floorplan",
+   "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+   "language": "JavaScript",
+   "topics": [
+    "ai-coding",
+    "architecture-diagram",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "codebase-visualization"
+   ],
+   "stars": 6259,
+   "forks": 561,
+   "created": "2026-10-27",
+   "age": 27,
+   "velocity": 271.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/348570593?v=4",
+   "score": 6.145,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     3363
+    ],
+    [
+     "2026-11-11",
+     3448
+    ],
+    [
+     "2026-11-12",
+     3689
+    ],
+    [
+     "2026-11-13",
+     3899
+    ],
+    [
+     "2026-11-14",
+     4458
+    ],
+    [
+     "2026-11-15",
+     4458
+    ],
+    [
+     "2026-11-16",
+     4540
+    ],
+    [
+     "2026-11-17",
+     4635
+    ],
+    [
+     "2026-11-18",
+     4733
+    ],
+    [
+     "2026-11-19",
+     4852
+    ],
+    [
+     "2026-11-20",
+     5067
+    ],
+    [
+     "2026-11-21",
+     5642
+    ],
+    [
+     "2026-11-22",
+     5988
+    ],
+    [
+     "2026-11-23",
+     6259
+    ]
+   ],
+   "engagement": 0.1074,
+   "commits": 253,
+   "contributors": 23,
+   "suspect": false,
+   "adj_score": 6.145,
+   "summary": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Eynnzerr/TelemetryCleaner",
+   "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+   "description": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+   "language": "Kotlin",
+   "topics": [],
+   "stars": 2685,
+   "forks": 184,
+   "created": "2026-11-11",
+   "age": 12,
+   "velocity": 211.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/73703990?v=4",
+   "score": 6.13,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-13",
+     76
+    ],
+    [
+     "2026-11-15",
+     911
+    ],
+    [
+     "2026-11-16",
+     1028
+    ],
+    [
+     "2026-11-17",
+     1314
+    ],
+    [
+     "2026-11-18",
+     1485
+    ],
+    [
+     "2026-11-19",
+     1670
+    ],
+    [
+     "2026-11-20",
+     1969
+    ],
+    [
+     "2026-11-21",
+     2204
+    ],
+    [
+     "2026-11-22",
+     2474
+    ],
+    [
+     "2026-11-23",
+     2685
+    ]
+   ],
+   "engagement": 0.0853,
+   "commits": 27,
+   "contributors": 1,
+   "suspect": false,
+   "adj_score": 6.13,
+   "summary": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "os6/nospeaker",
+   "url": "https://github.com/os6/nospeaker",
+   "description": "make your macbook's trackpad talk using its haptic motor",
+   "language": "Swift",
+   "topics": [
+    "haptics",
+    "macos",
+    "swift",
+    "trackpad"
+   ],
+   "stars": 433,
+   "forks": 19,
+   "created": "2026-11-22",
+   "age": 1,
+   "velocity": 433.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/239950?v=4",
+   "score": 9.11,
+   "default_branch": "main",
+   "flags": [
+    {
+     "kind": "suspect",
+     "text": "互动率仅 4.6%（正常项目 6%–40%）"
+    }
+   ],
+   "trend": [
+    [
+     "2026-11-23",
+     433
+    ]
+   ],
+   "engagement": 0.0462,
+   "commits": 2,
+   "contributors": 1,
+   "suspect": true,
+   "adj_score": 2.733,
+   "summary": "make your macbook's trackpad talk using its haptic motor",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "shinyobjectz/raea",
+   "url": "https://github.com/shinyobjectz/raea",
+   "description": "Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU. Rust + Bevy, macOS, Linux and Windows.",
+   "language": "TypeScript",
+   "topics": [
+    "3d",
+    "agent-skills",
+    "ai-agents",
+    "ai-video",
+    "bevy",
+    "claude-code"
+   ],
+   "stars": 4281,
+   "forks": 334,
+   "created": "2026-10-18",
+   "age": 36,
+   "velocity": 1071.0,
+   "velocity_measured": true,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/198368214?v=4",
+   "score": 7.559,
+   "default_branch": "main",
+   "flags": [
+    {
+     "kind": "suspect",
+     "text": "单日暴涨：+1071，此前日均 +118"
+    }
+   ],
+   "trend": [
+    [
+     "2026-11-10",
+     1603
+    ],
+    [
+     "2026-11-11",
+     1986
+    ],
+    [
+     "2026-11-12",
+     2167
+    ],
+    [
+     "2026-11-13",
+     2285
+    ],
+    [
+     "2026-11-15",
+     2534
+    ],
+    [
+     "2026-11-16",
+     2572
+    ],
+    [
+     "2026-11-17",
+     2655
+    ],
+    [
+     "2026-11-18",
+     2740
+    ],
+    [
+     "2026-11-19",
+     2770
+    ],
+    [
+     "2026-11-20",
+     2793
+    ],
+    [
+     "2026-11-21",
+     2822
+    ],
+    [
+     "2026-11-22",
+     3210
+    ],
+    [
+     "2026-11-23",
+     4281
+    ]
+   ],
+   "engagement": 0.106,
+   "commits": 1390,
+   "contributors": 12,
+   "suspect": true,
+   "adj_score": 2.268,
+   "summary": "Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU. Rust + Bevy, macOS, Linux and Windows.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Ebony-Vinyl/dsh-our-free-model",
+   "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+   "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+   "language": "JavaScript",
+   "topics": [
+    "ai-agents",
+    "deepseek",
+    "deepseek-harness",
+    "developer-tools",
+    "dsh",
+    "dsh-plugin"
+   ],
+   "stars": 83972,
+   "forks": 2353,
+   "created": "2026-09-24",
+   "age": 60,
+   "velocity": 857.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/245557608?v=4",
+   "score": 7.191,
+   "default_branch": "main",
+   "flags": [
+    {
+     "kind": "suspect",
+     "text": "互动率仅 3.6%（正常项目 6%–40%）"
+    }
+   ],
+   "trend": [
+    [
+     "2026-11-10",
+     67384
+    ],
+    [
+     "2026-11-11",
+     68738
+    ],
+    [
+     "2026-11-12",
+     70061
+    ],
+    [
+     "2026-11-13",
+     71365
+    ],
+    [
+     "2026-11-14",
+     74634
+    ],
+    [
+     "2026-11-15",
+     75534
+    ],
+    [
+     "2026-11-16",
+     75843
+    ],
+    [
+     "2026-11-17",
+     77323
+    ],
+    [
+     "2026-11-18",
+     78569
+    ],
+    [
+     "2026-11-19",
+     79816
+    ],
+    [
+     "2026-11-20",
+     81012
+    ],
+    [
+     "2026-11-21",
+     82096
+    ],
+    [
+     "2026-11-22",
+     83115
+    ],
+    [
+     "2026-11-23",
+     83972
+    ]
+   ],
+   "engagement": 0.0356,
+   "commits": 940,
+   "contributors": 40,
+   "suspect": true,
+   "adj_score": 2.157,
+   "summary": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "sshkeda/minecraft-server-on-orange-cloud",
+   "url": "https://github.com/sshkeda/minecraft-server-on-orange-cloud",
+   "description": "Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing.",
+   "language": "TypeScript",
+   "topics": [
+    "bun",
+    "cloudflare",
+    "cloudflare-containers",
+    "cloudflare-workers",
+    "durable-objects",
+    "effect"
+   ],
+   "stars": 391,
+   "forks": 7,
+   "created": "2026-11-21",
+   "age": 2,
+   "velocity": 195.5,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/129692066?v=4",
+   "score": 7.148,
+   "default_branch": "main",
+   "flags": [
+    {
+     "kind": "suspect",
+     "text": "互动率仅 2.0%（正常项目 6%–40%）"
+    }
+   ],
+   "trend": [
+    [
+     "2026-11-23",
+     391
+    ]
+   ],
+   "engagement": 0.0205,
+   "commits": 1,
+   "contributors": 1,
+   "suspect": true,
+   "adj_score": 2.144,
+   "summary": "Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "ItsNotRexed/Hookshot",
+   "url": "https://github.com/ItsNotRexed/Hookshot",
+   "description": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
+   "language": "C++",
+   "topics": [],
+   "stars": 420,
+   "forks": 10,
+   "created": "2026-11-20",
+   "age": 3,
+   "velocity": 140.0,
+   "velocity_measured": false,
+   "new": true,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/300290919?v=4",
+   "score": 6.377,
+   "default_branch": "main",
+   "flags": [
+    {
+     "kind": "suspect",
+     "text": "互动率仅 4.8%（正常项目 6%–40%）"
+    }
+   ],
+   "trend": [
+    [
+     "2026-11-23",
+     420
+    ]
+   ],
+   "engagement": 0.0476,
+   "commits": 3725,
+   "contributors": 219,
+   "suspect": true,
+   "adj_score": 1.913,
+   "summary": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Jakeschincariol/instagram-agent-skill",
+   "url": "https://github.com/Jakeschincariol/instagram-agent-skill",
+   "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
+   "language": "Python",
+   "topics": [],
+   "stars": 8308,
+   "forks": 1520,
+   "created": "2026-09-13",
+   "age": 71,
+   "velocity": 323.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/196724947?v=4",
+   "score": 6.124,
+   "default_branch": "main",
+   "flags": [
+    {
+     "kind": "suspect",
+     "text": "8308 star 但只有 2 个提交"
+    }
+   ],
+   "trend": [
+    [
+     "2026-11-09",
+     5533
+    ],
+    [
+     "2026-11-10",
+     5683
+    ],
+    [
+     "2026-11-11",
+     5838
+    ],
+    [
+     "2026-11-12",
+     6038
+    ],
+    [
+     "2026-11-13",
+     6216
+    ],
+    [
+     "2026-11-15",
+     6565
+    ],
+    [
+     "2026-11-16",
+     6638
+    ],
+    [
+     "2026-11-17",
+     6822
+    ],
+    [
+     "2026-11-18",
+     6988
+    ],
+    [
+     "2026-11-19",
+     7124
+    ],
+    [
+     "2026-11-20",
+     7367
+    ],
+    [
+     "2026-11-21",
+     7679
+    ],
+    [
+     "2026-11-22",
+     7985
+    ],
+    [
+     "2026-11-23",
+     8308
+    ]
+   ],
+   "engagement": 0.2004,
+   "commits": 2,
+   "contributors": 2,
+   "suspect": true,
+   "adj_score": 1.837,
+   "summary": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  }
+ ],
+ "rising": [
+  {
+   "name": "mjmirza/app-store-compliance",
+   "url": "https://github.com/mjmirza/app-store-compliance",
+   "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+   "language": "Shell",
+   "topics": [
+    "android",
+    "app-store-review",
+    "google-play",
+    "ios",
+    "app-review-guidelines",
+    "app-store-rejection"
+   ],
+   "stars": 3988,
+   "forks": 237,
+   "created": "2026-06-06",
+   "age": 170,
+   "velocity": 621,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/34001140?u=67ca645cd17b78cb222fd2aafc7c3bb709f43840&v=4",
+   "score": 25.385,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-20",
+     1853
+    ],
+    [
+     "2026-11-21",
+     2752
+    ],
+    [
+     "2026-11-22",
+     3403
+    ],
+    [
+     "2026-11-23",
+     3988
+    ]
+   ],
+   "rising": {
+    "ratio": 0.15572,
+    "accel": 26.5,
+    "release": "v2.5.1",
+    "release_date": "2026-11-22"
+   },
+   "engagement": 0.077,
+   "commits": 88,
+   "contributors": 6,
+   "suspect": false,
+   "adj_score": 25.385,
+   "summary": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "WhiteTowerAI/ohmygame",
+   "url": "https://github.com/WhiteTowerAI/ohmygame",
+   "description": "The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app. Game canvas.  Bring your own key.",
+   "language": "TypeScript",
+   "topics": [
+    "ai-coding",
+    "ai-coding-agent",
+    "ai-game-design",
+    "ai-game-dev",
+    "ai-game-development",
+    "ai-image"
+   ],
+   "stars": 3069,
+   "forks": 376,
+   "created": "2026-08-11",
+   "age": 104,
+   "velocity": 447.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/188963868?v=4",
+   "score": 23.298,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-11",
+     2040
+    ],
+    [
+     "2026-11-12",
+     2109
+    ],
+    [
+     "2026-11-13",
+     2157
+    ],
+    [
+     "2026-11-15",
+     2243
+    ],
+    [
+     "2026-11-16",
+     2243
+    ],
+    [
+     "2026-11-17",
+     2280
+    ],
+    [
+     "2026-11-18",
+     2376
+    ],
+    [
+     "2026-11-19",
+     2413
+    ],
+    [
+     "2026-11-20",
+     2434
+    ],
+    [
+     "2026-11-21",
+     2484
+    ],
+    [
+     "2026-11-22",
+     2622
+    ],
+    [
+     "2026-11-23",
+     3069
+    ]
+   ],
+   "rising": {
+    "ratio": 0.14565,
+    "accel": 15.1,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.1711,
+   "commits": 2464,
+   "contributors": 20,
+   "suspect": false,
+   "adj_score": 23.298,
+   "summary": "The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app. Game canvas.  Bring your own key.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "elementalsouls/Claude-BugHunter",
+   "url": "https://github.com/elementalsouls/Claude-BugHunter",
+   "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "language": "Python",
+   "topics": [
+    "ai-security",
+    "anthropic",
+    "application-security",
+    "bug-bounty",
+    "bugbounty",
+    "bugcrowd"
+   ],
+   "stars": 17848,
+   "forks": 1972,
+   "created": "2026-05-05",
+   "age": 202,
+   "velocity": 1609.9,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/49252733?u=37192882a5d2534ec65c1b6047633675a064d44c&v=4",
+   "score": 22.178,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-14",
+     6024
+    ],
+    [
+     "2026-11-15",
+     6478
+    ],
+    [
+     "2026-11-16",
+     6481
+    ],
+    [
+     "2026-11-18",
+     9319
+    ],
+    [
+     "2026-11-19",
+     11381
+    ],
+    [
+     "2026-11-20",
+     12550
+    ],
+    [
+     "2026-11-21",
+     14292
+    ],
+    [
+     "2026-11-22",
+     16081
+    ],
+    [
+     "2026-11-23",
+     17848
+    ]
+   ],
+   "rising": {
+    "ratio": 0.0902,
+    "accel": 18.2,
+    "release": "v2.1",
+    "release_date": "2026-06-05"
+   },
+   "engagement": 0.116,
+   "commits": 357,
+   "contributors": 18,
+   "suspect": false,
+   "adj_score": 22.178,
+   "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Tencent/LoopForge",
+   "url": "https://github.com/Tencent/LoopForge",
+   "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+   "language": "Go",
+   "topics": [
+    "agent-orchestration",
+    "agentic-workflow",
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "code-review"
+   ],
+   "stars": 5665,
+   "forks": 790,
+   "created": "2026-07-28",
+   "age": 118,
+   "velocity": 616.6,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/18461506?v=4",
+   "score": 21.199,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-12",
+     320
+    ],
+    [
+     "2026-11-13",
+     553
+    ],
+    [
+     "2026-11-14",
+     1095
+    ],
+    [
+     "2026-11-15",
+     1526
+    ],
+    [
+     "2026-11-16",
+     1526
+    ],
+    [
+     "2026-11-17",
+     2340
+    ],
+    [
+     "2026-11-18",
+     3161
+    ],
+    [
+     "2026-11-19",
+     3807
+    ],
+    [
+     "2026-11-20",
+     4059
+    ],
+    [
+     "2026-11-21",
+     5278
+    ],
+    [
+     "2026-11-22",
+     5515
+    ],
+    [
+     "2026-11-23",
+     5665
+    ]
+   ],
+   "rising": {
+    "ratio": 0.10884,
+    "accel": 12.8,
+    "release": "v0.4.0",
+    "release_date": "2026-11-17"
+   },
+   "engagement": 0.1808,
+   "commits": 398,
+   "contributors": 24,
+   "suspect": false,
+   "adj_score": 21.199,
+   "summary": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "XiaoYouChR/Ghost-Downloader-3",
+   "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+   "description": "The only downloader you need. 下载器的集大成者。",
+   "language": "Python",
+   "topics": [
+    "downloader",
+    "pyside6",
+    "python",
+    "qt",
+    "software",
+    "streaming"
+   ],
+   "stars": 15157,
+   "forks": 912,
+   "created": "2023-08-16",
+   "age": 1195,
+   "velocity": 701,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/87308195?u=307fa6fdabb992df880f60343e5870204c24f84d&v=4",
+   "score": 14.095,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     10867
+    ],
+    [
+     "2026-11-19",
+     12153
+    ],
+    [
+     "2026-11-20",
+     12732
+    ],
+    [
+     "2026-11-21",
+     13713
+    ],
+    [
+     "2026-11-22",
+     14458
+    ],
+    [
+     "2026-11-23",
+     15157
+    ]
+   ],
+   "rising": {
+    "ratio": 0.04625,
+    "accel": 55.3,
+    "release": "v4.5.11",
+    "release_date": "2026-11-20"
+   },
+   "engagement": 0.1166,
+   "commits": 1780,
+   "contributors": 20,
+   "suspect": false,
+   "adj_score": 14.095,
+   "summary": "The only downloader you need. 下载器的集大成者。",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "GoogleChrome/modern-web-guidance-src",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+   "description": "Keep your coding agent up to date with the latest web best practices",
+   "language": "TypeScript",
+   "topics": [],
+   "stars": 10211,
+   "forks": 810,
+   "created": "2026-01-27",
+   "age": 300,
+   "velocity": 510.7,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1778935?v=4",
+   "score": 13.95,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-12",
+     1786
+    ],
+    [
+     "2026-11-13",
+     3024
+    ],
+    [
+     "2026-11-14",
+     6216
+    ],
+    [
+     "2026-11-16",
+     7212
+    ],
+    [
+     "2026-11-17",
+     8000
+    ],
+    [
+     "2026-11-18",
+     8456
+    ],
+    [
+     "2026-11-19",
+     8841
+    ],
+    [
+     "2026-11-20",
+     9116
+    ],
+    [
+     "2026-11-21",
+     9534
+    ],
+    [
+     "2026-11-22",
+     9901
+    ],
+    [
+     "2026-11-23",
+     10211
+    ]
+   ],
+   "rising": {
+    "ratio": 0.05002,
+    "accel": 15.0,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.2832,
+   "commits": 1664,
+   "contributors": 96,
+   "suspect": false,
+   "adj_score": 13.95,
+   "summary": "Keep your coding agent up to date with the latest web best practices",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "pingdotgg/t3code",
+   "url": "https://github.com/pingdotgg/t3code",
+   "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+   "language": "TypeScript",
+   "topics": [
+    "agent-orchestration",
+    "agents",
+    "ai",
+    "chatgpt",
+    "claude",
+    "claude-code"
+   ],
+   "stars": 71660,
+   "forks": 12123,
+   "created": "2026-02-08",
+   "age": 288,
+   "velocity": 2089.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/89191727?v=4",
+   "score": 13.053,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     54159
+    ],
+    [
+     "2026-11-11",
+     55761
+    ],
+    [
+     "2026-11-12",
+     57077
+    ],
+    [
+     "2026-11-13",
+     58414
+    ],
+    [
+     "2026-11-14",
+     61211
+    ],
+    [
+     "2026-11-15",
+     61575
+    ],
+    [
+     "2026-11-16",
+     61578
+    ],
+    [
+     "2026-11-17",
+     62825
+    ],
+    [
+     "2026-11-18",
+     64146
+    ],
+    [
+     "2026-11-19",
+     65261
+    ],
+    [
+     "2026-11-20",
+     66447
+    ],
+    [
+     "2026-11-21",
+     67895
+    ],
+    [
+     "2026-11-22",
+     69571
+    ],
+    [
+     "2026-11-23",
+     71660
+    ]
+   ],
+   "rising": {
+    "ratio": 0.02915,
+    "accel": 8.4,
+    "release": "v0.1.11",
+    "release_date": "2026-11-20"
+   },
+   "engagement": 0.3128,
+   "commits": 13098,
+   "contributors": 1344,
+   "suspect": false,
+   "adj_score": 13.053,
+   "summary": "The best way to control Claude Code, Codex and more from any computer or phone",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "tradermonty/claude-trading-skills",
+   "url": "https://github.com/tradermonty/claude-trading-skills",
+   "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+   "language": "Python",
+   "topics": [],
+   "stars": 7795,
+   "forks": 1496,
+   "created": "2025-10-19",
+   "age": 400,
+   "velocity": 373.7,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/205491838?u=41df78f57486831de64c329f7b814e07202f0548&v=4",
+   "score": 12.976,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-14",
+     5275
+    ],
+    [
+     "2026-11-15",
+     5582
+    ],
+    [
+     "2026-11-16",
+     5585
+    ],
+    [
+     "2026-11-17",
+     6319
+    ],
+    [
+     "2026-11-18",
+     6866
+    ],
+    [
+     "2026-11-19",
+     7078
+    ],
+    [
+     "2026-11-20",
+     7254
+    ],
+    [
+     "2026-11-21",
+     7439
+    ],
+    [
+     "2026-11-22",
+     7628
+    ],
+    [
+     "2026-11-23",
+     7795
+    ]
+   ],
+   "rising": {
+    "ratio": 0.04794,
+    "accel": 19.2,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.2343,
+   "commits": 1163,
+   "contributors": 34,
+   "suspect": false,
+   "adj_score": 12.976,
+   "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "dream-num/univer",
+   "url": "https://github.com/dream-num/univer",
+   "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+   "language": "TypeScript",
+   "topics": [
+    "excel",
+    "spreadsheet",
+    "xlsx",
+    "doc",
+    "word",
+    "ppt"
+   ],
+   "stars": 31269,
+   "forks": 2844,
+   "created": "2022-09-29",
+   "age": 1516,
+   "velocity": 919.4,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/61444807?v=4",
+   "score": 11.703,
+   "default_branch": "dev",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-12",
+     23193
+    ],
+    [
+     "2026-11-14",
+     25346
+    ],
+    [
+     "2026-11-15",
+     25887
+    ],
+    [
+     "2026-11-16",
+     25902
+    ],
+    [
+     "2026-11-17",
+     27794
+    ],
+    [
+     "2026-11-18",
+     28906
+    ],
+    [
+     "2026-11-19",
+     29888
+    ],
+    [
+     "2026-11-20",
+     30437
+    ],
+    [
+     "2026-11-21",
+     30945
+    ],
+    [
+     "2026-11-22",
+     31102
+    ],
+    [
+     "2026-11-23",
+     31269
+    ]
+   ],
+   "rising": {
+    "ratio": 0.0294,
+    "accel": 44.6,
+    "release": "v1.6.0",
+    "release_date": "2026-11-21"
+   },
+   "engagement": 0.1901,
+   "commits": 6128,
+   "contributors": 84,
+   "suspect": false,
+   "adj_score": 11.703,
+   "summary": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "google-research/paper-orchestra",
+   "url": "https://github.com/google-research/paper-orchestra",
+   "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+   "language": "Python",
+   "topics": [
+    "ai-research-assistant",
+    "multi-agent-systems"
+   ],
+   "stars": 5968,
+   "forks": 770,
+   "created": "2026-05-01",
+   "age": 206,
+   "velocity": 234,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/43830688?v=4",
+   "score": 10.811,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-17",
+     1537
+    ],
+    [
+     "2026-11-18",
+     3016
+    ],
+    [
+     "2026-11-19",
+     4294
+    ],
+    [
+     "2026-11-20",
+     5048
+    ],
+    [
+     "2026-11-21",
+     5439
+    ],
+    [
+     "2026-11-22",
+     5731
+    ],
+    [
+     "2026-11-23",
+     5968
+    ]
+   ],
+   "rising": {
+    "ratio": 0.03921,
+    "accel": 8.1,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.1377,
+   "commits": 8,
+   "contributors": 7,
+   "suspect": false,
+   "adj_score": 10.811,
+   "summary": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "google-labs-code/stitch-skills",
+   "url": "https://github.com/google-labs-code/stitch-skills",
+   "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "language": "TypeScript",
+   "topics": [],
+   "stars": 11925,
+   "forks": 1475,
+   "created": "2026-01-16",
+   "age": 311,
+   "velocity": 383.3,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/161364575?v=4",
+   "score": 10.67,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-11",
+     8726
+    ],
+    [
+     "2026-11-12",
+     8742
+    ],
+    [
+     "2026-11-13",
+     8753
+    ],
+    [
+     "2026-11-15",
+     9317
+    ],
+    [
+     "2026-11-16",
+     9318
+    ],
+    [
+     "2026-11-17",
+     9739
+    ],
+    [
+     "2026-11-18",
+     10109
+    ],
+    [
+     "2026-11-19",
+     10406
+    ],
+    [
+     "2026-11-20",
+     10722
+    ],
+    [
+     "2026-11-21",
+     11040
+    ],
+    [
+     "2026-11-22",
+     11448
+    ],
+    [
+     "2026-11-23",
+     11925
+    ]
+   ],
+   "rising": {
+    "ratio": 0.03214,
+    "accel": 10.0,
+    "release": "v1.0",
+    "release_date": "2026-05-18"
+   },
+   "engagement": 0.1338,
+   "commits": 112,
+   "contributors": 20,
+   "suspect": false,
+   "adj_score": 10.67,
+   "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "zhouxiaoka/autoclip",
+   "url": "https://github.com/zhouxiaoka/autoclip",
+   "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+   "language": "Python",
+   "topics": [
+    "ai-video-editor",
+    "ai-agent",
+    "content-repurposing",
+    "desktop-app",
+    "douyin",
+    "instagram-reels"
+   ],
+   "stars": 13450,
+   "forks": 2128,
+   "created": "2025-07-08",
+   "age": 503,
+   "velocity": 401.1,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/78066887?u=835ccf44494d76bca82cacf914d8eaab109f62cf&v=4",
+   "score": 10.356,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-20",
+     11240
+    ],
+    [
+     "2026-11-21",
+     12191
+    ],
+    [
+     "2026-11-22",
+     12868
+    ],
+    [
+     "2026-11-23",
+     13450
+    ]
+   ],
+   "rising": {
+    "ratio": 0.02982,
+    "accel": 15.0,
+    "release": "v1.5.9",
+    "release_date": "2026-11-22"
+   },
+   "engagement": 0.1725,
+   "commits": 1480,
+   "contributors": 7,
+   "suspect": false,
+   "adj_score": 10.356,
+   "summary": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "backnotprop/plannotator",
+   "url": "https://github.com/backnotprop/plannotator",
+   "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+   "language": "TypeScript",
+   "topics": [
+    "claude-code",
+    "opencode",
+    "obsidian",
+    "pi-mono",
+    "plan-mode",
+    "codex"
+   ],
+   "stars": 14434,
+   "forks": 1430,
+   "created": "2025-12-28",
+   "age": 330,
+   "velocity": 402.1,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/7244317?u=ca99a5717dd0ce83ad6e9f39a00489f84e501fbe&v=4",
+   "score": 10.014,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     9951
+    ],
+    [
+     "2026-11-11",
+     10008
+    ],
+    [
+     "2026-11-12",
+     10078
+    ],
+    [
+     "2026-11-14",
+     11661
+    ],
+    [
+     "2026-11-15",
+     11864
+    ],
+    [
+     "2026-11-16",
+     11864
+    ],
+    [
+     "2026-11-17",
+     12572
+    ],
+    [
+     "2026-11-18",
+     13071
+    ],
+    [
+     "2026-11-19",
+     13459
+    ],
+    [
+     "2026-11-20",
+     13666
+    ],
+    [
+     "2026-11-21",
+     13900
+    ],
+    [
+     "2026-11-22",
+     14169
+    ],
+    [
+     "2026-11-23",
+     14434
+    ]
+   ],
+   "rising": {
+    "ratio": 0.02786,
+    "accel": 9.2,
+    "release": "v0.29.2",
+    "release_date": "2026-11-22"
+   },
+   "engagement": 0.1548,
+   "commits": 12087,
+   "contributors": 221,
+   "suspect": false,
+   "adj_score": 10.014,
+   "summary": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Tracer-Cloud/opensre",
+   "url": "https://github.com/Tracer-Cloud/opensre",
+   "description": "The open-source agent for CI/CD reliability.",
+   "language": "Python",
+   "topics": [
+    "alerting",
+    "datadog",
+    "grafana",
+    "observability",
+    "remediation",
+    "root-cause-analysis"
+   ],
+   "stars": 14429,
+   "forks": 1965,
+   "created": "2026-01-13",
+   "age": 314,
+   "velocity": 399,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/196393879?v=4",
+   "score": 9.963,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-20",
+     13134
+    ],
+    [
+     "2026-11-21",
+     13615
+    ],
+    [
+     "2026-11-22",
+     13991
+    ],
+    [
+     "2026-11-23",
+     14429
+    ]
+   ],
+   "rising": {
+    "ratio": 0.02765,
+    "accel": 8.7,
+    "release": "v0.1.2026.11.23",
+    "release_date": "2026-11-23"
+   },
+   "engagement": 0.3153,
+   "commits": 4447,
+   "contributors": 365,
+   "suspect": false,
+   "adj_score": 9.963,
+   "summary": "The open-source agent for CI/CD reliability.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "ag-ui-protocol/ag-ui",
+   "url": "https://github.com/ag-ui-protocol/ag-ui",
+   "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+   "language": "TypeScript",
+   "topics": [
+    "ag-ui-protocol",
+    "agent-frontend",
+    "agent-ui",
+    "agentic-workflow",
+    "ai-agents"
+   ],
+   "stars": 21198,
+   "forks": 2157,
+   "created": "2025-05-07",
+   "age": 565,
+   "velocity": 517.1,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/209775067?v=4",
+   "score": 9.762,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-15",
+     17897
+    ],
+    [
+     "2026-11-16",
+     17898
+    ],
+    [
+     "2026-11-17",
+     19010
+    ],
+    [
+     "2026-11-18",
+     20002
+    ],
+    [
+     "2026-11-19",
+     20438
+    ],
+    [
+     "2026-11-20",
+     20639
+    ],
+    [
+     "2026-11-21",
+     20820
+    ],
+    [
+     "2026-11-22",
+     21019
+    ],
+    [
+     "2026-11-23",
+     21198
+    ]
+   ],
+   "rising": {
+    "ratio": 0.0244,
+    "accel": 13.8,
+    "release": "release/2026-11-21",
+    "release_date": "2026-11-21"
+   },
+   "engagement": 0.1489,
+   "commits": 5596,
+   "contributors": 177,
+   "suspect": false,
+   "adj_score": 9.762,
+   "summary": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "getarcaneapp/arcane",
+   "url": "https://github.com/getarcaneapp/arcane",
+   "description": "Modern Docker Management, Designed for Everyone",
+   "language": "Go",
+   "topics": [
+    "docker",
+    "docker-management",
+    "self-hosted",
+    "sveltekit",
+    "typescript",
+    "go"
+   ],
+   "stars": 10304,
+   "forks": 583,
+   "created": "2025-04-19",
+   "age": 583,
+   "velocity": 276.1,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/236685631?v=4",
+   "score": 9.208,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-17",
+     8740
+    ],
+    [
+     "2026-11-18",
+     9336
+    ],
+    [
+     "2026-11-19",
+     9809
+    ],
+    [
+     "2026-11-20",
+     10131
+    ],
+    [
+     "2026-11-21",
+     10195
+    ],
+    [
+     "2026-11-22",
+     10258
+    ],
+    [
+     "2026-11-23",
+     10304
+    ]
+   ],
+   "rising": {
+    "ratio": 0.0268,
+    "accel": 15.6,
+    "release": "v3.1.1",
+    "release_date": "2026-11-19"
+   },
+   "engagement": 0.2056,
+   "commits": 4626,
+   "contributors": 101,
+   "suspect": false,
+   "adj_score": 9.208,
+   "summary": "Modern Docker Management, Designed for Everyone",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "milind-soni/OpenMausBot",
+   "url": "https://github.com/milind-soni/OpenMausBot",
+   "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+   "language": "TypeScript",
+   "topics": [
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "computer-use",
+    "docker",
+    "electron"
+   ],
+   "stars": 26851,
+   "forks": 3832,
+   "created": "2026-08-11",
+   "age": 104,
+   "velocity": 532.6,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/46266943?u=86f0b5eeb3763a41da307bcff2b53c7017992713&v=4",
+   "score": 8.844,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     19686
+    ],
+    [
+     "2026-11-11",
+     20639
+    ],
+    [
+     "2026-11-12",
+     21251
+    ],
+    [
+     "2026-11-13",
+     21727
+    ],
+    [
+     "2026-11-14",
+     23128
+    ],
+    [
+     "2026-11-15",
+     23438
+    ],
+    [
+     "2026-11-16",
+     23438
+    ],
+    [
+     "2026-11-17",
+     24209
+    ],
+    [
+     "2026-11-18",
+     24787
+    ],
+    [
+     "2026-11-19",
+     25392
+    ],
+    [
+     "2026-11-20",
+     25833
+    ],
+    [
+     "2026-11-21",
+     26207
+    ],
+    [
+     "2026-11-22",
+     26518
+    ],
+    [
+     "2026-11-23",
+     26851
+    ]
+   ],
+   "rising": {
+    "ratio": 0.01983,
+    "accel": 2.1,
+    "release": "v0.1.177",
+    "release_date": "2026-11-22"
+   },
+   "engagement": 0.2054,
+   "commits": 12851,
+   "contributors": 306,
+   "suspect": false,
+   "adj_score": 8.844,
+   "summary": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "agent-substrate/substrate",
+   "url": "https://github.com/agent-substrate/substrate",
+   "description": "Agent Substrate: the core system",
+   "language": "Go",
+   "topics": [
+    "agents",
+    "cncf",
+    "sandboxing"
+   ],
+   "stars": 8167,
+   "forks": 900,
+   "created": "2026-05-13",
+   "age": 194,
+   "velocity": 197.3,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/280516639?v=4",
+   "score": 8.221,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     6234
+    ],
+    [
+     "2026-11-11",
+     6398
+    ],
+    [
+     "2026-11-12",
+     6473
+    ],
+    [
+     "2026-11-13",
+     6547
+    ],
+    [
+     "2026-11-16",
+     6811
+    ],
+    [
+     "2026-11-17",
+     6881
+    ],
+    [
+     "2026-11-18",
+     7337
+    ],
+    [
+     "2026-11-19",
+     7617
+    ],
+    [
+     "2026-11-20",
+     7816
+    ],
+    [
+     "2026-11-21",
+     8027
+    ],
+    [
+     "2026-11-22",
+     8098
+    ],
+    [
+     "2026-11-23",
+     8167
+    ]
+   ],
+   "rising": {
+    "ratio": 0.02416,
+    "accel": 4.7,
+    "release": "v1.0.1",
+    "release_date": "2026-11-20"
+   },
+   "engagement": 0.289,
+   "commits": 1782,
+   "contributors": 143,
+   "suspect": false,
+   "adj_score": 8.221,
+   "summary": "Agent Substrate: the core system",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "meta/astryx",
+   "url": "https://github.com/meta/astryx",
+   "description": "An open source design system that's fully customizable and agent ready",
+   "language": "TypeScript",
+   "topics": [],
+   "stars": 32236,
+   "forks": 2529,
+   "created": "2026-01-09",
+   "age": 318,
+   "velocity": 518.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/69631?v=4",
+   "score": 7.925,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     20103
+    ],
+    [
+     "2026-11-11",
+     22874
+    ],
+    [
+     "2026-11-12",
+     25046
+    ],
+    [
+     "2026-11-13",
+     26577
+    ],
+    [
+     "2026-11-14",
+     28623
+    ],
+    [
+     "2026-11-15",
+     28901
+    ],
+    [
+     "2026-11-16",
+     28903
+    ],
+    [
+     "2026-11-17",
+     29605
+    ],
+    [
+     "2026-11-18",
+     30158
+    ],
+    [
+     "2026-11-19",
+     30577
+    ],
+    [
+     "2026-11-20",
+     30981
+    ],
+    [
+     "2026-11-21",
+     31350
+    ],
+    [
+     "2026-11-22",
+     31815
+    ],
+    [
+     "2026-11-23",
+     32236
+    ]
+   ],
+   "rising": {
+    "ratio": 0.01607,
+    "accel": 5.1,
+    "release": "v0.7.17",
+    "release_date": "2026-11-20"
+   },
+   "engagement": 0.139,
+   "commits": 8694,
+   "contributors": 146,
+   "suspect": false,
+   "adj_score": 7.925,
+   "summary": "An open source design system that's fully customizable and agent ready",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "anomalyco/hex",
+   "url": "https://github.com/anomalyco/hex",
+   "description": "Local voice dictation for mac, windows and linux",
+   "language": "Rust",
+   "topics": [
+    "dictation",
+    "linux",
+    "local-first",
+    "macos",
+    "rust",
+    "speech-recognition"
+   ],
+   "stars": 8145,
+   "forks": 548,
+   "created": "2026-07-17",
+   "age": 129,
+   "velocity": 179.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/66570915?v=4",
+   "score": 7.698,
+   "default_branch": "dev",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     5985
+    ],
+    [
+     "2026-11-11",
+     6205
+    ],
+    [
+     "2026-11-12",
+     6375
+    ],
+    [
+     "2026-11-13",
+     6495
+    ],
+    [
+     "2026-11-14",
+     6816
+    ],
+    [
+     "2026-11-15",
+     6920
+    ],
+    [
+     "2026-11-16",
+     6921
+    ],
+    [
+     "2026-11-17",
+     7138
+    ],
+    [
+     "2026-11-18",
+     7285
+    ],
+    [
+     "2026-11-19",
+     7462
+    ],
+    [
+     "2026-11-20",
+     7592
+    ],
+    [
+     "2026-11-21",
+     7718
+    ],
+    [
+     "2026-11-22",
+     7966
+    ],
+    [
+     "2026-11-23",
+     8145
+    ]
+   ],
+   "rising": {
+    "ratio": 0.02198,
+    "accel": 2.8,
+    "release": "v3.4.0",
+    "release_date": "2026-11-11"
+   },
+   "engagement": 0.1748,
+   "commits": 2254,
+   "contributors": 31,
+   "suspect": false,
+   "adj_score": 7.698,
+   "summary": "Local voice dictation for mac, windows and linux",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "hieunc229/mailflare",
+   "url": "https://github.com/hieunc229/mailflare",
+   "description": "Email for professionals and teams",
+   "language": "TypeScript",
+   "topics": [
+    "cloudflare",
+    "cloudflare-workers",
+    "email"
+   ],
+   "stars": 7461,
+   "forks": 1315,
+   "created": "2026-05-26",
+   "age": 181,
+   "velocity": 154.6,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/8464869?u=1e5043b0d148682dc225ec11ceb9a135246afd7e&v=4",
+   "score": 7.265,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     5934
+    ],
+    [
+     "2026-11-11",
+     5996
+    ],
+    [
+     "2026-11-12",
+     6087
+    ],
+    [
+     "2026-11-13",
+     6132
+    ],
+    [
+     "2026-11-14",
+     6380
+    ],
+    [
+     "2026-11-15",
+     6510
+    ],
+    [
+     "2026-11-16",
+     6510
+    ],
+    [
+     "2026-11-17",
+     6681
+    ],
+    [
+     "2026-11-18",
+     6887
+    ],
+    [
+     "2026-11-19",
+     7107
+    ],
+    [
+     "2026-11-20",
+     7309
+    ],
+    [
+     "2026-11-21",
+     7375
+    ],
+    [
+     "2026-11-22",
+     7418
+    ],
+    [
+     "2026-11-23",
+     7461
+    ]
+   ],
+   "rising": {
+    "ratio": 0.02072,
+    "accel": 3.7,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.1922,
+   "commits": 651,
+   "contributors": 56,
+   "suspect": false,
+   "adj_score": 7.265,
+   "summary": "Email for professionals and teams",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "cursor/plugins",
+   "url": "https://github.com/cursor/plugins",
+   "description": "Cursor plugin specification and official plugins",
+   "language": "TypeScript",
+   "topics": [],
+   "stars": 18454,
+   "forks": 2007,
+   "created": "2026-01-23",
+   "age": 304,
+   "velocity": 294,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/126759922?v=4",
+   "score": 7.178,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-18",
+     16904
+    ],
+    [
+     "2026-11-19",
+     17208
+    ],
+    [
+     "2026-11-20",
+     17566
+    ],
+    [
+     "2026-11-21",
+     17850
+    ],
+    [
+     "2026-11-22",
+     18114
+    ],
+    [
+     "2026-11-23",
+     18454
+    ]
+   ],
+   "rising": {
+    "ratio": 0.01593,
+    "accel": 4.8,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.1221,
+   "commits": 834,
+   "contributors": 55,
+   "suspect": false,
+   "adj_score": 7.178,
+   "summary": "Cursor plugin specification and official plugins",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "nightly-labs/openbot",
+   "url": "https://github.com/nightly-labs/openbot",
+   "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+   "language": "TypeScript",
+   "topics": [
+    "ai-agents",
+    "bun",
+    "codex",
+    "electron",
+    "local-first",
+    "macos"
+   ],
+   "stars": 9840,
+   "forks": 966,
+   "created": "2026-08-12",
+   "age": 103,
+   "velocity": 182.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/100160810?v=4",
+   "score": 7.085,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     6708
+    ],
+    [
+     "2026-11-11",
+     6900
+    ],
+    [
+     "2026-11-12",
+     7100
+    ],
+    [
+     "2026-11-13",
+     7314
+    ],
+    [
+     "2026-11-14",
+     7898
+    ],
+    [
+     "2026-11-15",
+     7988
+    ],
+    [
+     "2026-11-16",
+     7988
+    ],
+    [
+     "2026-11-17",
+     8304
+    ],
+    [
+     "2026-11-18",
+     8655
+    ],
+    [
+     "2026-11-19",
+     8984
+    ],
+    [
+     "2026-11-20",
+     9234
+    ],
+    [
+     "2026-11-21",
+     9472
+    ],
+    [
+     "2026-11-22",
+     9658
+    ],
+    [
+     "2026-11-23",
+     9840
+    ]
+   ],
+   "rising": {
+    "ratio": 0.0185,
+    "accel": 1.9,
+    "release": "v0.76.1",
+    "release_date": "2026-11-21"
+   },
+   "engagement": 1.0141,
+   "commits": 5244,
+   "contributors": 56,
+   "suspect": false,
+   "adj_score": 7.085,
+   "summary": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "HKUDS/CLI-Anything",
+   "url": "https://github.com/HKUDS/CLI-Anything",
+   "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "language": "Python",
+   "topics": [],
+   "stars": 62785,
+   "forks": 5699,
+   "created": "2026-03-08",
+   "age": 260,
+   "velocity": 699,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
+   "score": 6.912,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-19",
+     59750
+    ],
+    [
+     "2026-11-20",
+     60572
+    ],
+    [
+     "2026-11-21",
+     61393
+    ],
+    [
+     "2026-11-22",
+     62082
+    ],
+    [
+     "2026-11-23",
+     62785
+    ]
+   ],
+   "rising": {
+    "ratio": 0.01113,
+    "accel": 2.9,
+    "release": "v0.4.0",
+    "release_date": "2026-06-25"
+   },
+   "engagement": 0.0975,
+   "commits": 893,
+   "contributors": 111,
+   "suspect": false,
+   "adj_score": 6.912,
+   "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "we-promise/sure",
+   "url": "https://github.com/we-promise/sure",
+   "description": "The personal finance app for everyone (by everyone)",
+   "language": "Ruby",
+   "topics": [],
+   "stars": 17340,
+   "forks": 1523,
+   "created": "2025-07-23",
+   "age": 488,
+   "velocity": 253.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/222344567?v=4",
+   "score": 6.689,
+   "default_branch": "main",
+   "flags": [
+    {
+     "kind": "migrated",
+     "text": "首个提交在 2024-02-02，比仓库创建早 537 天：老项目迁移或私有项目首次公开"
+    }
+   ],
+   "trend": [
+    [
+     "2026-11-11",
+     11967
+    ],
+    [
+     "2026-11-12",
+     12987
+    ],
+    [
+     "2026-11-13",
+     13932
+    ],
+    [
+     "2026-11-14",
+     15588
+    ],
+    [
+     "2026-11-15",
+     15722
+    ],
+    [
+     "2026-11-16",
+     15722
+    ],
+    [
+     "2026-11-17",
+     16013
+    ],
+    [
+     "2026-11-18",
+     16274
+    ],
+    [
+     "2026-11-19",
+     16502
+    ],
+    [
+     "2026-11-20",
+     16717
+    ],
+    [
+     "2026-11-21",
+     16912
+    ],
+    [
+     "2026-11-22",
+     17148
+    ],
+    [
+     "2026-11-23",
+     17340
+    ]
+   ],
+   "rising": {
+    "ratio": 0.01459,
+    "accel": 7.1,
+    "release": "v0.7.6-hotfix.2",
+    "release_date": "2026-11-21"
+   },
+   "engagement": 0.1694,
+   "commits": 4372,
+   "contributors": 494,
+   "first_commit": "2024-02-02",
+   "suspect": false,
+   "adj_score": 6.689,
+   "summary": "The personal finance app for everyone (by everyone)",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "mvanhorn/last30days-skill",
+   "url": "https://github.com/mvanhorn/last30days-skill",
+   "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "language": "Python",
+   "topics": [
+    "reddit",
+    "twitter",
+    "polymarket",
+    "youtube",
+    "instagram",
+    "tiktok"
+   ],
+   "stars": 72726,
+   "forks": 6425,
+   "created": "2026-01-23",
+   "age": 304,
+   "velocity": 675.9,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/455140?u=ca70dc656c8256c47d6739e4347937bf139c28e7&v=4",
+   "score": 6.283,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-03",
+     66372
+    ],
+    [
+     "2026-11-04",
+     66488
+    ],
+    [
+     "2026-11-13",
+     67445
+    ],
+    [
+     "2026-11-15",
+     67784
+    ],
+    [
+     "2026-11-16",
+     67784
+    ],
+    [
+     "2026-11-17",
+     68135
+    ],
+    [
+     "2026-11-18",
+     69080
+    ],
+    [
+     "2026-11-19",
+     70021
+    ],
+    [
+     "2026-11-20",
+     70805
+    ],
+    [
+     "2026-11-21",
+     71456
+    ],
+    [
+     "2026-11-22",
+     72012
+    ],
+    [
+     "2026-11-23",
+     72726
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00929,
+    "accel": 2.8,
+    "release": "v4.6.0",
+    "release_date": "2026-11-22"
+   },
+   "engagement": 0.0957,
+   "commits": 1589,
+   "contributors": 188,
+   "suspect": false,
+   "adj_score": 6.283,
+   "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "tashfeenahmed/freellmapi",
+   "url": "https://github.com/tashfeenahmed/freellmapi",
+   "description": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+   "language": "TypeScript",
+   "topics": [],
+   "stars": 56738,
+   "forks": 8092,
+   "created": "2026-04-21",
+   "age": 216,
+   "velocity": 548.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/9307356?u=767af9ef0173d08641a20511cf920aa1fd9d7455&v=4",
+   "score": 6.199,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     49752
+    ],
+    [
+     "2026-11-11",
+     50287
+    ],
+    [
+     "2026-11-12",
+     50760
+    ],
+    [
+     "2026-11-13",
+     51261
+    ],
+    [
+     "2026-11-14",
+     52733
+    ],
+    [
+     "2026-11-15",
+     52921
+    ],
+    [
+     "2026-11-16",
+     52922
+    ],
+    [
+     "2026-11-17",
+     53521
+    ],
+    [
+     "2026-11-18",
+     54076
+    ],
+    [
+     "2026-11-19",
+     54697
+    ],
+    [
+     "2026-11-20",
+     55251
+    ],
+    [
+     "2026-11-21",
+     55724
+    ],
+    [
+     "2026-11-22",
+     56190
+    ],
+    [
+     "2026-11-23",
+     56738
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00966,
+    "accel": 2.1,
+    "release": "v0.16.39",
+    "release_date": "2026-11-22"
+   },
+   "engagement": 0.1598,
+   "commits": 1153,
+   "contributors": 136,
+   "suspect": false,
+   "adj_score": 6.199,
+   "summary": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "NVIDIA/auto-ontology",
+   "url": "https://github.com/NVIDIA/auto-ontology",
+   "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+   "language": "Python",
+   "topics": [],
+   "stars": 14372,
+   "forks": 1274,
+   "created": "2026-04-27",
+   "age": 210,
+   "velocity": 194.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1728152?v=4",
+   "score": 6.126,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     11030
+    ],
+    [
+     "2026-11-11",
+     11461
+    ],
+    [
+     "2026-11-12",
+     11854
+    ],
+    [
+     "2026-11-13",
+     12254
+    ],
+    [
+     "2026-11-14",
+     12920
+    ],
+    [
+     "2026-11-15",
+     13031
+    ],
+    [
+     "2026-11-16",
+     13031
+    ],
+    [
+     "2026-11-17",
+     13318
+    ],
+    [
+     "2026-11-18",
+     13636
+    ],
+    [
+     "2026-11-19",
+     13811
+    ],
+    [
+     "2026-11-20",
+     13962
+    ],
+    [
+     "2026-11-21",
+     14058
+    ],
+    [
+     "2026-11-22",
+     14178
+    ],
+    [
+     "2026-11-23",
+     14372
+    ]
+   ],
+   "rising": {
+    "ratio": 0.0135,
+    "accel": 2.8,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.0998,
+   "commits": 1409,
+   "contributors": 49,
+   "suspect": false,
+   "adj_score": 6.126,
+   "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "alibaba/open-code-review",
+   "url": "https://github.com/alibaba/open-code-review",
+   "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "language": "Go",
+   "topics": [
+    "agent",
+    "code-review",
+    "code-review-assistant",
+    "harness",
+    "repository-level-context",
+    "agent-skills"
+   ],
+   "stars": 55421,
+   "forks": 4604,
+   "created": "2026-05-18",
+   "age": 189,
+   "velocity": 528.6,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1961952?v=4",
+   "score": 6.125,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-01",
+     49188
+    ],
+    [
+     "2026-11-12",
+     49843
+    ],
+    [
+     "2026-11-14",
+     51810
+    ],
+    [
+     "2026-11-15",
+     52123
+    ],
+    [
+     "2026-11-16",
+     52124
+    ],
+    [
+     "2026-11-17",
+     52939
+    ],
+    [
+     "2026-11-18",
+     53735
+    ],
+    [
+     "2026-11-19",
+     54174
+    ],
+    [
+     "2026-11-20",
+     54389
+    ],
+    [
+     "2026-11-21",
+     54789
+    ],
+    [
+     "2026-11-22",
+     55117
+    ],
+    [
+     "2026-11-23",
+     55421
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00954,
+    "accel": 1.8,
+    "release": "v1.14.1",
+    "release_date": "2026-11-22"
+   },
+   "engagement": 0.0969,
+   "commits": 908,
+   "contributors": 237,
+   "suspect": false,
+   "adj_score": 6.125,
+   "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "stablyai/orca",
+   "url": "https://github.com/stablyai/orca",
+   "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+   "language": "TypeScript",
+   "topics": [
+    "claude-code",
+    "codex",
+    "ghostty",
+    "terminal",
+    "opencode",
+    "orchestration"
+   ],
+   "stars": 133027,
+   "forks": 8503,
+   "created": "2026-03-17",
+   "age": 251,
+   "velocity": 1016.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/127256420?v=4",
+   "score": 6.052,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     120430
+    ],
+    [
+     "2026-11-11",
+     121476
+    ],
+    [
+     "2026-11-12",
+     122432
+    ],
+    [
+     "2026-11-13",
+     123514
+    ],
+    [
+     "2026-11-14",
+     125528
+    ],
+    [
+     "2026-11-15",
+     125804
+    ],
+    [
+     "2026-11-16",
+     125805
+    ],
+    [
+     "2026-11-17",
+     126796
+    ],
+    [
+     "2026-11-18",
+     127857
+    ],
+    [
+     "2026-11-19",
+     128912
+    ],
+    [
+     "2026-11-20",
+     129921
+    ],
+    [
+     "2026-11-21",
+     131061
+    ],
+    [
+     "2026-11-22",
+     132011
+    ],
+    [
+     "2026-11-23",
+     133027
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00764,
+    "accel": 1.9,
+    "release": "v1.4.271",
+    "release_date": "2026-11-22"
+   },
+   "engagement": 0.1595,
+   "commits": 24017,
+   "contributors": 1030,
+   "suspect": false,
+   "adj_score": 6.052,
+   "summary": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "openvinotoolkit/openvino",
+   "url": "https://github.com/openvinotoolkit/openvino",
+   "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+   "language": "C++",
+   "topics": [
+    "inference",
+    "deep-learning",
+    "openvino",
+    "ai",
+    "computer-vision",
+    "diffusion-models"
+   ],
+   "stars": 12092,
+   "forks": 3659,
+   "created": "2018-10-15",
+   "age": 2961,
+   "velocity": 158,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/55443902?v=4",
+   "score": 5.794,
+   "default_branch": "master",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-19",
+     11328
+    ],
+    [
+     "2026-11-20",
+     11568
+    ],
+    [
+     "2026-11-21",
+     11791
+    ],
+    [
+     "2026-11-22",
+     11935
+    ],
+    [
+     "2026-11-23",
+     12092
+    ]
+   ],
+   "rising": {
+    "ratio": 0.01307,
+    "accel": 38.7,
+    "release": "2026.4.1",
+    "release_date": "2026-10-01"
+   },
+   "engagement": 0.6588,
+   "commits": 24005,
+   "contributors": 833,
+   "suspect": false,
+   "adj_score": 5.794,
+   "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Nutlope/hallmark",
+   "url": "https://github.com/Nutlope/hallmark",
+   "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+   "language": "CSS",
+   "topics": [],
+   "stars": 59533,
+   "forks": 3256,
+   "created": "2026-04-27",
+   "age": 210,
+   "velocity": 462.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/63742054?u=befe4ae74b906698be965bad482d0e02fc7707ab&v=4",
+   "score": 5.407,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     51801
+    ],
+    [
+     "2026-11-11",
+     52623
+    ],
+    [
+     "2026-11-12",
+     53429
+    ],
+    [
+     "2026-11-13",
+     54022
+    ],
+    [
+     "2026-11-14",
+     55192
+    ],
+    [
+     "2026-11-15",
+     55516
+    ],
+    [
+     "2026-11-16",
+     55516
+    ],
+    [
+     "2026-11-17",
+     56142
+    ],
+    [
+     "2026-11-18",
+     56893
+    ],
+    [
+     "2026-11-19",
+     57541
+    ],
+    [
+     "2026-11-20",
+     58063
+    ],
+    [
+     "2026-11-21",
+     58597
+    ],
+    [
+     "2026-11-22",
+     59071
+    ],
+    [
+     "2026-11-23",
+     59533
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00776,
+    "accel": 1.6,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.0572,
+   "commits": 349,
+   "contributors": 16,
+   "suspect": false,
+   "adj_score": 5.407,
+   "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "cathrynlavery/diagram-design",
+   "url": "https://github.com/cathrynlavery/diagram-design",
+   "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "language": "HTML",
+   "topics": [
+    "agent-skills",
+    "claude-code",
+    "codex",
+    "data-visualization",
+    "diagrams",
+    "drawio"
+   ],
+   "stars": 70307,
+   "forks": 4714,
+   "created": "2026-04-16",
+   "age": 221,
+   "velocity": 518,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/50469282?u=531c607e0da8ba47a4c9a9c6ff818f6642f27258&v=4",
+   "score": 5.366,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-20",
+     68637
+    ],
+    [
+     "2026-11-21",
+     69288
+    ],
+    [
+     "2026-11-22",
+     69816
+    ],
+    [
+     "2026-11-23",
+     70307
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00737,
+    "accel": 1.6,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.0715,
+   "commits": 477,
+   "contributors": 79,
+   "suspect": false,
+   "adj_score": 5.366,
+   "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "toeverything/AFFiNE",
+   "url": "https://github.com/toeverything/AFFiNE",
+   "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+   "language": "TypeScript",
+   "topics": [
+    "editor",
+    "crdt",
+    "knowledge-base",
+    "markdown",
+    "miro",
+    "notion"
+   ],
+   "stars": 76829,
+   "forks": 5624,
+   "created": "2022-07-31",
+   "age": 1576,
+   "velocity": 542,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/78728988?v=4",
+   "score": 5.289,
+   "default_branch": "canary",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-20",
+     75182
+    ],
+    [
+     "2026-11-21",
+     75805
+    ],
+    [
+     "2026-11-22",
+     76311
+    ],
+    [
+     "2026-11-23",
+     76829
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00705,
+    "accel": 11.1,
+    "release": "v0.27.4",
+    "release_date": "2026-08-18"
+   },
+   "engagement": 0.1314,
+   "commits": 11582,
+   "contributors": 278,
+   "suspect": false,
+   "adj_score": 5.289,
+   "summary": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "jingyaogong/minimind",
+   "url": "https://github.com/jingyaogong/minimind",
+   "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+   "language": "Python",
+   "topics": [
+    "artificial-intelligence",
+    "large-language-model"
+   ],
+   "stars": 68664,
+   "forks": 8978,
+   "created": "2024-07-27",
+   "age": 849,
+   "velocity": 475.9,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/62287848?u=d4a009e1468818967e9bed23e8c32b92edd2b502&v=4",
+   "score": 5.134,
+   "default_branch": "master",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-18",
+     65988
+    ],
+    [
+     "2026-11-19",
+     66497
+    ],
+    [
+     "2026-11-20",
+     66878
+    ],
+    [
+     "2026-11-21",
+     67695
+    ],
+    [
+     "2026-11-22",
+     68157
+    ],
+    [
+     "2026-11-23",
+     68664
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00693,
+    "accel": 5.9,
+    "release": "v2",
+    "release_date": "2025-10-21"
+   },
+   "engagement": 0.1449,
+   "commits": 454,
+   "contributors": 29,
+   "suspect": false,
+   "adj_score": 5.134,
+   "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "xerj-org/xerj",
+   "url": "https://github.com/xerj-org/xerj",
+   "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+   "language": "Rust",
+   "topics": [
+    "elasticsearch",
+    "hybrid-search",
+    "search-engine",
+    "vector-search",
+    "agent-memory",
+    "ai-agents"
+   ],
+   "stars": 19423,
+   "forks": 1221,
+   "created": "2026-06-30",
+   "age": 146,
+   "velocity": 176.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/297525353?v=4",
+   "score": 4.927,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     18678
+    ],
+    [
+     "2026-11-11",
+     18785
+    ],
+    [
+     "2026-11-12",
+     18869
+    ],
+    [
+     "2026-11-13",
+     18973
+    ],
+    [
+     "2026-11-14",
+     19110
+    ],
+    [
+     "2026-11-15",
+     19122
+    ],
+    [
+     "2026-11-16",
+     19122
+    ],
+    [
+     "2026-11-17",
+     19155
+    ],
+    [
+     "2026-11-18",
+     19207
+    ],
+    [
+     "2026-11-19",
+     19242
+    ],
+    [
+     "2026-11-20",
+     18012
+    ],
+    [
+     "2026-11-21",
+     19088
+    ],
+    [
+     "2026-11-22",
+     19247
+    ],
+    [
+     "2026-11-23",
+     19423
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00906,
+    "accel": 1.3,
+    "release": "v1.0.0-rc.104",
+    "release_date": "2026-11-19"
+   },
+   "engagement": 0.1214,
+   "commits": 4569,
+   "contributors": 147,
+   "suspect": false,
+   "adj_score": 4.927,
+   "summary": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "AgriciDaniel/claude-seo",
+   "url": "https://github.com/AgriciDaniel/claude-seo",
+   "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+   "language": "Python",
+   "topics": [
+    "claude-code",
+    "seo",
+    "ai",
+    "ai-seo",
+    "claude-code-skill",
+    "marketing-automation"
+   ],
+   "stars": 31654,
+   "forks": 3899,
+   "created": "2026-02-07",
+   "age": 289,
+   "velocity": 246.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/223140489?u=4fbbeca530fc85f1e64339bf9445ba858879ccfd&v=4",
+   "score": 4.857,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     27721
+    ],
+    [
+     "2026-11-11",
+     27924
+    ],
+    [
+     "2026-11-12",
+     28283
+    ],
+    [
+     "2026-11-13",
+     28694
+    ],
+    [
+     "2026-11-14",
+     29426
+    ],
+    [
+     "2026-11-15",
+     29699
+    ],
+    [
+     "2026-11-16",
+     29727
+    ],
+    [
+     "2026-11-17",
+     30056
+    ],
+    [
+     "2026-11-18",
+     30406
+    ],
+    [
+     "2026-11-19",
+     30675
+    ],
+    [
+     "2026-11-20",
+     30939
+    ],
+    [
+     "2026-11-21",
+     31166
+    ],
+    [
+     "2026-11-22",
+     31408
+    ],
+    [
+     "2026-11-23",
+     31654
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00777,
+    "accel": 2.2,
+    "release": "v2.6.2",
+    "release_date": "2026-11-15"
+   },
+   "engagement": 0.1327,
+   "commits": 675,
+   "contributors": 50,
+   "suspect": false,
+   "adj_score": 4.857,
+   "summary": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "firecrawl/firecrawl",
+   "url": "https://github.com/firecrawl/firecrawl",
+   "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+   "language": "TypeScript",
+   "topics": [
+    "ai",
+    "crawler",
+    "markdown",
+    "scraper",
+    "html-to-markdown",
+    "llm"
+   ],
+   "stars": 207051,
+   "forks": 10817,
+   "created": "2024-04-15",
+   "age": 952,
+   "velocity": 915,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/135057108?v=4",
+   "score": 4.534,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-20",
+     204241
+    ],
+    [
+     "2026-11-21",
+     205282
+    ],
+    [
+     "2026-11-22",
+     206217
+    ],
+    [
+     "2026-11-23",
+     207051
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00442,
+    "accel": 4.2,
+    "release": "v2.11.0",
+    "release_date": "2026-06-19"
+   },
+   "engagement": 0.0598,
+   "commits": 6947,
+   "contributors": 170,
+   "suspect": false,
+   "adj_score": 4.534,
+   "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Renhuai123/ziwei-doushu",
+   "url": "https://github.com/Renhuai123/ziwei-doushu",
+   "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+   "language": "TypeScript",
+   "topics": [
+    "bazi",
+    "chinese-astrology",
+    "divination",
+    "fortune-telling",
+    "nextjs",
+    "open-source"
+   ],
+   "stars": 19307,
+   "forks": 3769,
+   "created": "2026-05-01",
+   "age": 206,
+   "velocity": 152.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/91890238?u=fe08d36715a4fde50dcf6c22e1bf2cc40357d4b4&v=4",
+   "score": 4.463,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     17287
+    ],
+    [
+     "2026-11-11",
+     17474
+    ],
+    [
+     "2026-11-12",
+     17606
+    ],
+    [
+     "2026-11-13",
+     17820
+    ],
+    [
+     "2026-11-14",
+     18272
+    ],
+    [
+     "2026-11-15",
+     18347
+    ],
+    [
+     "2026-11-16",
+     18349
+    ],
+    [
+     "2026-11-17",
+     18476
+    ],
+    [
+     "2026-11-18",
+     18585
+    ],
+    [
+     "2026-11-19",
+     18699
+    ],
+    [
+     "2026-11-20",
+     18909
+    ],
+    [
+     "2026-11-21",
+     19006
+    ],
+    [
+     "2026-11-22",
+     19155
+    ],
+    [
+     "2026-11-23",
+     19307
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00787,
+    "accel": 1.6,
+    "release": "v4.0-13d",
+    "release_date": "2026-10-15"
+   },
+   "engagement": 0.2006,
+   "commits": 104,
+   "contributors": 17,
+   "suspect": false,
+   "adj_score": 4.463,
+   "summary": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "vercel-labs/agent-desktop",
+   "url": "https://github.com/vercel-labs/agent-desktop",
+   "description": "Computer use CLI for AI agents",
+   "language": "Rust",
+   "topics": [
+    "accessibility",
+    "accessibility-api",
+    "ai-agents",
+    "automation",
+    "cli",
+    "desktop-automation"
+   ],
+   "stars": 26146,
+   "forks": 1963,
+   "created": "2026-02-19",
+   "age": 277,
+   "velocity": 185.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/108547162?v=4",
+   "score": 4.396,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     20489
+    ],
+    [
+     "2026-11-11",
+     21405
+    ],
+    [
+     "2026-11-12",
+     22106
+    ],
+    [
+     "2026-11-13",
+     22738
+    ],
+    [
+     "2026-11-14",
+     24077
+    ],
+    [
+     "2026-11-15",
+     24196
+    ],
+    [
+     "2026-11-16",
+     24197
+    ],
+    [
+     "2026-11-17",
+     24614
+    ],
+    [
+     "2026-11-18",
+     25008
+    ],
+    [
+     "2026-11-19",
+     25305
+    ],
+    [
+     "2026-11-20",
+     25555
+    ],
+    [
+     "2026-11-21",
+     25773
+    ],
+    [
+     "2026-11-22",
+     25961
+    ],
+    [
+     "2026-11-23",
+     26146
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00708,
+    "accel": 2.0,
+    "release": "v1.3.1",
+    "release_date": "2026-11-13"
+   },
+   "engagement": 0.0829,
+   "commits": 352,
+   "contributors": 20,
+   "suspect": false,
+   "adj_score": 4.396,
+   "summary": "Computer use CLI for AI agents",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "cloudflare/security-audit-skill",
+   "url": "https://github.com/cloudflare/security-audit-skill",
+   "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "language": "JavaScript",
+   "topics": [],
+   "stars": 77112,
+   "forks": 5197,
+   "created": "2026-06-18",
+   "age": 158,
+   "velocity": 407.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/314135?v=4",
+   "score": 4.367,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     68086
+    ],
+    [
+     "2026-11-11",
+     69346
+    ],
+    [
+     "2026-11-12",
+     70391
+    ],
+    [
+     "2026-11-13",
+     71228
+    ],
+    [
+     "2026-11-14",
+     72988
+    ],
+    [
+     "2026-11-15",
+     73253
+    ],
+    [
+     "2026-11-16",
+     73254
+    ],
+    [
+     "2026-11-17",
+     73974
+    ],
+    [
+     "2026-11-18",
+     74805
+    ],
+    [
+     "2026-11-19",
+     75382
+    ],
+    [
+     "2026-11-20",
+     75846
+    ],
+    [
+     "2026-11-21",
+     76307
+    ],
+    [
+     "2026-11-22",
+     76705
+    ],
+    [
+     "2026-11-23",
+     77112
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00528,
+    "accel": 0.8,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.0716,
+   "commits": 14,
+   "contributors": 78,
+   "suspect": false,
+   "adj_score": 4.367,
+   "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "debpalash/VoiceStudio",
+   "url": "https://github.com/debpalash/VoiceStudio",
+   "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+   "language": "Python",
+   "topics": [
+    "tts",
+    "voice-cloning",
+    "voice-generation",
+    "voice-ai",
+    "ai",
+    "cuda"
+   ],
+   "stars": 116523,
+   "forks": 12974,
+   "created": "2026-04-09",
+   "age": 228,
+   "velocity": 543.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/4178343?u=c3dadd2ebe429c753e2557c2c5c6dfcdb912969e&v=4",
+   "score": 4.3,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     106186
+    ],
+    [
+     "2026-11-11",
+     107295
+    ],
+    [
+     "2026-11-12",
+     108372
+    ],
+    [
+     "2026-11-13",
+     109217
+    ],
+    [
+     "2026-11-14",
+     111126
+    ],
+    [
+     "2026-11-15",
+     111378
+    ],
+    [
+     "2026-11-16",
+     111378
+    ],
+    [
+     "2026-11-17",
+     111949
+    ],
+    [
+     "2026-11-18",
+     112844
+    ],
+    [
+     "2026-11-19",
+     113562
+    ],
+    [
+     "2026-11-20",
+     114370
+    ],
+    [
+     "2026-11-21",
+     115428
+    ],
+    [
+     "2026-11-22",
+     115980
+    ],
+    [
+     "2026-11-23",
+     116523
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00466,
+    "accel": 1.1,
+    "release": "v0.5.8",
+    "release_date": "2026-11-12"
+   },
+   "engagement": 0.1277,
+   "commits": 8298,
+   "contributors": 161,
+   "suspect": false,
+   "adj_score": 4.3,
+   "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "ChromeDevTools/chrome-devtools-mcp",
+   "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+   "description": "Chrome DevTools for coding agents",
+   "language": "TypeScript",
+   "topics": [
+    "mcp-server",
+    "puppeteer",
+    "chrome-devtools",
+    "browser",
+    "chrome",
+    "debugging"
+   ],
+   "stars": 58845,
+   "forks": 4916,
+   "created": "2025-09-11",
+   "age": 438,
+   "velocity": 324.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/11260967?v=4",
+   "score": 4.292,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-13",
+     55177
+    ],
+    [
+     "2026-11-14",
+     56385
+    ],
+    [
+     "2026-11-15",
+     56878
+    ],
+    [
+     "2026-11-16",
+     56974
+    ],
+    [
+     "2026-11-17",
+     57689
+    ],
+    [
+     "2026-11-18",
+     58036
+    ],
+    [
+     "2026-11-19",
+     58212
+    ],
+    [
+     "2026-11-20",
+     58369
+    ],
+    [
+     "2026-11-21",
+     58543
+    ],
+    [
+     "2026-11-22",
+     58695
+    ],
+    [
+     "2026-11-23",
+     58845
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00551,
+    "accel": 2.4,
+    "release": "chrome-devtools-mcp-v1.13.0",
+    "release_date": "2026-11-11"
+   },
+   "engagement": 0.1005,
+   "commits": 1653,
+   "contributors": 177,
+   "suspect": false,
+   "adj_score": 4.292,
+   "summary": "Chrome DevTools for coding agents",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "heygen-com/hyperframes",
+   "url": "https://github.com/heygen-com/hyperframes",
+   "description": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
+   "language": "TypeScript",
+   "topics": [
+    "ai",
+    "animation",
+    "ffmpeg",
+    "gsap",
+    "html",
+    "mcp"
+   ],
+   "stars": 88287,
+   "forks": 8216,
+   "created": "2026-03-10",
+   "age": 258,
+   "velocity": 426.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/65394575?v=4",
+   "score": 4.207,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     81701
+    ],
+    [
+     "2026-11-11",
+     82325
+    ],
+    [
+     "2026-11-12",
+     82931
+    ],
+    [
+     "2026-11-13",
+     83444
+    ],
+    [
+     "2026-11-14",
+     84603
+    ],
+    [
+     "2026-11-15",
+     84757
+    ],
+    [
+     "2026-11-16",
+     84760
+    ],
+    [
+     "2026-11-17",
+     85252
+    ],
+    [
+     "2026-11-18",
+     85999
+    ],
+    [
+     "2026-11-19",
+     86534
+    ],
+    [
+     "2026-11-20",
+     87051
+    ],
+    [
+     "2026-11-21",
+     87474
+    ],
+    [
+     "2026-11-22",
+     87861
+    ],
+    [
+     "2026-11-23",
+     88287
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00483,
+    "accel": 1.2,
+    "release": "v0.9.83",
+    "release_date": "2026-11-22"
+   },
+   "engagement": 0.1036,
+   "commits": 7856,
+   "contributors": 182,
+   "suspect": false,
+   "adj_score": 4.207,
+   "summary": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "vercel-labs/agent-browser",
+   "url": "https://github.com/vercel-labs/agent-browser",
+   "description": "Browser automation CLI for AI agents",
+   "language": "Rust",
+   "topics": [],
+   "stars": 53426,
+   "forks": 3739,
+   "created": "2026-01-11",
+   "age": 316,
+   "velocity": 280.6,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/108547162?v=4",
+   "score": 4.087,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     48482
+    ],
+    [
+     "2026-11-11",
+     49226
+    ],
+    [
+     "2026-11-12",
+     49886
+    ],
+    [
+     "2026-11-13",
+     50337
+    ],
+    [
+     "2026-11-14",
+     51473
+    ],
+    [
+     "2026-11-15",
+     51641
+    ],
+    [
+     "2026-11-16",
+     51642
+    ],
+    [
+     "2026-11-17",
+     52028
+    ],
+    [
+     "2026-11-18",
+     52377
+    ],
+    [
+     "2026-11-19",
+     52652
+    ],
+    [
+     "2026-11-20",
+     52889
+    ],
+    [
+     "2026-11-21",
+     53082
+    ],
+    [
+     "2026-11-22",
+     53237
+    ],
+    [
+     "2026-11-23",
+     53426
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00525,
+    "accel": 1.7,
+    "release": "v0.43.0",
+    "release_date": "2026-11-12"
+   },
+   "engagement": 0.0876,
+   "commits": 871,
+   "contributors": 203,
+   "suspect": false,
+   "adj_score": 4.087,
+   "summary": "Browser automation CLI for AI agents",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "pbakaus/impeccable",
+   "url": "https://github.com/pbakaus/impeccable",
+   "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+   "language": "Rust",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "anti-slop",
+    "design",
+    "slop"
+   ],
+   "stars": 115031,
+   "forks": 6851,
+   "created": "2025-11-16",
+   "age": 372,
+   "velocity": 482.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/43004?u=a2129579fad3fa98301c2d64da926bbb5fb6b129&v=4",
+   "score": 4.0,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     106899
+    ],
+    [
+     "2026-11-11",
+     107611
+    ],
+    [
+     "2026-11-12",
+     108324
+    ],
+    [
+     "2026-11-13",
+     109008
+    ],
+    [
+     "2026-11-14",
+     110556
+    ],
+    [
+     "2026-11-15",
+     110769
+    ],
+    [
+     "2026-11-16",
+     110772
+    ],
+    [
+     "2026-11-17",
+     111395
+    ],
+    [
+     "2026-11-18",
+     112210
+    ],
+    [
+     "2026-11-19",
+     112913
+    ],
+    [
+     "2026-11-20",
+     113488
+    ],
+    [
+     "2026-11-21",
+     114058
+    ],
+    [
+     "2026-11-22",
+     114549
+    ],
+    [
+     "2026-11-23",
+     115031
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00419,
+    "accel": 1.6,
+    "release": "engine-v0.1.28",
+    "release_date": "2026-11-19"
+   },
+   "engagement": 0.0662,
+   "commits": 3795,
+   "contributors": 61,
+   "suspect": false,
+   "adj_score": 4.0,
+   "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "blader/humanizer",
+   "url": "https://github.com/blader/humanizer",
+   "description": "Agent skill that removes signs of AI-generated writing from text",
+   "language": "Python",
+   "topics": [
+    "agent-skills",
+    "ai-writing",
+    "claude-code",
+    "codex",
+    "cursor",
+    "prompt-engineering"
+   ],
+   "stars": 72334,
+   "forks": 5665,
+   "created": "2026-01-18",
+   "age": 309,
+   "velocity": 340.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1672?v=4",
+   "score": 3.998,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     67118
+    ],
+    [
+     "2026-11-11",
+     67569
+    ],
+    [
+     "2026-11-12",
+     67993
+    ],
+    [
+     "2026-11-13",
+     68422
+    ],
+    [
+     "2026-11-14",
+     69377
+    ],
+    [
+     "2026-11-15",
+     69486
+    ],
+    [
+     "2026-11-16",
+     69487
+    ],
+    [
+     "2026-11-17",
+     69919
+    ],
+    [
+     "2026-11-18",
+     70379
+    ],
+    [
+     "2026-11-19",
+     70833
+    ],
+    [
+     "2026-11-20",
+     71271
+    ],
+    [
+     "2026-11-21",
+     71676
+    ],
+    [
+     "2026-11-22",
+     71994
+    ],
+    [
+     "2026-11-23",
+     72334
+    ]
+   ],
+   "rising": {
+    "ratio": 0.0047,
+    "accel": 1.5,
+    "release": "v4.0.0",
+    "release_date": "2026-11-10"
+   },
+   "engagement": 0.0841,
+   "commits": 130,
+   "contributors": 34,
+   "suspect": false,
+   "adj_score": 3.998,
+   "summary": "Agent skill that removes signs of AI-generated writing from text",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "nginx/nginx",
+   "url": "https://github.com/nginx/nginx",
+   "description": "The official NGINX Open Source repository.",
+   "language": "C",
+   "topics": [
+    "content-cache",
+    "load-balancer",
+    "reverse-proxy",
+    "web-server",
+    "http",
+    "https"
+   ],
+   "stars": 32887,
+   "forks": 8382,
+   "created": "2015-06-23",
+   "age": 4171,
+   "velocity": 163,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1412239?v=4",
+   "score": 3.59,
+   "default_branch": "master",
+   "flags": [
+    {
+     "kind": "migrated",
+     "text": "首个提交在 2002-08-06，比仓库创建早 4704 天：老项目迁移或私有项目首次公开"
+    }
+   ],
+   "trend": [
+    [
+     "2026-11-20",
+     32337
+    ],
+    [
+     "2026-11-21",
+     32568
+    ],
+    [
+     "2026-11-22",
+     32735
+    ],
+    [
+     "2026-11-23",
+     32887
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00496,
+    "accel": 20.7,
+    "release": "release-1.31.9",
+    "release_date": "2026-11-18"
+   },
+   "engagement": 0.3044,
+   "commits": 8807,
+   "contributors": 129,
+   "first_commit": "2002-08-06",
+   "suspect": false,
+   "adj_score": 3.59,
+   "summary": "The official NGINX Open Source repository.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "HKUDS/DeepTutor",
+   "url": "https://github.com/HKUDS/DeepTutor",
+   "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+   "language": "Python",
+   "topics": [
+    "ai-tutor",
+    "deepresearch",
+    "interactive-learning",
+    "multi-agent-systems",
+    "rag",
+    "ai-agents"
+   ],
+   "stars": 61609,
+   "forks": 7429,
+   "created": "2025-12-28",
+   "age": 330,
+   "velocity": 251.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
+   "score": 3.529,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     57033
+    ],
+    [
+     "2026-11-10",
+     57627
+    ],
+    [
+     "2026-11-11",
+     58003
+    ],
+    [
+     "2026-11-12",
+     58346
+    ],
+    [
+     "2026-11-13",
+     58660
+    ],
+    [
+     "2026-11-14",
+     59281
+    ],
+    [
+     "2026-11-16",
+     59495
+    ],
+    [
+     "2026-11-17",
+     59790
+    ],
+    [
+     "2026-11-18",
+     60070
+    ],
+    [
+     "2026-11-19",
+     60495
+    ],
+    [
+     "2026-11-20",
+     60819
+    ],
+    [
+     "2026-11-21",
+     61103
+    ],
+    [
+     "2026-11-22",
+     61358
+    ],
+    [
+     "2026-11-23",
+     61609
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00407,
+    "accel": 1.3,
+    "release": "v1.7.4",
+    "release_date": "2026-11-20"
+   },
+   "engagement": 0.1405,
+   "commits": 4121,
+   "contributors": 321,
+   "suspect": false,
+   "adj_score": 3.529,
+   "summary": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "ifixai-ai/iFixAi",
+   "url": "https://github.com/ifixai-ai/iFixAi",
+   "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+   "language": "Python",
+   "topics": [
+    "ai",
+    "diagnostic-tool",
+    "agent-evaluation",
+    "ai-alignment",
+    "ai-evaluation",
+    "ai-governance"
+   ],
+   "stars": 46867,
+   "forks": 1829,
+   "created": "2026-04-27",
+   "age": 210,
+   "velocity": 205.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/279006089?v=4",
+   "score": 3.524,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     44320
+    ],
+    [
+     "2026-11-11",
+     44578
+    ],
+    [
+     "2026-11-12",
+     44850
+    ],
+    [
+     "2026-11-13",
+     45080
+    ],
+    [
+     "2026-11-14",
+     45745
+    ],
+    [
+     "2026-11-15",
+     45790
+    ],
+    [
+     "2026-11-16",
+     45793
+    ],
+    [
+     "2026-11-17",
+     46072
+    ],
+    [
+     "2026-11-18",
+     46227
+    ],
+    [
+     "2026-11-19",
+     46581
+    ],
+    [
+     "2026-11-20",
+     46303
+    ],
+    [
+     "2026-11-21",
+     46363
+    ],
+    [
+     "2026-11-22",
+     46662
+    ],
+    [
+     "2026-11-23",
+     46867
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00437,
+    "accel": 0.9,
+    "release": "v4.4.0",
+    "release_date": "2026-11-20"
+   },
+   "engagement": 0.0502,
+   "commits": 386,
+   "contributors": 25,
+   "suspect": false,
+   "adj_score": 3.524,
+   "summary": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "cjpais/Handy",
+   "url": "https://github.com/cjpais/Handy",
+   "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+   "language": "Rust",
+   "topics": [
+    "speech-to-text",
+    "tauri-v2",
+    "accessibility",
+    "cross-platform"
+   ],
+   "stars": 39736,
+   "forks": 3754,
+   "created": "2025-02-13",
+   "age": 648,
+   "velocity": 178.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1559480?u=2a1ffb822085da54a5150a85a6bc628cc35c3755&v=4",
+   "score": 3.472,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     38193
+    ],
+    [
+     "2026-11-11",
+     38331
+    ],
+    [
+     "2026-11-12",
+     38460
+    ],
+    [
+     "2026-11-13",
+     38586
+    ],
+    [
+     "2026-11-14",
+     38846
+    ],
+    [
+     "2026-11-15",
+     38890
+    ],
+    [
+     "2026-11-16",
+     38890
+    ],
+    [
+     "2026-11-17",
+     39010
+    ],
+    [
+     "2026-11-18",
+     39118
+    ],
+    [
+     "2026-11-19",
+     39225
+    ],
+    [
+     "2026-11-20",
+     39332
+    ],
+    [
+     "2026-11-21",
+     39440
+    ],
+    [
+     "2026-11-22",
+     39558
+    ],
+    [
+     "2026-11-23",
+     39736
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00448,
+    "accel": 2.9,
+    "release": "v0.10.1",
+    "release_date": "2026-11-14"
+   },
+   "engagement": 0.1189,
+   "commits": 964,
+   "contributors": 196,
+   "suspect": false,
+   "adj_score": 3.472,
+   "summary": "A free, open source, and extensible speech-to-text application that works completely offline.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "JustVugg/colibri",
+   "url": "https://github.com/JustVugg/colibri",
+   "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+   "language": "C",
+   "topics": [],
+   "stars": 52931,
+   "forks": 6415,
+   "created": "2026-07-01",
+   "age": 145,
+   "velocity": 218.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/13022503?u=16b428ea8d9b8897f7268ab4257b57bfbad64c45&v=4",
+   "score": 3.458,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-09",
+     49109
+    ],
+    [
+     "2026-11-10",
+     49414
+    ],
+    [
+     "2026-11-11",
+     49772
+    ],
+    [
+     "2026-11-12",
+     49979
+    ],
+    [
+     "2026-11-13",
+     50476
+    ],
+    [
+     "2026-11-14",
+     51175
+    ],
+    [
+     "2026-11-16",
+     51375
+    ],
+    [
+     "2026-11-17",
+     51588
+    ],
+    [
+     "2026-11-18",
+     51772
+    ],
+    [
+     "2026-11-19",
+     51978
+    ],
+    [
+     "2026-11-20",
+     52246
+    ],
+    [
+     "2026-11-21",
+     52483
+    ],
+    [
+     "2026-11-22",
+     52713
+    ],
+    [
+     "2026-11-23",
+     52931
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00412,
+    "accel": 0.6,
+    "release": "v2.2.0",
+    "release_date": "2026-11-22"
+   },
+   "engagement": 0.1418,
+   "commits": 6134,
+   "contributors": 220,
+   "suspect": false,
+   "adj_score": 3.458,
+   "summary": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "sherlock-project/sherlock",
+   "url": "https://github.com/sherlock-project/sherlock",
+   "description": "Hunt down social media accounts by username across social networks",
+   "language": "Python",
+   "topics": [
+    "osint",
+    "reconnaissance",
+    "linux",
+    "cli",
+    "sherlock",
+    "python3"
+   ],
+   "stars": 115866,
+   "forks": 13248,
+   "created": "2018-12-24",
+   "age": 2891,
+   "velocity": 377.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/48293496?v=4",
+   "score": 3.385,
+   "default_branch": "master",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     107070
+    ],
+    [
+     "2026-11-11",
+     109000
+    ],
+    [
+     "2026-11-12",
+     110102
+    ],
+    [
+     "2026-11-13",
+     110584
+    ],
+    [
+     "2026-11-14",
+     112246
+    ],
+    [
+     "2026-11-15",
+     112503
+    ],
+    [
+     "2026-11-16",
+     112504
+    ],
+    [
+     "2026-11-17",
+     113184
+    ],
+    [
+     "2026-11-18",
+     113777
+    ],
+    [
+     "2026-11-19",
+     114193
+    ],
+    [
+     "2026-11-20",
+     114613
+    ],
+    [
+     "2026-11-21",
+     115052
+    ],
+    [
+     "2026-11-22",
+     115489
+    ],
+    [
+     "2026-11-23",
+     115866
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00325,
+    "accel": 9.4,
+    "release": "v0.16.2",
+    "release_date": "2026-09-08"
+   },
+   "engagement": 0.1379,
+   "commits": 2934,
+   "contributors": 279,
+   "suspect": false,
+   "adj_score": 3.385,
+   "summary": "Hunt down social media accounts by username across social networks",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "Leonxlnx/taste-skill",
+   "url": "https://github.com/Leonxlnx/taste-skill",
+   "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+   "language": "JavaScript",
+   "topics": [
+    "claude-code",
+    "codex",
+    "frontend",
+    "agent-skills",
+    "ai-agents",
+    "anti-slop"
+   ],
+   "stars": 120136,
+   "forks": 8053,
+   "created": "2026-02-19",
+   "age": 277,
+   "velocity": 383.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/219127460?u=756c535309425d086d735cbbb410de4fd9013a63&v=4",
+   "score": 3.36,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     112535
+    ],
+    [
+     "2026-11-11",
+     113009
+    ],
+    [
+     "2026-11-12",
+     113591
+    ],
+    [
+     "2026-11-13",
+     114324
+    ],
+    [
+     "2026-11-14",
+     115774
+    ],
+    [
+     "2026-11-15",
+     116253
+    ],
+    [
+     "2026-11-16",
+     116254
+    ],
+    [
+     "2026-11-17",
+     116929
+    ],
+    [
+     "2026-11-18",
+     117748
+    ],
+    [
+     "2026-11-19",
+     118433
+    ],
+    [
+     "2026-11-20",
+     118911
+    ],
+    [
+     "2026-11-21",
+     119346
+    ],
+    [
+     "2026-11-22",
+     119753
+    ],
+    [
+     "2026-11-23",
+     120136
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00319,
+    "accel": 0.9,
+    "release": "v2.5.1",
+    "release_date": "2026-11-07"
+   },
+   "engagement": 0.0703,
+   "commits": 324,
+   "contributors": 22,
+   "suspect": false,
+   "adj_score": 3.36,
+   "summary": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  },
+  {
+   "name": "OpenMontageInc/OpenMontage",
+   "url": "https://github.com/OpenMontageInc/OpenMontage",
+   "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+   "language": "Python",
+   "topics": [
+    "agent",
+    "agentic-ai",
+    "ai",
+    "claude",
+    "copilot",
+    "cursor"
+   ],
+   "stars": 82419,
+   "forks": 11234,
+   "created": "2026-03-29",
+   "age": 239,
+   "velocity": 287.0,
+   "velocity_measured": true,
+   "new": false,
+   "hn": null,
+   "owner_avatar": "https://avatars.githubusercontent.com/u/332268629?v=4",
+   "score": 3.342,
+   "default_branch": "main",
+   "flags": [],
+   "trend": [
+    [
+     "2026-11-10",
+     79124
+    ],
+    [
+     "2026-11-11",
+     79433
+    ],
+    [
+     "2026-11-12",
+     79714
+    ],
+    [
+     "2026-11-13",
+     80031
+    ],
+    [
+     "2026-11-14",
+     80643
+    ],
+    [
+     "2026-11-15",
+     80727
+    ],
+    [
+     "2026-11-16",
+     80728
+    ],
+    [
+     "2026-11-17",
+     81017
+    ],
+    [
+     "2026-11-18",
+     81358
+    ],
+    [
+     "2026-11-19",
+     81573
+    ],
+    [
+     "2026-11-20",
+     81763
+    ],
+    [
+     "2026-11-21",
+     81955
+    ],
+    [
+     "2026-11-22",
+     82132
+    ],
+    [
+     "2026-11-23",
+     82419
+    ]
+   ],
+   "rising": {
+    "ratio": 0.00348,
+    "accel": 0.8,
+    "release": null,
+    "release_date": ""
+   },
+   "engagement": 0.1438,
+   "commits": 725,
+   "contributors": 114,
+   "suspect": false,
+   "adj_score": 3.342,
+   "summary": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+   "highlight": "",
+   "category": "其他",
+   "related": []
+  }
+ ],
+ "hn": [
+  {
+   "title": "I built a game where you are an LLM's subagent",
+   "url": "https://github.com/gulivan/worker755",
+   "hn_url": "https://news.ycombinator.com/item?id=50599762",
+   "points": 267,
+   "comments": 62,
+   "github": "gulivan/worker755",
+   "title_zh": ""
+  },
+  {
+   "title": "Zero C# – C# without a runtime or GC",
+   "url": "https://onurgumus.github.io/zero-csharp/index.html",
+   "hn_url": "https://news.ycombinator.com/item?id=50590279",
+   "points": 176,
+   "comments": 124,
+   "github": null,
+   "title_zh": ""
+  },
+  {
+   "title": "OpenComputer – an open source alternative to Devin",
+   "url": "https://github.com/diggerhq/opencomputer",
+   "hn_url": "https://news.ycombinator.com/item?id=50581403",
+   "points": 125,
+   "comments": 36,
+   "github": "diggerhq/opencomputer",
+   "title_zh": ""
+  },
+  {
+   "title": "The Riemann Proof Handbook",
+   "url": "https://github.com/tamnd/riemann-handbook",
+   "hn_url": "https://news.ycombinator.com/item?id=50596664",
+   "points": 83,
+   "comments": 58,
+   "github": "tamnd/riemann-handbook",
+   "title_zh": ""
+  },
+  {
+   "title": "I made a PS1 style racing game",
+   "url": "https://outpostracer.com",
+   "hn_url": "https://news.ycombinator.com/item?id=50589184",
+   "points": 47,
+   "comments": 35,
+   "github": null,
+   "title_zh": ""
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.21373",
+   "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+   "upvotes": 56,
+   "summary": "WeVisForensics coordinates self-evolving visual and audio forensic inspector agents under a dual-timescale reinforcement learning policy to detect generated-video artifacts with localized evidence and high accuracy.",
+   "url": "https://huggingface.co/papers/2611.21373",
+   "github": "https://github.com/Tencent/WeVisForensics",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26444",
+   "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+   "upvotes": 53,
+   "summary": "A diagnostic benchmark of 180 simulated manipulation configurations evaluates whether embodied systems can combine history-based reasoning, precise execution, and closed-loop environmental feedback, revealing that single-view competence does not transfer to composed tasks.",
+   "url": "https://huggingface.co/papers/2611.26444",
+   "github": "https://github.com/Mind2Act/Mind2Act_World",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26409",
+   "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+   "upvotes": 45,
+   "summary": "WeMM-Video is a family of Chinese-English bilingual omni-modal foundation models that unify text, image, audio, and video processing for joint audio-visual perception and reasoning, using hybrid thinking modes and large-scale training to achieve strong open-source video understanding results.",
+   "url": "https://huggingface.co/papers/2611.26409",
+   "github": "https://github.com/Tencent/WeMM-Video",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26590",
+   "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+   "upvotes": 43,
+   "summary": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to special",
+   "url": "https://huggingface.co/papers/2611.26590",
+   "github": null,
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26629",
+   "title": "Posterior Matching Distillation",
+   "upvotes": 39,
+   "summary": "Posterior Matching Distillation trains a stochastic student to match a teacher diffusion model’s full posterior via tilted mean constraints, enabling high-quality few-step image generation without auxiliary score networks.",
+   "url": "https://huggingface.co/papers/2611.26629",
+   "github": "https://github.com/yesiltepe-hidir/PMD",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26595",
+   "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+   "upvotes": 39,
+   "summary": "A task-adaptive agentic framework utilizes 3D proxies, physics simulation, and multi-agent coordination to enhance the structural control, physical plausibility, and visual realism of generated videos.",
+   "url": "https://huggingface.co/papers/2611.26595",
+   "github": "https://github.com/FrankYang-17/Coda",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26603",
+   "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+   "upvotes": 34,
+   "summary": "A single scalable network estimates dense metric depth for images and video at native resolution, jointly improving metric accuracy, boundary sharpness, and temporal consistency.",
+   "url": "https://huggingface.co/papers/2611.26603",
+   "github": "https://github.com/apple-aiml-research/ml-depth-pro-2",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.21383",
+   "title": "The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation",
+   "upvotes": 33,
+   "summary": "A plug-and-play objective, VODA, groups per-pixel contributors by local depth to supervise all Gaussians in selected depth clusters, improving volumetric segmentation and enabling evaluation via Removal-3D and Removal Depth Error.",
+   "url": "https://huggingface.co/papers/2611.21383",
+   "github": "https://github.com/jhxcho/voda",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26107",
+   "title": "HiUni: Harmonizing Understanding and Generation in Shared Visual Space",
+   "upvotes": 25,
+   "summary": "Unified multimodal models aim to support visual understanding and generation within a single framework. However, prevailing approaches often separate their visual representations or backbone computation to accommodate the different requirements of these two tasks, which limits the degree of unificat",
+   "url": "https://huggingface.co/papers/2611.26107",
+   "github": "https://github.com/ernie-research/HiUni",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26380",
+   "title": "EgoCaptioner: Towards Comprehensive and Fine-Grained Egocentric Video Captioning",
+   "upvotes": 25,
+   "summary": "Egocentric video captioning requires fine-grained detail and accurate timing, yet current multimodal large language models (MLLMs) often miss brief actions, confuse their order, or misinterpret the wearer's motion. Existing caption formats also offer limited support for combining detailed narration ",
+   "url": "https://huggingface.co/papers/2611.26380",
+   "github": "https://github.com/cactusqq/EgoCaptioner",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26073",
+   "title": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators",
+   "upvotes": 23,
+   "summary": "A statistical test, AltRA-Test, determines when large language models can replace human annotators by comparing inter-annotator agreement in resampled mixed human-LLM panels, and evaluations show it often requires about 100 items and makes better replacement decisions than baselines.",
+   "url": "https://huggingface.co/papers/2611.26073",
+   "github": null,
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.25387",
+   "title": "TuringSpace: Grounding Spatial Intelligence in Action with Interactive CAPTCHAs",
+   "upvotes": 23,
+   "summary": "Humans act in the visual world by inferring the 3D layout behind a 2D view, predicting how an action changes it, and correcting themselves after seeing the result. Can multimodal large language models (MLLMs) do the same? CAPTCHAs offer a natural test, since humans solve them through this very loop,",
+   "url": "https://huggingface.co/papers/2611.25387",
+   "github": "https://github.com/os-cua-framework/TuringSpace",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26414",
+   "title": "ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain",
+   "upvotes": 22,
+   "summary": "ZeroVLN is a slow-fast vision-language navigation framework that avoids navigation-domain supervised fine-tuning of the VLM brain by using a semantic tool-calling interface and closed-loop reinforcement learning to coordinate a language-based brain with an action expert, improving VLN-CE performance while preserving general visual capabilities.",
+   "url": "https://huggingface.co/papers/2611.26414",
+   "github": "https://github.com/hzx122/ZeroVLN",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26627",
+   "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+   "upvotes": 20,
+   "summary": "A fixed set of steering vectors added to a frozen diffusion transformer recovers most of the quality gains from reinforcement learning post-training, indicating that much of the improvement comes from a constant shift rather than prompt-specific transformations.",
+   "url": "https://huggingface.co/papers/2611.26627",
+   "github": null,
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.21885",
+   "title": "Language Models Can Rewrite Their Own Weights",
+   "upvotes": 19,
+   "summary": "Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weights of a much smaller one. We ask whether a model can rewrite ",
+   "url": "https://huggingface.co/papers/2611.21885",
+   "github": null,
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26268",
+   "title": "Accelerating Mixture of Block Attention via Dynamic Routing, KV-Centric Execution and Runtime Pipelining",
+   "upvotes": 18,
+   "summary": "LightningMoBA combines dynamic routing, KV-centric ownership, and runtime pipelining to accelerate long-context attention while maintaining or improving quality.",
+   "url": "https://huggingface.co/papers/2611.26268",
+   "github": "https://github.com/Tencent/LightningMoBA",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.24011",
+   "title": "WAM-Policy: World Action Models with On-Policy Distillation for Quadrupedal Loco-Manipulation",
+   "upvotes": 18,
+   "summary": "Arm-free quadrupeds can perform loco-manipulation, walking on three legs while manipulating with a front leg, yet no existing policy for it follows language instructions. World action models (WAMs) have emerged as effective language-conditioned manipulation policies, but are pretrained for robot arm",
+   "url": "https://huggingface.co/papers/2611.24011",
+   "github": "https://github.com/AIGeeksGroup/WAM-Policy",
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.26408",
+   "title": "Training Vision Models for LLM-Driven Weight-Space Programming",
+   "upvotes": 17,
+   "summary": "It has been demonstrated that, in certain settings, large language models can perform weight-space programming to directly modify the weights of neural networks. However, it is unknown how dedicated training of these networks can contribute to the successes of weight-space programming. We present a ",
+   "url": "https://huggingface.co/papers/2611.26408",
+   "github": null,
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.25980",
+   "title": "Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models",
+   "upvotes": 17,
+   "summary": "AFFECT, an auxiliary objective that trains world models to match visual responses to temporally correlated action noise, improves rollout fidelity and planning success in simulated and real robotic tasks.",
+   "url": "https://huggingface.co/papers/2611.25980",
+   "github": null,
+   "summary_zh": ""
+  },
+  {
+   "id": "2611.24193",
+   "title": "WM^MLLM: Turning MLLMs into World Models",
+   "upvotes": 16,
+   "summary": "WM^MLLM uses multimodal large language models to maintain an external panorama state with revision history, enabling persistent, editable world generation from a single image with exact revisits and local edits.",
+   "url": "https://huggingface.co/papers/2611.24193",
+   "github": "https://github.com/ztMotaLee/WM_mllm",
+   "summary_zh": ""
+  }
+ ]
+}
